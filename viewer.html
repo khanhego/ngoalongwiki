@@ -260,16 +260,45 @@
       `).join('');
     }
 
+    function revealInTree(sectionId, { collapseOthers = false } = {}) {
+      const entry = searchIndex.find(e => e.id === sectionId);
+      const docSlug = entry?.docSlug
+        || sectionId.replace(`${collectionId}/`, '').split('/').slice(0, 1)[0];
+
+      if (collapseOthers) {
+        document.querySelectorAll('.tree-doc-header').forEach(el => el.classList.remove('open'));
+        document.querySelectorAll('.tree-sections').forEach(el => el.classList.remove('open'));
+      }
+      document.querySelectorAll('.tree-section').forEach(el => el.classList.remove('active'));
+
+      const docEl = document.querySelector(`[data-doc="${docSlug}"]`);
+      if (docEl) {
+        docEl.querySelector('.tree-doc-header')?.classList.add('open');
+        document.getElementById(`sections-${docSlug}`)?.classList.add('open');
+      }
+
+      const active = document.querySelector(`[data-id="${CSS.escape(sectionId)}"]`)
+        || document.querySelector(`[data-id="${sectionId}"]`);
+      if (active) {
+        active.classList.add('active');
+        requestAnimationFrame(() => {
+          active.scrollIntoView({ block: 'nearest', behavior: 'smooth' });
+        });
+      }
+    }
+
     function toggleDoc(docId) {
-      document.querySelector(`[data-doc="${docId}"] .tree-doc-header`).classList.toggle('open');
-      document.getElementById(`sections-${docId}`).classList.toggle('open');
+      const header = document.querySelector(`[data-doc="${docId}"] .tree-doc-header`);
+      const sections = document.getElementById(`sections-${docId}`);
+      if (!header || !sections) return;
+      header.classList.toggle('open');
+      sections.classList.toggle('open');
     }
 
     async function loadSection(id, file, event) {
       if (event) event.stopPropagation();
-      document.querySelectorAll('.tree-section').forEach(el => el.classList.remove('active'));
-      const active = document.querySelector(`[data-id="${id}"]`);
-      if (active) active.classList.add('active');
+
+      revealInTree(id, { collapseOthers: !event });
 
       const entry = searchIndex.find(e => e.id === id);
       const filePath = entry ? entry.file : `content/${collectionId}/${file}`;
