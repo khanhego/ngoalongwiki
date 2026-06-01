@@ -134,8 +134,32 @@
     .content-area h1 { font-size: 1.8rem; margin-bottom: 16px; color: var(--accent); }
     .content-area h2 { font-size: 1.4rem; margin: 24px 0 12px; border-bottom: 1px solid var(--border); padding-bottom: 8px; }
     .content-area h3 { font-size: 1.15rem; margin: 20px 0 10px; color: #d4b84a; }
-    .content-area p, .content-area li { line-height: 1.7; margin-bottom: 8px; }
-    .content-area ul, .content-area ol { padding-left: 24px; margin-bottom: 12px; }
+    .content-area p { line-height: 1.75; margin-bottom: 12px; text-align: justify; }
+    .content-area strong { color: #e8edf4; }
+    .content-area ul, .content-area ol {
+      padding-left: 1.5em;
+      margin: 10px 0 14px;
+      line-height: 1.75;
+    }
+    .content-area li { margin-bottom: 6px; }
+    .content-area li ul, .content-area li ol { margin-top: 6px; margin-bottom: 6px; }
+    .content-area table.wiki-table {
+      width: 100%;
+      border-collapse: collapse;
+      margin: 16px 0 20px;
+      font-size: 0.9rem;
+      line-height: 1.5;
+    }
+    .content-area table.wiki-table td,
+    .content-area table.wiki-table th {
+      border: 1px solid var(--border);
+      padding: 10px 12px;
+      vertical-align: top;
+      text-align: left;
+    }
+    .content-area table.wiki-table tr:nth-child(even) td {
+      background: rgba(255, 255, 255, 0.03);
+    }
     .content-area img {
       max-width: 100%;
       height: auto;
@@ -314,6 +338,8 @@
     });
 
     loadData();
+
+    marked.setOptions({ breaks: true, gfm: true });
   </script>
 </body>
 </html>

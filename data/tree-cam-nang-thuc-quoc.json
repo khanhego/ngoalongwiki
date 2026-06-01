@@ -34,20 +34,6 @@
           "file": "01-cam-nang-tan-thu/cam-nang-tan-thu.md"
         },
         {
-          "id": "01-cam-nang-tan-thu/1-thanh-chinh-cap-110",
-          "title": "1. Thành chính cấp 110:",
-          "type": "section",
-          "level": "h3",
-          "file": "01-cam-nang-tan-thu/1-thanh-chinh-cap-110.md"
-        },
-        {
-          "id": "01-cam-nang-tan-thu/50-tai-lap-bang-bac-ngau-nhien-sap-xep-lai-cap-cua-cac-loai",
-          "title": "50. Tái lập bằng bạc ngẫu nhiên sắp xếp lại cấp của các loại",
-          "type": "section",
-          "level": "h3",
-          "file": "01-cam-nang-tan-thu/50-tai-lap-bang-bac-ngau-nhien-sap-xep-lai-cap-cua-cac-loai.md"
-        },
-        {
           "id": "01-cam-nang-tan-thu/2-thanh-chinh-cap-129",
           "title": "2. Thành chính cấp 129:",
           "type": "section",
@@ -76,25 +62,11 @@
           "file": "01-cam-nang-tan-thu/3-chuan-bi-cho-giai-đoan-thuong-co.md"
         },
         {
-          "id": "01-cam-nang-tan-thu/1-cac-tinh-nang-cap-thanh-chinh",
-          "title": "1. Các Tính Năng Cấp Thành Chính",
-          "type": "section",
-          "level": "h3",
-          "file": "01-cam-nang-tan-thu/1-cac-tinh-nang-cap-thanh-chinh.md"
-        },
-        {
           "id": "01-cam-nang-tan-thu/2-chuan-bi-cho-giai-đoan-thai-so",
           "title": "2. Chuẩn Bị Cho Giai đoạn Thái Sơ:",
           "type": "section",
           "level": "h3",
           "file": "01-cam-nang-tan-thu/2-chuan-bi-cho-giai-đoan-thai-so.md"
-        },
-        {
-          "id": "01-cam-nang-tan-thu/1-cac-tinh-nang-cap-thanh-chinh",
-          "title": "1. Các Tính Năng Cấp Thành Chính",
-          "type": "section",
-          "level": "h3",
-          "file": "01-cam-nang-tan-thu/1-cac-tinh-nang-cap-thanh-chinh.md"
         },
         {
           "id": "01-cam-nang-tan-thu/2-chuan-bi-cho-cam-nang-nang-cao",
@@ -176,11 +148,11 @@
           "file": "02-tai-nguyen/8-hon-tuong.md"
         },
         {
-          "id": "02-tai-nguyen/9-nguyen-lieu-binh-chung",
-          "title": "9. Nguyên Liệu Binh Chủng",
+          "id": "02-tai-nguyen/9-nguyen-lieu-binh-chung---binh-chung-co-6-cap",
+          "title": "9. Nguyên Liệu Binh Chủng - Binh Chủng có 6 cấp.",
           "type": "section",
           "level": "h3",
-          "file": "02-tai-nguyen/9-nguyen-lieu-binh-chung.md"
+          "file": "02-tai-nguyen/9-nguyen-lieu-binh-chung---binh-chung-co-6-cap.md"
         },
         {
           "id": "02-tai-nguyen/10-binh-thu",
@@ -204,11 +176,11 @@
           "file": "02-tai-nguyen/12-sach-ki-nang.md"
         },
         {
-          "id": "02-tai-nguyen/13-vu-khi-đac-biet---an-ke-thua",
-          "title": "13. Vũ Khí Đặc Biệt - Ấn Kế Thừa",
+          "id": "02-tai-nguyen/13-vu-khi-đac-biet",
+          "title": "13. Vũ Khí Đặc Biệt",
           "type": "section",
           "level": "h3",
-          "file": "02-tai-nguyen/13-vu-khi-đac-biet---an-ke-thua.md"
+          "file": "02-tai-nguyen/13-vu-khi-đac-biet.md"
         },
         {
           "id": "02-tai-nguyen/14-ngoc-đuc",
@@ -234,18 +206,11 @@
           "file": "03-trang-bi/trang-bi.md"
         },
         {
-          "id": "03-trang-bi/1-trang-bi",
-          "title": "1. Trang Bị:",
+          "id": "03-trang-bi/2-chien-ky---chien-ky-đuoc-mo-khi-tchinh-đat-cap-220---chien-ky-co-4-pham-chat",
+          "title": "2. Chiến Kỳ: - Chiến Kỳ được mở khi T.Chinh đạt cấp 220 - Chiến Kỳ có 4 phẩm chất",
           "type": "section",
           "level": "h3",
-          "file": "03-trang-bi/1-trang-bi.md"
-        },
-        {
-          "id": "03-trang-bi/2-chien-ky",
-          "title": "2. Chiến Kỳ:",
-          "type": "section",
-          "level": "h3",
-          "file": "03-trang-bi/2-chien-ky.md"
+          "file": "03-trang-bi/2-chien-ky---chien-ky-đuoc-mo-khi-tchinh-đat-cap-220---chien-ky-co-4-pham-chat.md"
         },
         {
           "id": "03-trang-bi/3-bau-vat",
@@ -351,11 +316,11 @@
           "file": "09-quy-tu/quy-tu-20.md"
         },
         {
-          "id": "09-quy-tu/1-giai-đoan-hoc-van",
-          "title": "1. Giai đoạn Học Vấn",
+          "id": "09-quy-tu/1-giai-đoan-hoc-van-a-giai-đoan-thuoc-tinh",
+          "title": "1. Giai đoạn Học Vấn a. Giai đoạn Thuộc Tính",
           "type": "section",
           "level": "h3",
-          "file": "09-quy-tu/1-giai-đoan-hoc-van.md"
+          "file": "09-quy-tu/1-giai-đoan-hoc-van-a-giai-đoan-thuoc-tinh.md"
         },
         {
           "id": "09-quy-tu/2-giai-đoan-trung-tu-thuc-tinh",
@@ -402,11 +367,11 @@
           "file": "10-su-kien/su-kien.md"
         },
         {
-          "id": "10-su-kien/1-su-kien-co-đinh",
-          "title": "1. Sự Kiện Cố Định:",
+          "id": "10-su-kien/1-su-kien-co-đinh-a-co-đinh-tuan",
+          "title": "1. Sự Kiện Cố Định: a. Cố Định Tuần",
           "type": "section",
           "level": "h3",
-          "file": "10-su-kien/1-su-kien-co-đinh.md"
+          "file": "10-su-kien/1-su-kien-co-đinh-a-co-đinh-tuan.md"
         },
         {
           "id": "10-su-kien/2-su-kien-ngau-nhien",

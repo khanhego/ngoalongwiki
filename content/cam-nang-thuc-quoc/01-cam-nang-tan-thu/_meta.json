@@ -11,16 +11,6 @@
       "level": "h1",
       "file": "01-cam-nang-tan-thu/cam-nang-tan-thu.md",
       "pages": [
-        1
-      ],
-      "imageCount": 0
-    },
-    {
-      "slug": "1-thanh-chinh-cap-110",
-      "title": "1. Thành chính cấp 110:",
-      "level": "h3",
-      "file": "01-cam-nang-tan-thu/1-thanh-chinh-cap-110.md",
-      "pages": [
         1,
         2,
         3,
@@ -30,18 +20,7 @@
         7,
         8
       ],
-      "imageCount": 12
-    },
-    {
-      "slug": "50-tai-lap-bang-bac-ngau-nhien-sap-xep-lai-cap-cua-cac-loai",
-      "title": "50. Tái lập bằng bạc ngẫu nhiên sắp xếp lại cấp của các loại",
-      "level": "h3",
-      "file": "01-cam-nang-tan-thu/50-tai-lap-bang-bac-ngau-nhien-sap-xep-lai-cap-cua-cac-loai.md",
-      "pages": [
-        8,
-        9
-      ],
-      "imageCount": 1
+      "imageCount": 13
     },
     {
       "slug": "2-thanh-chinh-cap-129",
@@ -70,8 +49,7 @@
       "pages": [
         18,
         19,
-        20,
-        21
+        20
       ],
       "imageCount": 3
     },
@@ -98,23 +76,13 @@
       "file": "01-cam-nang-tan-thu/3-chuan-bi-cho-giai-đoan-thuong-co.md",
       "pages": [
         27,
-        28
-      ],
-      "imageCount": 1
-    },
-    {
-      "slug": "1-cac-tinh-nang-cap-thanh-chinh",
-      "title": "1. Các Tính Năng Cấp Thành Chính",
-      "level": "h3",
-      "file": "01-cam-nang-tan-thu/1-cac-tinh-nang-cap-thanh-chinh.md",
-      "pages": [
         28,
         29,
         30,
         31,
         32
       ],
-      "imageCount": 3
+      "imageCount": 4
     },
     {
       "slug": "2-chuan-bi-cho-giai-đoan-thai-so",
@@ -123,16 +91,6 @@
       "file": "01-cam-nang-tan-thu/2-chuan-bi-cho-giai-đoan-thai-so.md",
       "pages": [
         32,
-        33
-      ],
-      "imageCount": 0
-    },
-    {
-      "slug": "1-cac-tinh-nang-cap-thanh-chinh",
-      "title": "1. Các Tính Năng Cấp Thành Chính",
-      "level": "h3",
-      "file": "01-cam-nang-tan-thu/1-cac-tinh-nang-cap-thanh-chinh.md",
-      "pages": [
         33
       ],
       "imageCount": 0

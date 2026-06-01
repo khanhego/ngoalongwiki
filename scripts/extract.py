@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Trích xuất PDF thành markdown có cấu trúc cây + ảnh xen kẽ theo vị trí PDF."""
+"""Trích xuất PDF thành markdown có cấu trúc cây + ảnh xen kẽ + bảng."""
 
 import json
 import sys
@@ -9,6 +9,15 @@ from typing import Dict, List, Optional
 import fitz  # PyMuPDF
 
 from common import is_likely_heading, normalize_line, slugify
+from pdf_format import (
+    extract_tables,
+    extract_text_lines,
+    get_table_bboxes,
+    group_lines_by_gap,
+    lines_to_markdown,
+    merge_lines,
+    split_text_by_headings,
+)
 
 SOURCE_DIR = Path(__file__).resolve().parent.parent.parent / "Cẩm Nang Thục Quốc"
 WIKI_ROOT = Path(__file__).resolve().parent.parent
@@ -64,14 +73,21 @@ def extract_page_elements(
     xref_to_file: Dict[int, str],
 ) -> List[dict]:
     raw: List[dict] = []
-    for block in page.get_text("blocks"):
-        x0, y0, x1, y1, text, _, block_type = block
-        if block_type != 0:
-            continue
-        text = text.strip()
-        if not text:
-            continue
-        raw.append({"type": "text", "y0": y0, "x0": x0, "text": text})
+    table_bboxes = get_table_bboxes(page)
+
+    text_lines = extract_text_lines(page, table_bboxes)
+    for group in group_lines_by_gap(text_lines):
+        merged = merge_lines(group)
+        md = lines_to_markdown(merged)
+        if md.strip():
+            raw.append({
+                "type": "text",
+                "y0": group[0]["y0"],
+                "x0": group[0]["x0"],
+                "text": md,
+            })
+
+    raw.extend(extract_tables(page))
 
     for img in page.get_images(full=True):
         xref = img[0]
@@ -109,26 +125,23 @@ def extract_pages(pdf_path: Path, slug: str, images_dir: Path) -> List[dict]:
     return pages
 
 
-def _flush_text_buffer(buffer: List[str], blocks: List[dict]) -> None:
-    if not buffer:
-        return
-    text = "\n".join(buffer).strip()
-    if text:
-        blocks.append({"type": "text", "text": text})
-    buffer.clear()
+def _extract_leading_heading(text: str) -> Optional[tuple]:
+    """Tách heading ở đầu block text. Trả (level, title, remainder) hoặc None."""
+    chunks = split_text_by_headings(text)
+    if not chunks or not chunks[0].get("heading"):
+        return None
+    first = chunks[0]
+    level, title = first["heading"]
+    return level, title, first.get("text", "")
 
 
 def split_pages_into_sections(pages: List[dict], doc_title: str) -> List[dict]:
     sections: List[dict] = []
     current: Optional[dict] = None
-    text_buffer: List[str] = []
 
     def flush_section():
         nonlocal current
-        if current is None:
-            return
-        _flush_text_buffer(text_buffer, current["content_blocks"])
-        if current["content_blocks"]:
+        if current and current["content_blocks"]:
             sections.append(current)
         current = None
 
@@ -149,30 +162,31 @@ def split_pages_into_sections(pages: List[dict], doc_title: str) -> List[dict]:
         page_num = page["page_num"]
         for elem in page["elements"]:
             if elem["type"] == "image":
-                _flush_text_buffer(text_buffer, current["content_blocks"])
                 current["content_blocks"].append({
                     "type": "image",
                     "path": elem["path"],
                     "page": elem["page"],
                 })
-                if page_num not in current["pages"]:
-                    current["pages"].append(page_num)
-                continue
+            elif elem["type"] == "table":
+                current["content_blocks"].append({
+                    "type": "table",
+                    "html": elem["html"],
+                })
+            elif elem["type"] == "text":
+                for chunk in split_text_by_headings(elem["text"]):
+                    if chunk.get("heading"):
+                        level, title = chunk["heading"]
+                        if not (
+                            _heading_matches_title(title, current["title"])
+                            and not current["content_blocks"]
+                        ):
+                            start_section(level, title)
+                    body = chunk.get("text", "").strip()
+                    if body:
+                        current["content_blocks"].append({"type": "text", "text": body})
 
-            for line in elem["text"].split("\n"):
-                normalized = normalize_line(line)
-                if not normalized:
-                    text_buffer.append("")
-                    continue
-                heading = is_likely_heading(normalized)
-                if heading:
-                    _flush_text_buffer(text_buffer, current["content_blocks"])
-                    level, title = heading
-                    flush_section()
-                    start_section(level, title)
-                text_buffer.append(normalized)
-                if page_num not in current["pages"]:
-                    current["pages"].append(page_num)
+            if page_num not in current["pages"]:
+                current["pages"].append(page_num)
 
     flush_section()
     return sections
@@ -182,18 +196,30 @@ def section_to_markdown(section: dict) -> str:
     level = section["level"]
     prefix = {"h1": "#", "h2": "##", "h3": "###"}.get(level, "##")
     lines = [f"{prefix} {section['title']}", ""]
+
     for block in section.get("content_blocks", []):
-        if block["type"] == "text":
+        btype = block["type"]
+        if btype == "text":
             lines.append(block["text"])
             lines.append("")
-        elif block["type"] == "image":
+        elif btype == "image":
             lines.append(f'![Trang {block["page"]}]({block["path"]})')
             lines.append("")
+        elif btype == "table":
+            lines.append(block["html"])
+            lines.append("")
+
     return "\n".join(lines).rstrip() + "\n"
 
 
 def count_images(section: dict) -> int:
     return sum(1 for b in section.get("content_blocks", []) if b["type"] == "image")
+
+
+def _heading_matches_title(heading_title: str, section_title: str) -> bool:
+    a = normalize_line(heading_title).lower()
+    b = normalize_line(section_title).lower()
+    return a == b or a in b or b in a
 
 
 def extract_document(catalog_entry: dict) -> dict:
@@ -205,6 +231,10 @@ def extract_document(catalog_entry: dict) -> dict:
     out_dir = CONTENT_DIR / slug
     images_dir = out_dir / "images"
     out_dir.mkdir(parents=True, exist_ok=True)
+
+    # Xóa markdown cũ tránh file orphan
+    for old_md in out_dir.glob("*.md"):
+        old_md.unlink()
 
     pages = extract_pages(pdf_path, slug, images_dir)
     sections = split_pages_into_sections(pages, catalog_entry["title"])

@@ -32,16 +32,6 @@
         "level": "h1",
         "file": "01-cam-nang-tan-thu/cam-nang-tan-thu.md",
         "pages": [
-          1
-        ],
-        "imageCount": 0
-      },
-      {
-        "slug": "1-thanh-chinh-cap-110",
-        "title": "1. Thành chính cấp 110:",
-        "level": "h3",
-        "file": "01-cam-nang-tan-thu/1-thanh-chinh-cap-110.md",
-        "pages": [
           1,
           2,
           3,
@@ -51,18 +41,7 @@
           7,
           8
         ],
-        "imageCount": 12
-      },
-      {
-        "slug": "50-tai-lap-bang-bac-ngau-nhien-sap-xep-lai-cap-cua-cac-loai",
-        "title": "50. Tái lập bằng bạc ngẫu nhiên sắp xếp lại cấp của các loại",
-        "level": "h3",
-        "file": "01-cam-nang-tan-thu/50-tai-lap-bang-bac-ngau-nhien-sap-xep-lai-cap-cua-cac-loai.md",
-        "pages": [
-          8,
-          9
-        ],
-        "imageCount": 1
+        "imageCount": 13
       },
       {
         "slug": "2-thanh-chinh-cap-129",
@@ -91,8 +70,7 @@
         "pages": [
           18,
           19,
-          20,
-          21
+          20
         ],
         "imageCount": 3
       },
@@ -119,23 +97,13 @@
         "file": "01-cam-nang-tan-thu/3-chuan-bi-cho-giai-đoan-thuong-co.md",
         "pages": [
           27,
-          28
-        ],
-        "imageCount": 1
-      },
-      {
-        "slug": "1-cac-tinh-nang-cap-thanh-chinh",
-        "title": "1. Các Tính Năng Cấp Thành Chính",
-        "level": "h3",
-        "file": "01-cam-nang-tan-thu/1-cac-tinh-nang-cap-thanh-chinh.md",
-        "pages": [
           28,
           29,
           30,
           31,
           32
         ],
-        "imageCount": 3
+        "imageCount": 4
       },
       {
         "slug": "2-chuan-bi-cho-giai-đoan-thai-so",
@@ -144,16 +112,6 @@
         "file": "01-cam-nang-tan-thu/2-chuan-bi-cho-giai-đoan-thai-so.md",
         "pages": [
           32,
-          33
-        ],
-        "imageCount": 0
-      },
-      {
-        "slug": "1-cac-tinh-nang-cap-thanh-chinh",
-        "title": "1. Các Tính Năng Cấp Thành Chính",
-        "level": "h3",
-        "file": "01-cam-nang-tan-thu/1-cac-tinh-nang-cap-thanh-chinh.md",
-        "pages": [
           33
         ],
         "imageCount": 0
@@ -283,10 +241,10 @@
         "imageCount": 0
       },
       {
-        "slug": "9-nguyen-lieu-binh-chung",
-        "title": "9. Nguyên Liệu Binh Chủng",
+        "slug": "9-nguyen-lieu-binh-chung---binh-chung-co-6-cap",
+        "title": "9. Nguyên Liệu Binh Chủng - Binh Chủng có 6 cấp.",
         "level": "h3",
-        "file": "02-tai-nguyen/9-nguyen-lieu-binh-chung.md",
+        "file": "02-tai-nguyen/9-nguyen-lieu-binh-chung---binh-chung-co-6-cap.md",
         "pages": [
           16,
           17,
@@ -335,10 +293,10 @@
         "imageCount": 17
       },
       {
-        "slug": "13-vu-khi-đac-biet---an-ke-thua",
-        "title": "13. Vũ Khí Đặc Biệt - Ấn Kế Thừa",
+        "slug": "13-vu-khi-đac-biet",
+        "title": "13. Vũ Khí Đặc Biệt",
         "level": "h3",
-        "file": "02-tai-nguyen/13-vu-khi-đac-biet---an-ke-thua.md",
+        "file": "02-tai-nguyen/13-vu-khi-đac-biet.md",
         "pages": [
           28,
           29,
@@ -374,16 +332,6 @@
         "file": "03-trang-bi/trang-bi.md",
         "pages": [
           1,
-          2
-        ],
-        "imageCount": 10
-      },
-      {
-        "slug": "1-trang-bi",
-        "title": "1. Trang Bị:",
-        "level": "h3",
-        "file": "03-trang-bi/1-trang-bi.md",
-        "pages": [
           2,
           3,
           4,
@@ -399,13 +347,13 @@
           14,
           15
         ],
-        "imageCount": 65
+        "imageCount": 75
       },
       {
-        "slug": "2-chien-ky",
-        "title": "2. Chiến Kỳ:",
+        "slug": "2-chien-ky---chien-ky-đuoc-mo-khi-tchinh-đat-cap-220---chien-ky-co-4-pham-chat",
+        "title": "2. Chiến Kỳ: - Chiến Kỳ được mở khi T.Chinh đạt cấp 220 - Chiến Kỳ có 4 phẩm chất",
         "level": "h3",
-        "file": "03-trang-bi/2-chien-ky.md",
+        "file": "03-trang-bi/2-chien-ky---chien-ky-đuoc-mo-khi-tchinh-đat-cap-220---chien-ky-co-4-pham-chat.md",
         "pages": [
           15,
           16,
@@ -617,10 +565,10 @@
         "imageCount": 2
       },
       {
-        "slug": "1-giai-đoan-hoc-van",
-        "title": "1. Giai đoạn Học Vấn",
+        "slug": "1-giai-đoan-hoc-van-a-giai-đoan-thuoc-tinh",
+        "title": "1. Giai đoạn Học Vấn a. Giai đoạn Thuộc Tính",
         "level": "h3",
-        "file": "09-quy-tu/1-giai-đoan-hoc-van.md",
+        "file": "09-quy-tu/1-giai-đoan-hoc-van-a-giai-đoan-thuoc-tinh.md",
         "pages": [
           3,
           4,
@@ -695,10 +643,10 @@
         "imageCount": 0
       },
       {
-        "slug": "1-su-kien-co-đinh",
-        "title": "1. Sự Kiện Cố Định:",
+        "slug": "1-su-kien-co-đinh-a-co-đinh-tuan",
+        "title": "1. Sự Kiện Cố Định: a. Cố Định Tuần",
         "level": "h3",
-        "file": "10-su-kien/1-su-kien-co-đinh.md",
+        "file": "10-su-kien/1-su-kien-co-đinh-a-co-đinh-tuan.md",
         "pages": [
           1,
           2,

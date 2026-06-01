@@ -12,16 +12,6 @@
       "file": "03-trang-bi/trang-bi.md",
       "pages": [
         1,
-        2
-      ],
-      "imageCount": 10
-    },
-    {
-      "slug": "1-trang-bi",
-      "title": "1. Trang Bị:",
-      "level": "h3",
-      "file": "03-trang-bi/1-trang-bi.md",
-      "pages": [
         2,
         3,
         4,
@@ -37,13 +27,13 @@
         14,
         15
       ],
-      "imageCount": 65
+      "imageCount": 75
     },
     {
-      "slug": "2-chien-ky",
-      "title": "2. Chiến Kỳ:",
+      "slug": "2-chien-ky---chien-ky-đuoc-mo-khi-tchinh-đat-cap-220---chien-ky-co-4-pham-chat",
+      "title": "2. Chiến Kỳ: - Chiến Kỳ được mở khi T.Chinh đạt cấp 220 - Chiến Kỳ có 4 phẩm chất",
       "level": "h3",
-      "file": "03-trang-bi/2-chien-ky.md",
+      "file": "03-trang-bi/2-chien-ky---chien-ky-đuoc-mo-khi-tchinh-đat-cap-220---chien-ky-co-4-pham-chat.md",
       "pages": [
         15,
         16,

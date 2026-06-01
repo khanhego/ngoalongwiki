@@ -1,7 +1,5 @@
 ### 3. Trang Bị:
 
-3. Trang Bị:
-
 ![Trang 3](content/cam-nang-thuc-quoc/12-tieu-chuan-cap-310/images/img-00025.jpeg)
 
 ![Trang 3](content/cam-nang-thuc-quoc/12-tieu-chuan-cap-310/images/img-00026.jpeg)
