@@ -1,0 +1,2482 @@
+{
+  "id": "ban-mem",
+  "title": "Nội dung chung",
+  "type": "root",
+  "children": [
+    {
+      "id": "cam-nang-tong",
+      "order": 0,
+      "title": "Cẩm Nang Thục Quốc (Tổng hợp)",
+      "type": "document",
+      "source": "CẨM NANG THỤC QUỐC.docx",
+      "children": [
+        {
+          "id": "cam-nang-tong/loi-mo-đau",
+          "title": "Lời Mở Đầu",
+          "type": "section",
+          "level": "h2",
+          "file": "cam-nang-tong/loi-mo-đau.md"
+        },
+        {
+          "id": "cam-nang-tong/loi-mo-đau",
+          "title": "Lời Mở Đầu",
+          "type": "section",
+          "level": "h2",
+          "file": "cam-nang-tong/loi-mo-đau.md"
+        },
+        {
+          "id": "cam-nang-tong/giai-đoan-xanh-lam",
+          "title": "Giai Đoạn Xanh Lam",
+          "type": "section",
+          "level": "h2",
+          "file": "cam-nang-tong/giai-đoan-xanh-lam.md"
+        },
+        {
+          "id": "cam-nang-tong/giai-đoan-xanh-lam",
+          "title": "Giai Đoạn Xanh Lam",
+          "type": "section",
+          "level": "h2",
+          "file": "cam-nang-tong/giai-đoan-xanh-lam.md"
+        },
+        {
+          "id": "cam-nang-tong/tuong-chu-luc-chu-thuong",
+          "title": "Tướng chủ lực: Chu Thương",
+          "type": "section",
+          "level": "h2",
+          "file": "cam-nang-tong/tuong-chu-luc-chu-thuong.md"
+        },
+        {
+          "id": "cam-nang-tong/tuong-chu-luc-chu-thuong",
+          "title": "Tướng chủ lực: Chu Thương",
+          "type": "section",
+          "level": "h2",
+          "file": "cam-nang-tong/tuong-chu-luc-chu-thuong.md"
+        },
+        {
+          "id": "cam-nang-tong/thanh-chinh-cap-110",
+          "title": "Thành chính cấp 110:",
+          "type": "section",
+          "level": "h3",
+          "file": "cam-nang-tong/thanh-chinh-cap-110.md"
+        },
+        {
+          "id": "cam-nang-tong/thanh-chinh-cap-110",
+          "title": "Thành chính cấp 110:",
+          "type": "section",
+          "level": "h3",
+          "file": "cam-nang-tong/thanh-chinh-cap-110.md"
+        },
+        {
+          "id": "cam-nang-tong/cac-chi-so-cua-trang-bi",
+          "title": "Các chỉ số của Trang bị:",
+          "type": "section",
+          "level": "h3",
+          "file": "cam-nang-tong/cac-chi-so-cua-trang-bi.md"
+        },
+        {
+          "id": "cam-nang-tong/cac-chi-so-cua-trang-bi",
+          "title": "Các chỉ số của Trang bị:",
+          "type": "section",
+          "level": "h3",
+          "file": "cam-nang-tong/cac-chi-so-cua-trang-bi.md"
+        },
+        {
+          "id": "cam-nang-tong/chu-thuong-la-tuong-he-vat-cong",
+          "title": "Chu Thương là tướng hệ vật công:",
+          "type": "section",
+          "level": "h3",
+          "file": "cam-nang-tong/chu-thuong-la-tuong-he-vat-cong.md"
+        },
+        {
+          "id": "cam-nang-tong/chu-thuong-la-tuong-he-vat-cong",
+          "title": "Chu Thương là tướng hệ vật công:",
+          "type": "section",
+          "level": "h3",
+          "file": "cam-nang-tong/chu-thuong-la-tuong-he-vat-cong.md"
+        },
+        {
+          "id": "cam-nang-tong/cap-40-cho-quan-an",
+          "title": "Cấp 40: Chợ, Quân Ấn",
+          "type": "section",
+          "level": "h2",
+          "file": "cam-nang-tong/cap-40-cho-quan-an.md"
+        },
+        {
+          "id": "cam-nang-tong/cap-40-cho-quan-an",
+          "title": "Cấp 40: Chợ, Quân Ấn",
+          "type": "section",
+          "level": "h2",
+          "file": "cam-nang-tong/cap-40-cho-quan-an.md"
+        },
+        {
+          "id": "cam-nang-tong/shop-mua-ban-tai-nguyen",
+          "title": "Shop: mua bán tài nguyên",
+          "type": "section",
+          "level": "h2",
+          "file": "cam-nang-tong/shop-mua-ban-tai-nguyen.md"
+        },
+        {
+          "id": "cam-nang-tong/shop-mua-ban-tai-nguyen",
+          "title": "Shop: mua bán tài nguyên",
+          "type": "section",
+          "level": "h2",
+          "file": "cam-nang-tong/shop-mua-ban-tai-nguyen.md"
+        },
+        {
+          "id": "cam-nang-tong/tuoc-vi-điem-tuong",
+          "title": "Tước vị: điểm tướng",
+          "type": "section",
+          "level": "h2",
+          "file": "cam-nang-tong/tuoc-vi-điem-tuong.md"
+        },
+        {
+          "id": "cam-nang-tong/tuoc-vi-điem-tuong",
+          "title": "Tước vị: điểm tướng",
+          "type": "section",
+          "level": "h2",
+          "file": "cam-nang-tong/tuoc-vi-điem-tuong.md"
+        },
+        {
+          "id": "cam-nang-tong/thanh-tuu-nhan-điem-đau-truong",
+          "title": "Thành tựu: nhận “điểm đấu trường”",
+          "type": "section",
+          "level": "h2",
+          "file": "cam-nang-tong/thanh-tuu-nhan-điem-đau-truong.md"
+        },
+        {
+          "id": "cam-nang-tong/thanh-tuu-nhan-điem-đau-truong",
+          "title": "Thành tựu: nhận “điểm đấu trường”",
+          "type": "section",
+          "level": "h2",
+          "file": "cam-nang-tong/thanh-tuu-nhan-điem-đau-truong.md"
+        },
+        {
+          "id": "cam-nang-tong/doanh-trai-noi-chieu-mo-linh",
+          "title": "Doanh Trại: nơi chiêu mộ lính",
+          "type": "section",
+          "level": "h2",
+          "file": "cam-nang-tong/doanh-trai-noi-chieu-mo-linh.md"
+        },
+        {
+          "id": "cam-nang-tong/doanh-trai-noi-chieu-mo-linh",
+          "title": "Doanh Trại: nơi chiêu mộ lính",
+          "type": "section",
+          "level": "h2",
+          "file": "cam-nang-tong/doanh-trai-noi-chieu-mo-linh.md"
+        },
+        {
+          "id": "cam-nang-tong/cap-100-đuc",
+          "title": "Cấp 100: Đúc",
+          "type": "section",
+          "level": "h2",
+          "file": "cam-nang-tong/cap-100-đuc.md"
+        },
+        {
+          "id": "cam-nang-tong/cap-100-đuc",
+          "title": "Cấp 100: Đúc",
+          "type": "section",
+          "level": "h2",
+          "file": "cam-nang-tong/cap-100-đuc.md"
+        },
+        {
+          "id": "cam-nang-tong/cap-110-thap-thi-luyen",
+          "title": "Cấp 110: Tháp Thí Luyện",
+          "type": "section",
+          "level": "h2",
+          "file": "cam-nang-tong/cap-110-thap-thi-luyen.md"
+        },
+        {
+          "id": "cam-nang-tong/cap-110-thap-thi-luyen",
+          "title": "Cấp 110: Tháp Thí Luyện",
+          "type": "section",
+          "level": "h2",
+          "file": "cam-nang-tong/cap-110-thap-thi-luyen.md"
+        },
+        {
+          "id": "cam-nang-tong/thap-thi-luyen",
+          "title": "Tháp thí luyện",
+          "type": "section",
+          "level": "h2",
+          "file": "cam-nang-tong/thap-thi-luyen.md"
+        },
+        {
+          "id": "cam-nang-tong/thap-thi-luyen",
+          "title": "Tháp thí luyện",
+          "type": "section",
+          "level": "h2",
+          "file": "cam-nang-tong/thap-thi-luyen.md"
+        },
+        {
+          "id": "cam-nang-tong/yen-tiec-khao-quan-nhieu-nhat",
+          "title": "Yến tiệc khao quân: nhiều nhất",
+          "type": "section",
+          "level": "h2",
+          "file": "cam-nang-tong/yen-tiec-khao-quan-nhieu-nhat.md"
+        },
+        {
+          "id": "cam-nang-tong/yen-tiec-khao-quan-nhieu-nhat",
+          "title": "Yến tiệc khao quân: nhiều nhất",
+          "type": "section",
+          "level": "h2",
+          "file": "cam-nang-tong/yen-tiec-khao-quan-nhieu-nhat.md"
+        },
+        {
+          "id": "cam-nang-tong/thanh-chinh-cap-129",
+          "title": "Thành chính cấp 129:",
+          "type": "section",
+          "level": "h3",
+          "file": "cam-nang-tong/thanh-chinh-cap-129.md"
+        },
+        {
+          "id": "cam-nang-tong/thanh-chinh-cap-129",
+          "title": "Thành chính cấp 129:",
+          "type": "section",
+          "level": "h3",
+          "file": "cam-nang-tong/thanh-chinh-cap-129.md"
+        },
+        {
+          "id": "cam-nang-tong/chu-thuong-thi-tiep-tuc-tien",
+          "title": "Chu Thương thì tiếp tục tiến",
+          "type": "section",
+          "level": "h2",
+          "file": "cam-nang-tong/chu-thuong-thi-tiep-tuc-tien.md"
+        },
+        {
+          "id": "cam-nang-tong/chu-thuong-thi-tiep-tuc-tien",
+          "title": "Chu Thương thì tiếp tục tiến",
+          "type": "section",
+          "level": "h2",
+          "file": "cam-nang-tong/chu-thuong-thi-tiep-tuc-tien.md"
+        },
+        {
+          "id": "cam-nang-tong/phai-thuong-nhan-tai-thuong-xa",
+          "title": "Phái thương nhân tại Thương xã",
+          "type": "section",
+          "level": "h2",
+          "file": "cam-nang-tong/phai-thuong-nhan-tai-thuong-xa.md"
+        },
+        {
+          "id": "cam-nang-tong/phai-thuong-nhan-tai-thuong-xa",
+          "title": "Phái thương nhân tại Thương xã",
+          "type": "section",
+          "level": "h2",
+          "file": "cam-nang-tong/phai-thuong-nhan-tai-thuong-xa.md"
+        },
+        {
+          "id": "cam-nang-tong/giai-đoan-xanh-luc",
+          "title": "Giai đoạn Xanh Lục",
+          "type": "section",
+          "level": "h2",
+          "file": "cam-nang-tong/giai-đoan-xanh-luc.md"
+        },
+        {
+          "id": "cam-nang-tong/giai-đoan-xanh-luc",
+          "title": "Giai đoạn Xanh Lục",
+          "type": "section",
+          "level": "h2",
+          "file": "cam-nang-tong/giai-đoan-xanh-luc.md"
+        },
+        {
+          "id": "cam-nang-tong/tuong-chu-luc-ma-van-loc",
+          "title": "Tướng chủ lực: Mã Vân Lộc",
+          "type": "section",
+          "level": "h2",
+          "file": "cam-nang-tong/tuong-chu-luc-ma-van-loc.md"
+        },
+        {
+          "id": "cam-nang-tong/tuong-chu-luc-ma-van-loc",
+          "title": "Tướng chủ lực: Mã Vân Lộc",
+          "type": "section",
+          "level": "h2",
+          "file": "cam-nang-tong/tuong-chu-luc-ma-van-loc.md"
+        },
+        {
+          "id": "cam-nang-tong/ma-truong",
+          "title": "Mã Trường:",
+          "type": "section",
+          "level": "h3",
+          "file": "cam-nang-tong/ma-truong.md"
+        },
+        {
+          "id": "cam-nang-tong/ma-truong",
+          "title": "Mã Trường:",
+          "type": "section",
+          "level": "h3",
+          "file": "cam-nang-tong/ma-truong.md"
+        },
+        {
+          "id": "cam-nang-tong/ngay-mo-het",
+          "title": "Ngày: Mở Hết",
+          "type": "section",
+          "level": "h2",
+          "file": "cam-nang-tong/ngay-mo-het.md"
+        },
+        {
+          "id": "cam-nang-tong/ngay-mo-het",
+          "title": "Ngày: Mở Hết",
+          "type": "section",
+          "level": "h2",
+          "file": "cam-nang-tong/ngay-mo-het.md"
+        },
+        {
+          "id": "cam-nang-tong/xuong-mo-tu-ban",
+          "title": "Xưởng: Mở + Tự bán",
+          "type": "section",
+          "level": "h2",
+          "file": "cam-nang-tong/xuong-mo-tu-ban.md"
+        },
+        {
+          "id": "cam-nang-tong/xuong-mo-tu-ban",
+          "title": "Xưởng: Mở + Tự bán",
+          "type": "section",
+          "level": "h2",
+          "file": "cam-nang-tong/xuong-mo-tu-ban.md"
+        },
+        {
+          "id": "cam-nang-tong/cap-150",
+          "title": "Cấp 150:",
+          "type": "section",
+          "level": "h3",
+          "file": "cam-nang-tong/cap-150.md"
+        },
+        {
+          "id": "cam-nang-tong/cap-150",
+          "title": "Cấp 150:",
+          "type": "section",
+          "level": "h3",
+          "file": "cam-nang-tong/cap-150.md"
+        },
+        {
+          "id": "cam-nang-tong/thuong-tang-thoi-gian-kien-truc",
+          "title": "Thường: tăng Thời gian kiến trúc",
+          "type": "section",
+          "level": "h2",
+          "file": "cam-nang-tong/thuong-tang-thoi-gian-kien-truc.md"
+        },
+        {
+          "id": "cam-nang-tong/thuong-tang-thoi-gian-kien-truc",
+          "title": "Thường: tăng Thời gian kiến trúc",
+          "type": "section",
+          "level": "h2",
+          "file": "cam-nang-tong/thuong-tang-thoi-gian-kien-truc.md"
+        },
+        {
+          "id": "cam-nang-tong/cach-tang-cap-chua-cong",
+          "title": "Cách tăng cấp chúa công:",
+          "type": "section",
+          "level": "h3",
+          "file": "cam-nang-tong/cach-tang-cap-chua-cong.md"
+        },
+        {
+          "id": "cam-nang-tong/cach-tang-cap-chua-cong",
+          "title": "Cách tăng cấp chúa công:",
+          "type": "section",
+          "level": "h3",
+          "file": "cam-nang-tong/cach-tang-cap-chua-cong.md"
+        },
+        {
+          "id": "cam-nang-tong/giai-đoan-đo",
+          "title": "Giai đoạn Đỏ",
+          "type": "section",
+          "level": "h2",
+          "file": "cam-nang-tong/giai-đoan-đo.md"
+        },
+        {
+          "id": "cam-nang-tong/giai-đoan-đo",
+          "title": "Giai đoạn Đỏ",
+          "type": "section",
+          "level": "h2",
+          "file": "cam-nang-tong/giai-đoan-đo.md"
+        },
+        {
+          "id": "cam-nang-tong/tuong-đai",
+          "title": "Tướng đài",
+          "type": "section",
+          "level": "h2",
+          "file": "cam-nang-tong/tuong-đai.md"
+        },
+        {
+          "id": "cam-nang-tong/tuong-đai",
+          "title": "Tướng đài",
+          "type": "section",
+          "level": "h2",
+          "file": "cam-nang-tong/tuong-đai.md"
+        },
+        {
+          "id": "cam-nang-tong/tuong-đai-gom-3-bo-phan-chinh",
+          "title": "Tướng đài gồm 3 bộ phận chính:",
+          "type": "section",
+          "level": "h3",
+          "file": "cam-nang-tong/tuong-đai-gom-3-bo-phan-chinh.md"
+        },
+        {
+          "id": "cam-nang-tong/tuong-đai-gom-3-bo-phan-chinh",
+          "title": "Tướng đài gồm 3 bộ phận chính:",
+          "type": "section",
+          "level": "h3",
+          "file": "cam-nang-tong/tuong-đai-gom-3-bo-phan-chinh.md"
+        },
+        {
+          "id": "cam-nang-tong/cap-tuong-đai-tuong-ngoai-đai",
+          "title": "Cấp Tướng Đài – Tướng Ngoài Đài:",
+          "type": "section",
+          "level": "h3",
+          "file": "cam-nang-tong/cap-tuong-đai-tuong-ngoai-đai.md"
+        },
+        {
+          "id": "cam-nang-tong/cap-tuong-đai-tuong-ngoai-đai",
+          "title": "Cấp Tướng Đài – Tướng Ngoài Đài:",
+          "type": "section",
+          "level": "h3",
+          "file": "cam-nang-tong/cap-tuong-đai-tuong-ngoai-đai.md"
+        },
+        {
+          "id": "cam-nang-tong/gian-ung",
+          "title": "Giản Ung",
+          "type": "section",
+          "level": "h2",
+          "file": "cam-nang-tong/gian-ung.md"
+        },
+        {
+          "id": "cam-nang-tong/gian-ung",
+          "title": "Giản Ung",
+          "type": "section",
+          "level": "h2",
+          "file": "cam-nang-tong/gian-ung.md"
+        },
+        {
+          "id": "cam-nang-tong/lu-thuc",
+          "title": "Lư Thực",
+          "type": "section",
+          "level": "h2",
+          "file": "cam-nang-tong/lu-thuc.md"
+        },
+        {
+          "id": "cam-nang-tong/lu-thuc",
+          "title": "Lư Thực",
+          "type": "section",
+          "level": "h2",
+          "file": "cam-nang-tong/lu-thuc.md"
+        },
+        {
+          "id": "cam-nang-tong/cap-190-giac-ngo-tuong-đo",
+          "title": "Cấp 190: Giác Ngộ Tướng đỏ",
+          "type": "section",
+          "level": "h2",
+          "file": "cam-nang-tong/cap-190-giac-ngo-tuong-đo.md"
+        },
+        {
+          "id": "cam-nang-tong/cap-190-giac-ngo-tuong-đo",
+          "title": "Cấp 190: Giác Ngộ Tướng đỏ",
+          "type": "section",
+          "level": "h2",
+          "file": "cam-nang-tong/cap-190-giac-ngo-tuong-đo.md"
+        },
+        {
+          "id": "cam-nang-tong/tuu-quan",
+          "title": "Tửu quán:",
+          "type": "section",
+          "level": "h3",
+          "file": "cam-nang-tong/tuu-quan.md"
+        },
+        {
+          "id": "cam-nang-tong/tuu-quan",
+          "title": "Tửu quán:",
+          "type": "section",
+          "level": "h3",
+          "file": "cam-nang-tong/tuu-quan.md"
+        },
+        {
+          "id": "cam-nang-tong/bang-thuoc-tinh-dang-duoi-đay",
+          "title": "Bảng Thuộc tính dạng dưới đây:",
+          "type": "section",
+          "level": "h3",
+          "file": "cam-nang-tong/bang-thuoc-tinh-dang-duoi-đay.md"
+        },
+        {
+          "id": "cam-nang-tong/bang-thuoc-tinh-dang-duoi-đay",
+          "title": "Bảng Thuộc tính dạng dưới đây:",
+          "type": "section",
+          "level": "h3",
+          "file": "cam-nang-tong/bang-thuoc-tinh-dang-duoi-đay.md"
+        },
+        {
+          "id": "cam-nang-tong/cap-210",
+          "title": "Cấp 210:",
+          "type": "section",
+          "level": "h3",
+          "file": "cam-nang-tong/cap-210.md"
+        },
+        {
+          "id": "cam-nang-tong/cap-210",
+          "title": "Cấp 210:",
+          "type": "section",
+          "level": "h3",
+          "file": "cam-nang-tong/cap-210.md"
+        },
+        {
+          "id": "cam-nang-tong/truc-loc-chien-tich",
+          "title": "Trục Lộc: Chiến tích",
+          "type": "section",
+          "level": "h2",
+          "file": "cam-nang-tong/truc-loc-chien-tich.md"
+        },
+        {
+          "id": "cam-nang-tong/truc-loc-chien-tich",
+          "title": "Trục Lộc: Chiến tích",
+          "type": "section",
+          "level": "h2",
+          "file": "cam-nang-tong/truc-loc-chien-tich.md"
+        },
+        {
+          "id": "cam-nang-tong/quan-su-phu",
+          "title": "Quân Sự Phủ:",
+          "type": "section",
+          "level": "h3",
+          "file": "cam-nang-tong/quan-su-phu.md"
+        },
+        {
+          "id": "cam-nang-tong/quan-su-phu",
+          "title": "Quân Sự Phủ:",
+          "type": "section",
+          "level": "h3",
+          "file": "cam-nang-tong/quan-su-phu.md"
+        },
+        {
+          "id": "cam-nang-tong/chuan-bi-cho-giai-đoan-tim",
+          "title": "Chuẩn bị cho Giai đoạn Tím",
+          "type": "section",
+          "level": "h2",
+          "file": "cam-nang-tong/chuan-bi-cho-giai-đoan-tim.md"
+        },
+        {
+          "id": "cam-nang-tong/chuan-bi-cho-giai-đoan-tim",
+          "title": "Chuẩn bị cho Giai đoạn Tím",
+          "type": "section",
+          "level": "h2",
+          "file": "cam-nang-tong/chuan-bi-cho-giai-đoan-tim.md"
+        },
+        {
+          "id": "cam-nang-tong/giai-đoan-tim",
+          "title": "Giai đoạn Tím",
+          "type": "section",
+          "level": "h2",
+          "file": "cam-nang-tong/giai-đoan-tim.md"
+        },
+        {
+          "id": "cam-nang-tong/giai-đoan-tim",
+          "title": "Giai đoạn Tím",
+          "type": "section",
+          "level": "h2",
+          "file": "cam-nang-tong/giai-đoan-tim.md"
+        },
+        {
+          "id": "cam-nang-tong/cac-tinh-nang-cap-thanh-chinh",
+          "title": "Các tính năng cấp thành chính",
+          "type": "section",
+          "level": "h2",
+          "file": "cam-nang-tong/cac-tinh-nang-cap-thanh-chinh.md"
+        },
+        {
+          "id": "cam-nang-tong/cac-tinh-nang-cap-thanh-chinh",
+          "title": "Các tính năng cấp thành chính",
+          "type": "section",
+          "level": "h2",
+          "file": "cam-nang-tong/cac-tinh-nang-cap-thanh-chinh.md"
+        },
+        {
+          "id": "cam-nang-tong/binh-thu-hap",
+          "title": "Binh thư hạp:",
+          "type": "section",
+          "level": "h3",
+          "file": "cam-nang-tong/binh-thu-hap.md"
+        },
+        {
+          "id": "cam-nang-tong/binh-thu-hap",
+          "title": "Binh thư hạp:",
+          "type": "section",
+          "level": "h3",
+          "file": "cam-nang-tong/binh-thu-hap.md"
+        }
+      ]
+    },
+    {
+      "id": "tai-nguyen",
+      "order": 1,
+      "title": "Tài Nguyên",
+      "type": "document",
+      "source": "Tài Nguyên.docx",
+      "children": [
+        {
+          "id": "tai-nguyen/tai-nguyen",
+          "title": "TÀI NGUYÊN",
+          "type": "section",
+          "level": "h2",
+          "file": "tai-nguyen/tai-nguyen.md"
+        },
+        {
+          "id": "tai-nguyen/tai-nguyen",
+          "title": "TÀI NGUYÊN",
+          "type": "section",
+          "level": "h2",
+          "file": "tai-nguyen/tai-nguyen.md"
+        },
+        {
+          "id": "tai-nguyen/bac",
+          "title": "Bạc",
+          "type": "section",
+          "level": "h2",
+          "file": "tai-nguyen/bac.md"
+        },
+        {
+          "id": "tai-nguyen/bac",
+          "title": "Bạc",
+          "type": "section",
+          "level": "h2",
+          "file": "tai-nguyen/bac.md"
+        },
+        {
+          "id": "tai-nguyen/trung-thu-hang-ngay",
+          "title": "Trưng Thu Hàng Ngày:",
+          "type": "section",
+          "level": "h3",
+          "file": "tai-nguyen/trung-thu-hang-ngay.md"
+        },
+        {
+          "id": "tai-nguyen/trung-thu-hang-ngay",
+          "title": "Trưng Thu Hàng Ngày:",
+          "type": "section",
+          "level": "h3",
+          "file": "tai-nguyen/trung-thu-hang-ngay.md"
+        },
+        {
+          "id": "tai-nguyen/so-bac-1-lan-thu-phu-thuoc-vao",
+          "title": "Số bạc/ 1 lần thu phụ thuộc vào:",
+          "type": "section",
+          "level": "h3",
+          "file": "tai-nguyen/so-bac-1-lan-thu-phu-thuoc-vao.md"
+        },
+        {
+          "id": "tai-nguyen/so-bac-1-lan-thu-phu-thuoc-vao",
+          "title": "Số bạc/ 1 lần thu phụ thuộc vào:",
+          "type": "section",
+          "level": "h3",
+          "file": "tai-nguyen/so-bac-1-lan-thu-phu-thuoc-vao.md"
+        },
+        {
+          "id": "tai-nguyen/mo-tai-nguyen",
+          "title": "Mỏ Tài Nguyên:",
+          "type": "section",
+          "level": "h3",
+          "file": "tai-nguyen/mo-tai-nguyen.md"
+        },
+        {
+          "id": "tai-nguyen/mo-tai-nguyen",
+          "title": "Mỏ Tài Nguyên:",
+          "type": "section",
+          "level": "h3",
+          "file": "tai-nguyen/mo-tai-nguyen.md"
+        },
+        {
+          "id": "tai-nguyen/chu-mo-nguoi-ho-tro",
+          "title": "Chủ Mỏ > Người Hỗ Trợ",
+          "type": "section",
+          "level": "h2",
+          "file": "tai-nguyen/chu-mo-nguoi-ho-tro.md"
+        },
+        {
+          "id": "tai-nguyen/chu-mo-nguoi-ho-tro",
+          "title": "Chủ Mỏ > Người Hỗ Trợ",
+          "type": "section",
+          "level": "h2",
+          "file": "tai-nguyen/chu-mo-nguoi-ho-tro.md"
+        },
+        {
+          "id": "tai-nguyen/vo-khoi-thap",
+          "title": "Võ Khôi Tháp:",
+          "type": "section",
+          "level": "h3",
+          "file": "tai-nguyen/vo-khoi-thap.md"
+        },
+        {
+          "id": "tai-nguyen/vo-khoi-thap",
+          "title": "Võ Khôi Tháp:",
+          "type": "section",
+          "level": "h3",
+          "file": "tai-nguyen/vo-khoi-thap.md"
+        },
+        {
+          "id": "tai-nguyen/hai-cang",
+          "title": "Hải Cảng:",
+          "type": "section",
+          "level": "h3",
+          "file": "tai-nguyen/hai-cang.md"
+        },
+        {
+          "id": "tai-nguyen/hai-cang",
+          "title": "Hải Cảng:",
+          "type": "section",
+          "level": "h3",
+          "file": "tai-nguyen/hai-cang.md"
+        },
+        {
+          "id": "tai-nguyen/san-ban",
+          "title": "Săn Bắn:",
+          "type": "section",
+          "level": "h3",
+          "file": "tai-nguyen/san-ban.md"
+        },
+        {
+          "id": "tai-nguyen/san-ban",
+          "title": "Săn Bắn:",
+          "type": "section",
+          "level": "h3",
+          "file": "tai-nguyen/san-ban.md"
+        },
+        {
+          "id": "tai-nguyen/luong-bac-rat-it",
+          "title": "Lượng Bạc rất ít",
+          "type": "section",
+          "level": "h2",
+          "file": "tai-nguyen/luong-bac-rat-it.md"
+        },
+        {
+          "id": "tai-nguyen/luong-bac-rat-it",
+          "title": "Lượng Bạc rất ít",
+          "type": "section",
+          "level": "h2",
+          "file": "tai-nguyen/luong-bac-rat-it.md"
+        },
+        {
+          "id": "tai-nguyen/su-kien",
+          "title": "Sự Kiện:",
+          "type": "section",
+          "level": "h3",
+          "file": "tai-nguyen/su-kien.md"
+        },
+        {
+          "id": "tai-nguyen/su-kien",
+          "title": "Sự Kiện:",
+          "type": "section",
+          "level": "h3",
+          "file": "tai-nguyen/su-kien.md"
+        },
+        {
+          "id": "tai-nguyen/cuong-hoa",
+          "title": "Cường hoá:",
+          "type": "section",
+          "level": "h3",
+          "file": "tai-nguyen/cuong-hoa.md"
+        },
+        {
+          "id": "tai-nguyen/cuong-hoa",
+          "title": "Cường hoá:",
+          "type": "section",
+          "level": "h3",
+          "file": "tai-nguyen/cuong-hoa.md"
+        },
+        {
+          "id": "tai-nguyen/đuc",
+          "title": "Đúc:",
+          "type": "section",
+          "level": "h3",
+          "file": "tai-nguyen/đuc.md"
+        },
+        {
+          "id": "tai-nguyen/đuc",
+          "title": "Đúc:",
+          "type": "section",
+          "level": "h3",
+          "file": "tai-nguyen/đuc.md"
+        },
+        {
+          "id": "tai-nguyen/ren",
+          "title": "Rèn:",
+          "type": "section",
+          "level": "h3",
+          "file": "tai-nguyen/ren.md"
+        },
+        {
+          "id": "tai-nguyen/ren",
+          "title": "Rèn:",
+          "type": "section",
+          "level": "h3",
+          "file": "tai-nguyen/ren.md"
+        },
+        {
+          "id": "tai-nguyen/tang-cap-khac-van",
+          "title": "Tăng cấp Khắc Văn:",
+          "type": "section",
+          "level": "h3",
+          "file": "tai-nguyen/tang-cap-khac-van.md"
+        },
+        {
+          "id": "tai-nguyen/tang-cap-khac-van",
+          "title": "Tăng cấp Khắc Văn:",
+          "type": "section",
+          "level": "h3",
+          "file": "tai-nguyen/tang-cap-khac-van.md"
+        },
+        {
+          "id": "tai-nguyen/chien-cong",
+          "title": "Chiến Công",
+          "type": "section",
+          "level": "h2",
+          "file": "tai-nguyen/chien-cong.md"
+        },
+        {
+          "id": "tai-nguyen/chien-cong",
+          "title": "Chiến Công",
+          "type": "section",
+          "level": "h2",
+          "file": "tai-nguyen/chien-cong.md"
+        },
+        {
+          "id": "tai-nguyen/cach-kiem-chien-cong",
+          "title": "Cách kiếm Chiến Công:",
+          "type": "section",
+          "level": "h3",
+          "file": "tai-nguyen/cach-kiem-chien-cong.md"
+        },
+        {
+          "id": "tai-nguyen/cach-kiem-chien-cong",
+          "title": "Cách kiếm Chiến Công:",
+          "type": "section",
+          "level": "h3",
+          "file": "tai-nguyen/cach-kiem-chien-cong.md"
+        },
+        {
+          "id": "tai-nguyen/giai-đoan-cap-thanh-chinh-1-239",
+          "title": "Giai đoạn Cấp Thành Chính 1-239:",
+          "type": "section",
+          "level": "h3",
+          "file": "tai-nguyen/giai-đoan-cap-thanh-chinh-1-239.md"
+        },
+        {
+          "id": "tai-nguyen/giai-đoan-cap-thanh-chinh-1-239",
+          "title": "Giai đoạn Cấp Thành Chính 1-239:",
+          "type": "section",
+          "level": "h3",
+          "file": "tai-nguyen/giai-đoan-cap-thanh-chinh-1-239.md"
+        },
+        {
+          "id": "tai-nguyen/giai-đoan-cap-thanh-chinh-240-tro-đi",
+          "title": "Giai đoạn Cấp Thành Chính 240 trở đi:",
+          "type": "section",
+          "level": "h3",
+          "file": "tai-nguyen/giai-đoan-cap-thanh-chinh-240-tro-đi.md"
+        },
+        {
+          "id": "tai-nguyen/giai-đoan-cap-thanh-chinh-240-tro-đi",
+          "title": "Giai đoạn Cấp Thành Chính 240 trở đi:",
+          "type": "section",
+          "level": "h3",
+          "file": "tai-nguyen/giai-đoan-cap-thanh-chinh-240-tro-đi.md"
+        },
+        {
+          "id": "tai-nguyen/huong-dan-su-dung-chien-cong",
+          "title": "Hướng dẫn sử dụng Chiến Công",
+          "type": "section",
+          "level": "h2",
+          "file": "tai-nguyen/huong-dan-su-dung-chien-cong.md"
+        },
+        {
+          "id": "tai-nguyen/huong-dan-su-dung-chien-cong",
+          "title": "Hướng dẫn sử dụng Chiến Công",
+          "type": "section",
+          "level": "h2",
+          "file": "tai-nguyen/huong-dan-su-dung-chien-cong.md"
+        },
+        {
+          "id": "tai-nguyen/vang",
+          "title": "Vàng",
+          "type": "section",
+          "level": "h2",
+          "file": "tai-nguyen/vang.md"
+        },
+        {
+          "id": "tai-nguyen/vang",
+          "title": "Vàng",
+          "type": "section",
+          "level": "h2",
+          "file": "tai-nguyen/vang.md"
+        },
+        {
+          "id": "tai-nguyen/quan-lenh",
+          "title": "Quân Lệnh",
+          "type": "section",
+          "level": "h2",
+          "file": "tai-nguyen/quan-lenh.md"
+        },
+        {
+          "id": "tai-nguyen/quan-lenh",
+          "title": "Quân Lệnh",
+          "type": "section",
+          "level": "h2",
+          "file": "tai-nguyen/quan-lenh.md"
+        },
+        {
+          "id": "tai-nguyen/cach-kiem",
+          "title": "Cách kiếm:",
+          "type": "section",
+          "level": "h3",
+          "file": "tai-nguyen/cach-kiem.md"
+        },
+        {
+          "id": "tai-nguyen/cach-kiem",
+          "title": "Cách kiếm:",
+          "type": "section",
+          "level": "h3",
+          "file": "tai-nguyen/cach-kiem.md"
+        },
+        {
+          "id": "tai-nguyen/ruong-that-tinh",
+          "title": "Rương Thất Tinh",
+          "type": "section",
+          "level": "h2",
+          "file": "tai-nguyen/ruong-that-tinh.md"
+        },
+        {
+          "id": "tai-nguyen/ruong-that-tinh",
+          "title": "Rương Thất Tinh",
+          "type": "section",
+          "level": "h2",
+          "file": "tai-nguyen/ruong-that-tinh.md"
+        },
+        {
+          "id": "tai-nguyen/huong-dan-su-dung",
+          "title": "Hướng dẫn sử dụng:",
+          "type": "section",
+          "level": "h3",
+          "file": "tai-nguyen/huong-dan-su-dung.md"
+        },
+        {
+          "id": "tai-nguyen/huong-dan-su-dung",
+          "title": "Hướng dẫn sử dụng:",
+          "type": "section",
+          "level": "h3",
+          "file": "tai-nguyen/huong-dan-su-dung.md"
+        },
+        {
+          "id": "tai-nguyen/nguyen-lieu-giac-ngo-tuong",
+          "title": "Nguyên liệu Giác Ngộ Tướng",
+          "type": "section",
+          "level": "h2",
+          "file": "tai-nguyen/nguyen-lieu-giac-ngo-tuong.md"
+        },
+        {
+          "id": "tai-nguyen/nguyen-lieu-giac-ngo-tuong",
+          "title": "Nguyên liệu Giác Ngộ Tướng",
+          "type": "section",
+          "level": "h2",
+          "file": "tai-nguyen/nguyen-lieu-giac-ngo-tuong.md"
+        },
+        {
+          "id": "tai-nguyen/hoat-đong-hang-ngay",
+          "title": "Hoạt động hàng ngày:",
+          "type": "section",
+          "level": "h3",
+          "file": "tai-nguyen/hoat-đong-hang-ngay.md"
+        },
+        {
+          "id": "tai-nguyen/hoat-đong-hang-ngay",
+          "title": "Hoạt động hàng ngày:",
+          "type": "section",
+          "level": "h3",
+          "file": "tai-nguyen/hoat-đong-hang-ngay.md"
+        },
+        {
+          "id": "tai-nguyen/ruong-that-tinh",
+          "title": "Rương Thất Tinh:",
+          "type": "section",
+          "level": "h3",
+          "file": "tai-nguyen/ruong-that-tinh.md"
+        },
+        {
+          "id": "tai-nguyen/ruong-that-tinh",
+          "title": "Rương Thất Tinh:",
+          "type": "section",
+          "level": "h3",
+          "file": "tai-nguyen/ruong-that-tinh.md"
+        },
+        {
+          "id": "tai-nguyen/chinh-chien-lenh",
+          "title": "Chinh Chiến Lệnh",
+          "type": "section",
+          "level": "h2",
+          "file": "tai-nguyen/chinh-chien-lenh.md"
+        },
+        {
+          "id": "tai-nguyen/chinh-chien-lenh",
+          "title": "Chinh Chiến Lệnh",
+          "type": "section",
+          "level": "h2",
+          "file": "tai-nguyen/chinh-chien-lenh.md"
+        },
+        {
+          "id": "tai-nguyen/thuong-tuong",
+          "title": "Thưởng tướng:",
+          "type": "section",
+          "level": "h3",
+          "file": "tai-nguyen/thuong-tuong.md"
+        },
+        {
+          "id": "tai-nguyen/thuong-tuong",
+          "title": "Thưởng tướng:",
+          "type": "section",
+          "level": "h3",
+          "file": "tai-nguyen/thuong-tuong.md"
+        },
+        {
+          "id": "tai-nguyen/chien-tich",
+          "title": "Chiến Tích",
+          "type": "section",
+          "level": "h2",
+          "file": "tai-nguyen/chien-tich.md"
+        },
+        {
+          "id": "tai-nguyen/chien-tich",
+          "title": "Chiến Tích",
+          "type": "section",
+          "level": "h2",
+          "file": "tai-nguyen/chien-tich.md"
+        },
+        {
+          "id": "tai-nguyen/hoat-đong-hang-ngay",
+          "title": "Hoạt động hàng ngày:",
+          "type": "section",
+          "level": "h3",
+          "file": "tai-nguyen/hoat-đong-hang-ngay.md"
+        },
+        {
+          "id": "tai-nguyen/hoat-đong-hang-ngay",
+          "title": "Hoạt động hàng ngày:",
+          "type": "section",
+          "level": "h3",
+          "file": "tai-nguyen/hoat-đong-hang-ngay.md"
+        },
+        {
+          "id": "tai-nguyen/nang-đong",
+          "title": "Năng động:",
+          "type": "section",
+          "level": "h3",
+          "file": "tai-nguyen/nang-đong.md"
+        },
+        {
+          "id": "tai-nguyen/nang-đong",
+          "title": "Năng động:",
+          "type": "section",
+          "level": "h3",
+          "file": "tai-nguyen/nang-đong.md"
+        },
+        {
+          "id": "tai-nguyen/huong-dan-su-dung-chien-tich",
+          "title": "Hướng dẫn Sử dụng Chiến Tích:",
+          "type": "section",
+          "level": "h3",
+          "file": "tai-nguyen/huong-dan-su-dung-chien-tich.md"
+        },
+        {
+          "id": "tai-nguyen/huong-dan-su-dung-chien-tich",
+          "title": "Hướng dẫn Sử dụng Chiến Tích:",
+          "type": "section",
+          "level": "h3",
+          "file": "tai-nguyen/huong-dan-su-dung-chien-tich.md"
+        },
+        {
+          "id": "tai-nguyen/nguyen-lieu-ma-truong",
+          "title": "Nguyên Liệu Mã Trường",
+          "type": "section",
+          "level": "h2",
+          "file": "tai-nguyen/nguyen-lieu-ma-truong.md"
+        },
+        {
+          "id": "tai-nguyen/nguyen-lieu-ma-truong",
+          "title": "Nguyên Liệu Mã Trường",
+          "type": "section",
+          "level": "h2",
+          "file": "tai-nguyen/nguyen-lieu-ma-truong.md"
+        },
+        {
+          "id": "tai-nguyen/nang-đong",
+          "title": "Năng động",
+          "type": "section",
+          "level": "h2",
+          "file": "tai-nguyen/nang-đong.md"
+        },
+        {
+          "id": "tai-nguyen/nang-đong",
+          "title": "Năng động",
+          "type": "section",
+          "level": "h2",
+          "file": "tai-nguyen/nang-đong.md"
+        },
+        {
+          "id": "tai-nguyen/ruong-that-tinh",
+          "title": "Rương Thất Tinh:",
+          "type": "section",
+          "level": "h3",
+          "file": "tai-nguyen/ruong-that-tinh.md"
+        },
+        {
+          "id": "tai-nguyen/ruong-that-tinh",
+          "title": "Rương Thất Tinh:",
+          "type": "section",
+          "level": "h3",
+          "file": "tai-nguyen/ruong-that-tinh.md"
+        },
+        {
+          "id": "tai-nguyen/hon-tuong",
+          "title": "Hồn Tướng",
+          "type": "section",
+          "level": "h2",
+          "file": "tai-nguyen/hon-tuong.md"
+        },
+        {
+          "id": "tai-nguyen/hon-tuong",
+          "title": "Hồn Tướng",
+          "type": "section",
+          "level": "h2",
+          "file": "tai-nguyen/hon-tuong.md"
+        },
+        {
+          "id": "tai-nguyen/hoat-đong-ngay",
+          "title": "Hoạt động ngày:",
+          "type": "section",
+          "level": "h3",
+          "file": "tai-nguyen/hoat-đong-ngay.md"
+        },
+        {
+          "id": "tai-nguyen/hoat-đong-ngay",
+          "title": "Hoạt động ngày:",
+          "type": "section",
+          "level": "h3",
+          "file": "tai-nguyen/hoat-đong-ngay.md"
+        },
+        {
+          "id": "tai-nguyen/huong-dan-su-dung-hon-tuong",
+          "title": "Hướng dẫn Sử dụng Hồn tướng",
+          "type": "section",
+          "level": "h2",
+          "file": "tai-nguyen/huong-dan-su-dung-hon-tuong.md"
+        },
+        {
+          "id": "tai-nguyen/huong-dan-su-dung-hon-tuong",
+          "title": "Hướng dẫn Sử dụng Hồn tướng",
+          "type": "section",
+          "level": "h2",
+          "file": "tai-nguyen/huong-dan-su-dung-hon-tuong.md"
+        },
+        {
+          "id": "tai-nguyen/nguyen-lieu-binh-chung",
+          "title": "Nguyên Liệu Binh Chủng",
+          "type": "section",
+          "level": "h2",
+          "file": "tai-nguyen/nguyen-lieu-binh-chung.md"
+        },
+        {
+          "id": "tai-nguyen/nguyen-lieu-binh-chung",
+          "title": "Nguyên Liệu Binh Chủng",
+          "type": "section",
+          "level": "h2",
+          "file": "tai-nguyen/nguyen-lieu-binh-chung.md"
+        },
+        {
+          "id": "tai-nguyen/cap-2-cap-tuong-lv40",
+          "title": "Cấp 2: Cấp Tướng Lv40",
+          "type": "section",
+          "level": "h2",
+          "file": "tai-nguyen/cap-2-cap-tuong-lv40.md"
+        },
+        {
+          "id": "tai-nguyen/cap-2-cap-tuong-lv40",
+          "title": "Cấp 2: Cấp Tướng Lv40",
+          "type": "section",
+          "level": "h2",
+          "file": "tai-nguyen/cap-2-cap-tuong-lv40.md"
+        },
+        {
+          "id": "tai-nguyen/huong-dan-thu-thap-nguyen-lieu-binh-chung",
+          "title": "Hướng dẫn Thu Thập Nguyên Liệu Binh Chủng:",
+          "type": "section",
+          "level": "h3",
+          "file": "tai-nguyen/huong-dan-thu-thap-nguyen-lieu-binh-chung.md"
+        },
+        {
+          "id": "tai-nguyen/huong-dan-thu-thap-nguyen-lieu-binh-chung",
+          "title": "Hướng dẫn Thu Thập Nguyên Liệu Binh Chủng:",
+          "type": "section",
+          "level": "h3",
+          "file": "tai-nguyen/huong-dan-thu-thap-nguyen-lieu-binh-chung.md"
+        },
+        {
+          "id": "tai-nguyen/binh-thu",
+          "title": "Binh Thư",
+          "type": "section",
+          "level": "h2",
+          "file": "tai-nguyen/binh-thu.md"
+        },
+        {
+          "id": "tai-nguyen/binh-thu",
+          "title": "Binh Thư",
+          "type": "section",
+          "level": "h2",
+          "file": "tai-nguyen/binh-thu.md"
+        },
+        {
+          "id": "tai-nguyen/binh-thu-can-hai-loai-nguyen-lieu",
+          "title": "Binh Thư cần hai loại nguyên liệu:",
+          "type": "section",
+          "level": "h3",
+          "file": "tai-nguyen/binh-thu-can-hai-loai-nguyen-lieu.md"
+        },
+        {
+          "id": "tai-nguyen/binh-thu-can-hai-loai-nguyen-lieu",
+          "title": "Binh Thư cần hai loại nguyên liệu:",
+          "type": "section",
+          "level": "h3",
+          "file": "tai-nguyen/binh-thu-can-hai-loai-nguyen-lieu.md"
+        },
+        {
+          "id": "tai-nguyen/manh-binh-thu-tuong-ung",
+          "title": "Mảnh Binh Thư tương ứng",
+          "type": "section",
+          "level": "h2",
+          "file": "tai-nguyen/manh-binh-thu-tuong-ung.md"
+        },
+        {
+          "id": "tai-nguyen/manh-binh-thu-tuong-ung",
+          "title": "Mảnh Binh Thư tương ứng",
+          "type": "section",
+          "level": "h2",
+          "file": "tai-nguyen/manh-binh-thu-tuong-ung.md"
+        },
+        {
+          "id": "tai-nguyen/cap-280-mo-binh-thu-hap",
+          "title": "Cấp 280 mở Binh Thư Hạp",
+          "type": "section",
+          "level": "h2",
+          "file": "tai-nguyen/cap-280-mo-binh-thu-hap.md"
+        },
+        {
+          "id": "tai-nguyen/cap-280-mo-binh-thu-hap",
+          "title": "Cấp 280 mở Binh Thư Hạp",
+          "type": "section",
+          "level": "h2",
+          "file": "tai-nguyen/cap-280-mo-binh-thu-hap.md"
+        },
+        {
+          "id": "tai-nguyen/tieu-phi-nhan-qua",
+          "title": "Tiêu Phí Nhận Quà",
+          "type": "section",
+          "level": "h2",
+          "file": "tai-nguyen/tieu-phi-nhan-qua.md"
+        },
+        {
+          "id": "tai-nguyen/tieu-phi-nhan-qua",
+          "title": "Tiêu Phí Nhận Quà",
+          "type": "section",
+          "level": "h2",
+          "file": "tai-nguyen/tieu-phi-nhan-qua.md"
+        },
+        {
+          "id": "tai-nguyen/mac-tu-5-sao",
+          "title": "Mặc Tử 5 sao",
+          "type": "section",
+          "level": "h2",
+          "file": "tai-nguyen/mac-tu-5-sao.md"
+        },
+        {
+          "id": "tai-nguyen/mac-tu-5-sao",
+          "title": "Mặc Tử 5 sao",
+          "type": "section",
+          "level": "h2",
+          "file": "tai-nguyen/mac-tu-5-sao.md"
+        },
+        {
+          "id": "tai-nguyen/thong-soai",
+          "title": "Thống Soái",
+          "type": "section",
+          "level": "h2",
+          "file": "tai-nguyen/thong-soai.md"
+        },
+        {
+          "id": "tai-nguyen/thong-soai",
+          "title": "Thống Soái",
+          "type": "section",
+          "level": "h2",
+          "file": "tai-nguyen/thong-soai.md"
+        },
+        {
+          "id": "tai-nguyen/hoat-đong-hang-ngay",
+          "title": "Hoạt động hàng ngày:",
+          "type": "section",
+          "level": "h3",
+          "file": "tai-nguyen/hoat-đong-hang-ngay.md"
+        },
+        {
+          "id": "tai-nguyen/hoat-đong-hang-ngay",
+          "title": "Hoạt động hàng ngày:",
+          "type": "section",
+          "level": "h3",
+          "file": "tai-nguyen/hoat-đong-hang-ngay.md"
+        },
+        {
+          "id": "tai-nguyen/ruong-that-tinh",
+          "title": "Rương Thất Tinh",
+          "type": "section",
+          "level": "h2",
+          "file": "tai-nguyen/ruong-that-tinh.md"
+        },
+        {
+          "id": "tai-nguyen/ruong-that-tinh",
+          "title": "Rương Thất Tinh",
+          "type": "section",
+          "level": "h2",
+          "file": "tai-nguyen/ruong-that-tinh.md"
+        },
+        {
+          "id": "tai-nguyen/nap",
+          "title": "Nạp",
+          "type": "section",
+          "level": "h2",
+          "file": "tai-nguyen/nap.md"
+        },
+        {
+          "id": "tai-nguyen/nap",
+          "title": "Nạp",
+          "type": "section",
+          "level": "h2",
+          "file": "tai-nguyen/nap.md"
+        },
+        {
+          "id": "tai-nguyen/chinh-chien-lenh",
+          "title": "Chinh Chiến Lệnh",
+          "type": "section",
+          "level": "h2",
+          "file": "tai-nguyen/chinh-chien-lenh.md"
+        },
+        {
+          "id": "tai-nguyen/chinh-chien-lenh",
+          "title": "Chinh Chiến Lệnh",
+          "type": "section",
+          "level": "h2",
+          "file": "tai-nguyen/chinh-chien-lenh.md"
+        },
+        {
+          "id": "tai-nguyen/giai-đoan-sau-cap-310",
+          "title": "Giai đoạn sau cấp 310:",
+          "type": "section",
+          "level": "h3",
+          "file": "tai-nguyen/giai-đoan-sau-cap-310.md"
+        },
+        {
+          "id": "tai-nguyen/giai-đoan-sau-cap-310",
+          "title": "Giai đoạn sau cấp 310:",
+          "type": "section",
+          "level": "h3",
+          "file": "tai-nguyen/giai-đoan-sau-cap-310.md"
+        },
+        {
+          "id": "tai-nguyen/di-toc-thiet-tuong-cap-10",
+          "title": "Dị Tộc Thiết Tượng cấp 10",
+          "type": "section",
+          "level": "h2",
+          "file": "tai-nguyen/di-toc-thiet-tuong-cap-10.md"
+        },
+        {
+          "id": "tai-nguyen/di-toc-thiet-tuong-cap-10",
+          "title": "Dị Tộc Thiết Tượng cấp 10",
+          "type": "section",
+          "level": "h2",
+          "file": "tai-nguyen/di-toc-thiet-tuong-cap-10.md"
+        },
+        {
+          "id": "tai-nguyen/cho-vui",
+          "title": "Chợ vui",
+          "type": "section",
+          "level": "h2",
+          "file": "tai-nguyen/cho-vui.md"
+        },
+        {
+          "id": "tai-nguyen/cho-vui",
+          "title": "Chợ vui",
+          "type": "section",
+          "level": "h2",
+          "file": "tai-nguyen/cho-vui.md"
+        },
+        {
+          "id": "tai-nguyen/sach-ki-nang",
+          "title": "Sách Kĩ Năng",
+          "type": "section",
+          "level": "h2",
+          "file": "tai-nguyen/sach-ki-nang.md"
+        },
+        {
+          "id": "tai-nguyen/sach-ki-nang",
+          "title": "Sách Kĩ Năng",
+          "type": "section",
+          "level": "h2",
+          "file": "tai-nguyen/sach-ki-nang.md"
+        },
+        {
+          "id": "tai-nguyen/pho-ban-kho",
+          "title": "Phó Bản Khó:",
+          "type": "section",
+          "level": "h3",
+          "file": "tai-nguyen/pho-ban-kho.md"
+        },
+        {
+          "id": "tai-nguyen/pho-ban-kho",
+          "title": "Phó Bản Khó:",
+          "type": "section",
+          "level": "h3",
+          "file": "tai-nguyen/pho-ban-kho.md"
+        },
+        {
+          "id": "tai-nguyen/huong-dan-su-dung-sach-ki-nang",
+          "title": "Hướng dẫn Sử Dụng Sách Kĩ Năng:",
+          "type": "section",
+          "level": "h3",
+          "file": "tai-nguyen/huong-dan-su-dung-sach-ki-nang.md"
+        },
+        {
+          "id": "tai-nguyen/huong-dan-su-dung-sach-ki-nang",
+          "title": "Hướng dẫn Sử Dụng Sách Kĩ Năng:",
+          "type": "section",
+          "level": "h3",
+          "file": "tai-nguyen/huong-dan-su-dung-sach-ki-nang.md"
+        },
+        {
+          "id": "tai-nguyen/phai-cuc",
+          "title": "Phái Cực:",
+          "type": "section",
+          "level": "h3",
+          "file": "tai-nguyen/phai-cuc.md"
+        },
+        {
+          "id": "tai-nguyen/phai-cuc",
+          "title": "Phái Cực:",
+          "type": "section",
+          "level": "h3",
+          "file": "tai-nguyen/phai-cuc.md"
+        },
+        {
+          "id": "tai-nguyen/shop",
+          "title": "Shop",
+          "type": "section",
+          "level": "h2",
+          "file": "tai-nguyen/shop.md"
+        },
+        {
+          "id": "tai-nguyen/shop",
+          "title": "Shop",
+          "type": "section",
+          "level": "h2",
+          "file": "tai-nguyen/shop.md"
+        },
+        {
+          "id": "tai-nguyen/quoc-chien",
+          "title": "Quốc Chiến:",
+          "type": "section",
+          "level": "h3",
+          "file": "tai-nguyen/quoc-chien.md"
+        },
+        {
+          "id": "tai-nguyen/quoc-chien",
+          "title": "Quốc Chiến:",
+          "type": "section",
+          "level": "h3",
+          "file": "tai-nguyen/quoc-chien.md"
+        },
+        {
+          "id": "tai-nguyen/hoat-đong-hang-ngay",
+          "title": "Hoạt động hàng ngày:",
+          "type": "section",
+          "level": "h3",
+          "file": "tai-nguyen/hoat-đong-hang-ngay.md"
+        },
+        {
+          "id": "tai-nguyen/hoat-đong-hang-ngay",
+          "title": "Hoạt động hàng ngày:",
+          "type": "section",
+          "level": "h3",
+          "file": "tai-nguyen/hoat-đong-hang-ngay.md"
+        },
+        {
+          "id": "tai-nguyen/nap-đac-biet",
+          "title": "Nạp Đặc Biệt",
+          "type": "section",
+          "level": "h2",
+          "file": "tai-nguyen/nap-đac-biet.md"
+        },
+        {
+          "id": "tai-nguyen/nap-đac-biet",
+          "title": "Nạp Đặc Biệt",
+          "type": "section",
+          "level": "h2",
+          "file": "tai-nguyen/nap-đac-biet.md"
+        },
+        {
+          "id": "tai-nguyen/quoc-chien-tuong-tu-o-tren",
+          "title": "Quốc Chiến: tương tự ở trên",
+          "type": "section",
+          "level": "h2",
+          "file": "tai-nguyen/quoc-chien-tuong-tu-o-tren.md"
+        },
+        {
+          "id": "tai-nguyen/quoc-chien-tuong-tu-o-tren",
+          "title": "Quốc Chiến: tương tự ở trên",
+          "type": "section",
+          "level": "h2",
+          "file": "tai-nguyen/quoc-chien-tuong-tu-o-tren.md"
+        },
+        {
+          "id": "tai-nguyen/nap-lien-tuc",
+          "title": "Nạp Liên Tục",
+          "type": "section",
+          "level": "h2",
+          "file": "tai-nguyen/nap-lien-tuc.md"
+        },
+        {
+          "id": "tai-nguyen/nap-lien-tuc",
+          "title": "Nạp Liên Tục",
+          "type": "section",
+          "level": "h2",
+          "file": "tai-nguyen/nap-lien-tuc.md"
+        },
+        {
+          "id": "tai-nguyen/ngoc-đuc",
+          "title": "Ngọc Đúc",
+          "type": "section",
+          "level": "h2",
+          "file": "tai-nguyen/ngoc-đuc.md"
+        },
+        {
+          "id": "tai-nguyen/ngoc-đuc",
+          "title": "Ngọc Đúc",
+          "type": "section",
+          "level": "h2",
+          "file": "tai-nguyen/ngoc-đuc.md"
+        },
+        {
+          "id": "tai-nguyen/phai-bac",
+          "title": "Phái Bạc",
+          "type": "section",
+          "level": "h2",
+          "file": "tai-nguyen/phai-bac.md"
+        },
+        {
+          "id": "tai-nguyen/phai-bac",
+          "title": "Phái Bạc",
+          "type": "section",
+          "level": "h2",
+          "file": "tai-nguyen/phai-bac.md"
+        }
+      ]
+    },
+    {
+      "id": "trang-bi",
+      "order": 2,
+      "title": "Trang Bị",
+      "type": "document",
+      "source": "Trang Bị.docx",
+      "children": [
+        {
+          "id": "trang-bi/trang-bi",
+          "title": "TRANG BỊ",
+          "type": "section",
+          "level": "h2",
+          "file": "trang-bi/trang-bi.md"
+        },
+        {
+          "id": "trang-bi/trang-bi",
+          "title": "TRANG BỊ",
+          "type": "section",
+          "level": "h2",
+          "file": "trang-bi/trang-bi.md"
+        },
+        {
+          "id": "trang-bi/trang-bi",
+          "title": "Trang Bị:",
+          "type": "section",
+          "level": "h3",
+          "file": "trang-bi/trang-bi.md"
+        },
+        {
+          "id": "trang-bi/trang-bi",
+          "title": "Trang Bị:",
+          "type": "section",
+          "level": "h3",
+          "file": "trang-bi/trang-bi.md"
+        },
+        {
+          "id": "trang-bi/thuoc-tinh-cua-trang-bi",
+          "title": "Thuộc Tính Của Trang Bị:",
+          "type": "section",
+          "level": "h3",
+          "file": "trang-bi/thuoc-tinh-cua-trang-bi.md"
+        },
+        {
+          "id": "trang-bi/thuoc-tinh-cua-trang-bi",
+          "title": "Thuộc Tính Của Trang Bị:",
+          "type": "section",
+          "level": "h3",
+          "file": "trang-bi/thuoc-tinh-cua-trang-bi.md"
+        },
+        {
+          "id": "trang-bi/chi-so-đuc",
+          "title": "Chỉ số Đúc:",
+          "type": "section",
+          "level": "h3",
+          "file": "trang-bi/chi-so-đuc.md"
+        },
+        {
+          "id": "trang-bi/chi-so-đuc",
+          "title": "Chỉ số Đúc:",
+          "type": "section",
+          "level": "h3",
+          "file": "trang-bi/chi-so-đuc.md"
+        },
+        {
+          "id": "trang-bi/tluyen",
+          "title": "T.luyện:",
+          "type": "section",
+          "level": "h3",
+          "file": "trang-bi/tluyen.md"
+        },
+        {
+          "id": "trang-bi/tluyen",
+          "title": "T.luyện:",
+          "type": "section",
+          "level": "h3",
+          "file": "trang-bi/tluyen.md"
+        },
+        {
+          "id": "trang-bi/khac-van-khac-an",
+          "title": "Khắc Văn/ Khắc Ấn:",
+          "type": "section",
+          "level": "h3",
+          "file": "trang-bi/khac-van-khac-an.md"
+        },
+        {
+          "id": "trang-bi/khac-van-khac-an",
+          "title": "Khắc Văn/ Khắc Ấn:",
+          "type": "section",
+          "level": "h3",
+          "file": "trang-bi/khac-van-khac-an.md"
+        },
+        {
+          "id": "trang-bi/huong-dan-cuong-hoa",
+          "title": "Hướng dẫn Cường hoá",
+          "type": "section",
+          "level": "h2",
+          "file": "trang-bi/huong-dan-cuong-hoa.md"
+        },
+        {
+          "id": "trang-bi/huong-dan-cuong-hoa",
+          "title": "Hướng dẫn Cường hoá",
+          "type": "section",
+          "level": "h2",
+          "file": "trang-bi/huong-dan-cuong-hoa.md"
+        },
+        {
+          "id": "trang-bi/uu-tien-cuong-hoa",
+          "title": "Ưu tiên cường hoá",
+          "type": "section",
+          "level": "h2",
+          "file": "trang-bi/uu-tien-cuong-hoa.md"
+        },
+        {
+          "id": "trang-bi/uu-tien-cuong-hoa",
+          "title": "Ưu tiên cường hoá",
+          "type": "section",
+          "level": "h2",
+          "file": "trang-bi/uu-tien-cuong-hoa.md"
+        },
+        {
+          "id": "trang-bi/dan-binh",
+          "title": "Dẫn Binh:",
+          "type": "section",
+          "level": "h3",
+          "file": "trang-bi/dan-binh.md"
+        },
+        {
+          "id": "trang-bi/dan-binh",
+          "title": "Dẫn Binh:",
+          "type": "section",
+          "level": "h3",
+          "file": "trang-bi/dan-binh.md"
+        },
+        {
+          "id": "trang-bi/huong-dan-đuc",
+          "title": "Hướng dẫn Đúc:",
+          "type": "section",
+          "level": "h3",
+          "file": "trang-bi/huong-dan-đuc.md"
+        },
+        {
+          "id": "trang-bi/huong-dan-đuc",
+          "title": "Hướng dẫn Đúc:",
+          "type": "section",
+          "level": "h3",
+          "file": "trang-bi/huong-dan-đuc.md"
+        },
+        {
+          "id": "trang-bi/đuc-bang-bac",
+          "title": "Đúc bằng bạc:",
+          "type": "section",
+          "level": "h3",
+          "file": "trang-bi/đuc-bang-bac.md"
+        },
+        {
+          "id": "trang-bi/đuc-bang-bac",
+          "title": "Đúc bằng bạc:",
+          "type": "section",
+          "level": "h3",
+          "file": "trang-bi/đuc-bang-bac.md"
+        },
+        {
+          "id": "trang-bi/đuc-bang-ngoc",
+          "title": "Đúc bằng ngọc:",
+          "type": "section",
+          "level": "h3",
+          "file": "trang-bi/đuc-bang-ngoc.md"
+        },
+        {
+          "id": "trang-bi/đuc-bang-ngoc",
+          "title": "Đúc bằng ngọc:",
+          "type": "section",
+          "level": "h3",
+          "file": "trang-bi/đuc-bang-ngoc.md"
+        },
+        {
+          "id": "trang-bi/yeu-cau",
+          "title": "Yêu Cầu",
+          "type": "section",
+          "level": "h2",
+          "file": "trang-bi/yeu-cau.md"
+        },
+        {
+          "id": "trang-bi/yeu-cau",
+          "title": "Yêu Cầu",
+          "type": "section",
+          "level": "h2",
+          "file": "trang-bi/yeu-cau.md"
+        },
+        {
+          "id": "trang-bi/tinh-luyen-so",
+          "title": "Tinh Luyện Sơ",
+          "type": "section",
+          "level": "h2",
+          "file": "trang-bi/tinh-luyen-so.md"
+        },
+        {
+          "id": "trang-bi/tinh-luyen-so",
+          "title": "Tinh Luyện Sơ",
+          "type": "section",
+          "level": "h2",
+          "file": "trang-bi/tinh-luyen-so.md"
+        },
+        {
+          "id": "trang-bi/tinh-luyen-cao",
+          "title": "Tinh Luyện Cao",
+          "type": "section",
+          "level": "h2",
+          "file": "trang-bi/tinh-luyen-cao.md"
+        },
+        {
+          "id": "trang-bi/tinh-luyen-cao",
+          "title": "Tinh Luyện Cao",
+          "type": "section",
+          "level": "h2",
+          "file": "trang-bi/tinh-luyen-cao.md"
+        },
+        {
+          "id": "trang-bi/đac-ky-co-the-nhan-tuong-tu-nhau",
+          "title": "Đặc Kỹ có thể nhận tương tự nhau:",
+          "type": "section",
+          "level": "h3",
+          "file": "trang-bi/đac-ky-co-the-nhan-tuong-tu-nhau.md"
+        },
+        {
+          "id": "trang-bi/đac-ky-co-the-nhan-tuong-tu-nhau",
+          "title": "Đặc Kỹ có thể nhận tương tự nhau:",
+          "type": "section",
+          "level": "h3",
+          "file": "trang-bi/đac-ky-co-the-nhan-tuong-tu-nhau.md"
+        },
+        {
+          "id": "trang-bi/huong-dan-cach-tinh-luyen",
+          "title": "Hướng dẫn cách Tinh luyện:",
+          "type": "section",
+          "level": "h3",
+          "file": "trang-bi/huong-dan-cach-tinh-luyen.md"
+        },
+        {
+          "id": "trang-bi/huong-dan-cach-tinh-luyen",
+          "title": "Hướng dẫn cách Tinh luyện:",
+          "type": "section",
+          "level": "h3",
+          "file": "trang-bi/huong-dan-cach-tinh-luyen.md"
+        },
+        {
+          "id": "trang-bi/huong-dan-khac-van-khac-an",
+          "title": "Hướng dẫn Khắc Văn Khắc Ấn",
+          "type": "section",
+          "level": "h2",
+          "file": "trang-bi/huong-dan-khac-van-khac-an.md"
+        },
+        {
+          "id": "trang-bi/huong-dan-khac-van-khac-an",
+          "title": "Hướng dẫn Khắc Văn Khắc Ấn",
+          "type": "section",
+          "level": "h2",
+          "file": "trang-bi/huong-dan-khac-van-khac-an.md"
+        },
+        {
+          "id": "trang-bi/van-tang-linh",
+          "title": "Văn: tăng lính",
+          "type": "section",
+          "level": "h2",
+          "file": "trang-bi/van-tang-linh.md"
+        },
+        {
+          "id": "trang-bi/van-tang-linh",
+          "title": "Văn: tăng lính",
+          "type": "section",
+          "level": "h2",
+          "file": "trang-bi/van-tang-linh.md"
+        },
+        {
+          "id": "trang-bi/su-dung",
+          "title": "Sử Dụng:",
+          "type": "section",
+          "level": "h3",
+          "file": "trang-bi/su-dung.md"
+        },
+        {
+          "id": "trang-bi/su-dung",
+          "title": "Sử Dụng:",
+          "type": "section",
+          "level": "h3",
+          "file": "trang-bi/su-dung.md"
+        },
+        {
+          "id": "trang-bi/giai-đoan-cap-tchinh-1-210",
+          "title": "Giai đoạn cấp T.Chinh 1-210",
+          "type": "section",
+          "level": "h2",
+          "file": "trang-bi/giai-đoan-cap-tchinh-1-210.md"
+        },
+        {
+          "id": "trang-bi/giai-đoan-cap-tchinh-1-210",
+          "title": "Giai đoạn cấp T.Chinh 1-210",
+          "type": "section",
+          "level": "h2",
+          "file": "trang-bi/giai-đoan-cap-tchinh-1-210.md"
+        },
+        {
+          "id": "trang-bi/giai-đoan-210-tro-đi",
+          "title": "Giai đoạn 210 trở đi:",
+          "type": "section",
+          "level": "h3",
+          "file": "trang-bi/giai-đoan-210-tro-đi.md"
+        },
+        {
+          "id": "trang-bi/giai-đoan-210-tro-đi",
+          "title": "Giai đoạn 210 trở đi:",
+          "type": "section",
+          "level": "h3",
+          "file": "trang-bi/giai-đoan-210-tro-đi.md"
+        },
+        {
+          "id": "trang-bi/chien-ky",
+          "title": "Chiến Kỳ:",
+          "type": "section",
+          "level": "h3",
+          "file": "trang-bi/chien-ky.md"
+        },
+        {
+          "id": "trang-bi/chien-ky",
+          "title": "Chiến Kỳ:",
+          "type": "section",
+          "level": "h3",
+          "file": "trang-bi/chien-ky.md"
+        },
+        {
+          "id": "trang-bi/thanh-long-tchinh-280",
+          "title": "Thanh Long: T.Chinh 280",
+          "type": "section",
+          "level": "h2",
+          "file": "trang-bi/thanh-long-tchinh-280.md"
+        },
+        {
+          "id": "trang-bi/thanh-long-tchinh-280",
+          "title": "Thanh Long: T.Chinh 280",
+          "type": "section",
+          "level": "h2",
+          "file": "trang-bi/thanh-long-tchinh-280.md"
+        },
+        {
+          "id": "trang-bi/thuoc-tinh-chien-ky",
+          "title": "Thuộc Tính Chiến Kỳ:",
+          "type": "section",
+          "level": "h3",
+          "file": "trang-bi/thuoc-tinh-chien-ky.md"
+        },
+        {
+          "id": "trang-bi/thuoc-tinh-chien-ky",
+          "title": "Thuộc Tính Chiến Kỳ:",
+          "type": "section",
+          "level": "h3",
+          "file": "trang-bi/thuoc-tinh-chien-ky.md"
+        },
+        {
+          "id": "trang-bi/loan-ton-vien",
+          "title": "Loạn Tôn Viện",
+          "type": "section",
+          "level": "h2",
+          "file": "trang-bi/loan-ton-vien.md"
+        },
+        {
+          "id": "trang-bi/loan-ton-vien",
+          "title": "Loạn Tôn Viện",
+          "type": "section",
+          "level": "h2",
+          "file": "trang-bi/loan-ton-vien.md"
+        },
+        {
+          "id": "trang-bi/bau-vat",
+          "title": "Báu Vật:",
+          "type": "section",
+          "level": "h3",
+          "file": "trang-bi/bau-vat.md"
+        },
+        {
+          "id": "trang-bi/bau-vat",
+          "title": "Báu Vật:",
+          "type": "section",
+          "level": "h3",
+          "file": "trang-bi/bau-vat.md"
+        },
+        {
+          "id": "trang-bi/ren-bao-vat",
+          "title": "Rèn Bảo Vật:",
+          "type": "section",
+          "level": "h3",
+          "file": "trang-bi/ren-bao-vat.md"
+        },
+        {
+          "id": "trang-bi/ren-bao-vat",
+          "title": "Rèn Bảo Vật:",
+          "type": "section",
+          "level": "h3",
+          "file": "trang-bi/ren-bao-vat.md"
+        },
+        {
+          "id": "trang-bi/thuoc-tinh-toi-đa-3-dong",
+          "title": "Thuộc tính tối đa 3 dòng",
+          "type": "section",
+          "level": "h2",
+          "file": "trang-bi/thuoc-tinh-toi-đa-3-dong.md"
+        },
+        {
+          "id": "trang-bi/thuoc-tinh-toi-đa-3-dong",
+          "title": "Thuộc tính tối đa 3 dòng",
+          "type": "section",
+          "level": "h2",
+          "file": "trang-bi/thuoc-tinh-toi-đa-3-dong.md"
+        },
+        {
+          "id": "trang-bi/than-binh",
+          "title": "Thần Binh:",
+          "type": "section",
+          "level": "h3",
+          "file": "trang-bi/than-binh.md"
+        },
+        {
+          "id": "trang-bi/than-binh",
+          "title": "Thần Binh:",
+          "type": "section",
+          "level": "h3",
+          "file": "trang-bi/than-binh.md"
+        },
+        {
+          "id": "trang-bi/ky-vat",
+          "title": "Kỳ Vật",
+          "type": "section",
+          "level": "h2",
+          "file": "trang-bi/ky-vat.md"
+        }
+      ]
+    },
+    {
+      "id": "ma-truong",
+      "order": 3,
+      "title": "Mã Trường",
+      "type": "document",
+      "source": "Mã Trường.docx",
+      "children": [
+        {
+          "id": "ma-truong/index",
+          "title": "Mã Trường",
+          "type": "section",
+          "level": "h1",
+          "file": "ma-truong/index.md"
+        },
+        {
+          "id": "ma-truong/index",
+          "title": "Mã Trường",
+          "type": "section",
+          "level": "h1",
+          "file": "ma-truong/index.md"
+        },
+        {
+          "id": "ma-truong/tong-quan-chien-ma",
+          "title": "Tổng quan chiến mã",
+          "type": "section",
+          "level": "h2",
+          "file": "ma-truong/tong-quan-chien-ma.md"
+        },
+        {
+          "id": "ma-truong/tong-quan-chien-ma",
+          "title": "Tổng quan chiến mã",
+          "type": "section",
+          "level": "h2",
+          "file": "ma-truong/tong-quan-chien-ma.md"
+        },
+        {
+          "id": "ma-truong/chien-ma-toi-đa",
+          "title": "Chiến Mã Tối Đa:",
+          "type": "section",
+          "level": "h3",
+          "file": "ma-truong/chien-ma-toi-đa.md"
+        }
+      ]
+    },
+    {
+      "id": "vo-tri-ki",
+      "order": 4,
+      "title": "Vợ Tri Kỉ",
+      "type": "document",
+      "source": "Vợ Tri Kỉ.docx",
+      "children": [
+        {
+          "id": "vo-tri-ki/the-tu---tri-ky---my-nu",
+          "title": "THÊ TỬ - TRI KỶ - MỸ NỮ",
+          "type": "section",
+          "level": "h1",
+          "file": "vo-tri-ki/the-tu---tri-ky---my-nu.md"
+        },
+        {
+          "id": "vo-tri-ki/the-tu---tri-ky---my-nu",
+          "title": "THÊ TỬ - TRI KỶ - MỸ NỮ",
+          "type": "section",
+          "level": "h1",
+          "file": "vo-tri-ki/the-tu---tri-ky---my-nu.md"
+        },
+        {
+          "id": "vo-tri-ki/ve-thuoc-tinh-co-6-loai-thuoc-tinh",
+          "title": "Về thuộc tính, có 6 loại thuộc tính:",
+          "type": "section",
+          "level": "h3",
+          "file": "vo-tri-ki/ve-thuoc-tinh-co-6-loai-thuoc-tinh.md"
+        },
+        {
+          "id": "vo-tri-ki/ve-thuoc-tinh-co-6-loai-thuoc-tinh",
+          "title": "Về thuộc tính, có 6 loại thuộc tính:",
+          "type": "section",
+          "level": "h3",
+          "file": "vo-tri-ki/ve-thuoc-tinh-co-6-loai-thuoc-tinh.md"
+        },
+        {
+          "id": "vo-tri-ki/ve-cap-đo",
+          "title": "Về cấp độ:",
+          "type": "section",
+          "level": "h3",
+          "file": "vo-tri-ki/ve-cap-đo.md"
+        },
+        {
+          "id": "vo-tri-ki/ve-cap-đo",
+          "title": "Về cấp độ:",
+          "type": "section",
+          "level": "h3",
+          "file": "vo-tri-ki/ve-cap-đo.md"
+        },
+        {
+          "id": "vo-tri-ki/ve-đo-than-mat",
+          "title": "Về độ thân mật:",
+          "type": "section",
+          "level": "h3",
+          "file": "vo-tri-ki/ve-đo-than-mat.md"
+        },
+        {
+          "id": "vo-tri-ki/ve-đo-than-mat",
+          "title": "Về độ thân mật:",
+          "type": "section",
+          "level": "h3",
+          "file": "vo-tri-ki/ve-đo-than-mat.md"
+        },
+        {
+          "id": "vo-tri-ki/ti-di-ho-can-127-hđc",
+          "title": "Ti Di Hồ cần 127 HĐC",
+          "type": "section",
+          "level": "h2",
+          "file": "vo-tri-ki/ti-di-ho-can-127-hđc.md"
+        },
+        {
+          "id": "vo-tri-ki/ti-di-ho-can-127-hđc",
+          "title": "Ti Di Hồ cần 127 HĐC",
+          "type": "section",
+          "level": "h2",
+          "file": "vo-tri-ki/ti-di-ho-can-127-hđc.md"
+        },
+        {
+          "id": "vo-tri-ki/ve-tro-chuyen-voi-my-nu-tim-vang",
+          "title": "Về Trò Chuyện với Mỹ Nữ Tím/ Vàng:",
+          "type": "section",
+          "level": "h3",
+          "file": "vo-tri-ki/ve-tro-chuyen-voi-my-nu-tim-vang.md"
+        },
+        {
+          "id": "vo-tri-ki/ve-tro-chuyen-voi-my-nu-tim-vang",
+          "title": "Về Trò Chuyện với Mỹ Nữ Tím/ Vàng:",
+          "type": "section",
+          "level": "h3",
+          "file": "vo-tri-ki/ve-tro-chuyen-voi-my-nu-tim-vang.md"
+        },
+        {
+          "id": "vo-tri-ki/ve-the-tu",
+          "title": "Về Thê Tử:",
+          "type": "section",
+          "level": "h3",
+          "file": "vo-tri-ki/ve-the-tu.md"
+        },
+        {
+          "id": "vo-tri-ki/ve-the-tu",
+          "title": "Về Thê Tử:",
+          "type": "section",
+          "level": "h3",
+          "file": "vo-tri-ki/ve-the-tu.md"
+        },
+        {
+          "id": "vo-tri-ki/đo-09cap",
+          "title": "Đỏ: 0.9%/cấp",
+          "type": "section",
+          "level": "h2",
+          "file": "vo-tri-ki/đo-09cap.md"
+        },
+        {
+          "id": "vo-tri-ki/đo-09cap",
+          "title": "Đỏ: 0.9%/cấp",
+          "type": "section",
+          "level": "h2",
+          "file": "vo-tri-ki/đo-09cap.md"
+        },
+        {
+          "id": "vo-tri-ki/tu-cap-230",
+          "title": "Từ cấp 230:",
+          "type": "section",
+          "level": "h3",
+          "file": "vo-tri-ki/tu-cap-230.md"
+        },
+        {
+          "id": "vo-tri-ki/tu-cap-230",
+          "title": "Từ cấp 230:",
+          "type": "section",
+          "level": "h3",
+          "file": "vo-tri-ki/tu-cap-230.md"
+        }
+      ]
+    },
+    {
+      "id": "thong-soai",
+      "order": 5,
+      "title": "Thống Soái",
+      "type": "document",
+      "source": "Thống Soái.docx",
+      "children": [
+        {
+          "id": "thong-soai/thong-soai",
+          "title": "THỐNG SOÁI",
+          "type": "section",
+          "level": "h2",
+          "file": "thong-soai/thong-soai.md"
+        },
+        {
+          "id": "thong-soai/thong-soai",
+          "title": "THỐNG SOÁI",
+          "type": "section",
+          "level": "h2",
+          "file": "thong-soai/thong-soai.md"
+        },
+        {
+          "id": "thong-soai/li-do-dung",
+          "title": "Lí do dùng:",
+          "type": "section",
+          "level": "h3",
+          "file": "thong-soai/li-do-dung.md"
+        },
+        {
+          "id": "thong-soai/li-do-dung",
+          "title": "Lí do dùng:",
+          "type": "section",
+          "level": "h3",
+          "file": "thong-soai/li-do-dung.md"
+        },
+        {
+          "id": "thong-soai/thoi-điem-dung",
+          "title": "Thời điểm dùng:",
+          "type": "section",
+          "level": "h3",
+          "file": "thong-soai/thoi-điem-dung.md"
+        },
+        {
+          "id": "thong-soai/thoi-điem-dung",
+          "title": "Thời điểm dùng:",
+          "type": "section",
+          "level": "h3",
+          "file": "thong-soai/thoi-điem-dung.md"
+        },
+        {
+          "id": "thong-soai/li-do-thu-trau",
+          "title": "Lí do: thủ trâu",
+          "type": "section",
+          "level": "h2",
+          "file": "thong-soai/li-do-thu-trau.md"
+        }
+      ]
+    },
+    {
+      "id": "vu-khi-dac-biet",
+      "order": 6,
+      "title": "Vũ Khí Đặc Biệt",
+      "type": "document",
+      "source": "Vũ Khí Đặc Biệt.docx",
+      "children": [
+        {
+          "id": "vu-khi-dac-biet/vu-khi-đac-biet",
+          "title": "VŨ KHÍ ĐẶC BIỆT",
+          "type": "section",
+          "level": "h2",
+          "file": "vu-khi-dac-biet/vu-khi-đac-biet.md"
+        },
+        {
+          "id": "vu-khi-dac-biet/vu-khi-đac-biet",
+          "title": "VŨ KHÍ ĐẶC BIỆT",
+          "type": "section",
+          "level": "h2",
+          "file": "vu-khi-dac-biet/vu-khi-đac-biet.md"
+        },
+        {
+          "id": "vu-khi-dac-biet/cach-đe-tra-cuu-vkdb-cua-cac-tuong",
+          "title": "Cách để tra cứu VKDB của các tướng:",
+          "type": "section",
+          "level": "h3",
+          "file": "vu-khi-dac-biet/cach-đe-tra-cuu-vkdb-cua-cac-tuong.md"
+        }
+      ]
+    },
+    {
+      "id": "an-ke-thua",
+      "order": 7,
+      "title": "Ấn Kế Thừa",
+      "type": "document",
+      "source": "Ấn Kế Thừa.docx",
+      "children": [
+        {
+          "id": "an-ke-thua/an-ke-thua",
+          "title": "ẤN KẾ THỪA",
+          "type": "section",
+          "level": "h2",
+          "file": "an-ke-thua/an-ke-thua.md"
+        },
+        {
+          "id": "an-ke-thua/an-ke-thua",
+          "title": "ẤN KẾ THỪA",
+          "type": "section",
+          "level": "h2",
+          "file": "an-ke-thua/an-ke-thua.md"
+        },
+        {
+          "id": "an-ke-thua/vi-du-ma-van-loc",
+          "title": "Ví dụ: Mã Vân Lộc:",
+          "type": "section",
+          "level": "h3",
+          "file": "an-ke-thua/vi-du-ma-van-loc.md"
+        },
+        {
+          "id": "an-ke-thua/vi-du-ma-van-loc",
+          "title": "Ví dụ: Mã Vân Lộc:",
+          "type": "section",
+          "level": "h3",
+          "file": "an-ke-thua/vi-du-ma-van-loc.md"
+        },
+        {
+          "id": "an-ke-thua/cuong-hoa-an-ke-thua",
+          "title": "Cường Hoá Ấn Kế Thừa:",
+          "type": "section",
+          "level": "h3",
+          "file": "an-ke-thua/cuong-hoa-an-ke-thua.md"
+        },
+        {
+          "id": "an-ke-thua/cuong-hoa-an-ke-thua",
+          "title": "Cường Hoá Ấn Kế Thừa:",
+          "type": "section",
+          "level": "h3",
+          "file": "an-ke-thua/cuong-hoa-an-ke-thua.md"
+        }
+      ]
+    },
+    {
+      "id": "quy-tu",
+      "order": 8,
+      "title": "Quý Tử",
+      "type": "document",
+      "source": "Quý Tử.docx",
+      "children": [
+        {
+          "id": "quy-tu/quy-tu",
+          "title": "QUÝ TỬ",
+          "type": "section",
+          "level": "h2",
+          "file": "quy-tu/quy-tu.md"
+        },
+        {
+          "id": "quy-tu/quy-tu",
+          "title": "QUÝ TỬ",
+          "type": "section",
+          "level": "h2",
+          "file": "quy-tu/quy-tu.md"
+        },
+        {
+          "id": "quy-tu/tong-quan",
+          "title": "Tổng quan:",
+          "type": "section",
+          "level": "h3",
+          "file": "quy-tu/tong-quan.md"
+        },
+        {
+          "id": "quy-tu/tong-quan",
+          "title": "Tổng quan:",
+          "type": "section",
+          "level": "h3",
+          "file": "quy-tu/tong-quan.md"
+        },
+        {
+          "id": "quy-tu/quyet-thang-thien-ly-quach-gia",
+          "title": "Quyết Thắng Thiên Lý (Quách Gia)",
+          "type": "section",
+          "level": "h2",
+          "file": "quy-tu/quyet-thang-thien-ly-quach-gia.md"
+        },
+        {
+          "id": "quy-tu/quyet-thang-thien-ly-quach-gia",
+          "title": "Quyết Thắng Thiên Lý (Quách Gia)",
+          "type": "section",
+          "level": "h2",
+          "file": "quy-tu/quyet-thang-thien-ly-quach-gia.md"
+        },
+        {
+          "id": "quy-tu/loa-y-no-tap-hua-chu",
+          "title": "Loã Y Nộ Tập (Hứa Chử)",
+          "type": "section",
+          "level": "h2",
+          "file": "quy-tu/loa-y-no-tap-hua-chu.md"
+        },
+        {
+          "id": "quy-tu/loa-y-no-tap-hua-chu",
+          "title": "Loã Y Nộ Tập (Hứa Chử)",
+          "type": "section",
+          "level": "h2",
+          "file": "quy-tu/loa-y-no-tap-hua-chu.md"
+        },
+        {
+          "id": "quy-tu/giai-đoan-thuoc-tinh",
+          "title": "Giai đoạn Thuộc Tính",
+          "type": "section",
+          "level": "h2",
+          "file": "quy-tu/giai-đoan-thuoc-tinh.md"
+        },
+        {
+          "id": "quy-tu/giai-đoan-thuoc-tinh",
+          "title": "Giai đoạn Thuộc Tính",
+          "type": "section",
+          "level": "h2",
+          "file": "quy-tu/giai-đoan-thuoc-tinh.md"
+        },
+        {
+          "id": "quy-tu/hieu-qua-cao-mau-cam",
+          "title": "Hiệu quả cao: Màu Cam",
+          "type": "section",
+          "level": "h2",
+          "file": "quy-tu/hieu-qua-cao-mau-cam.md"
+        },
+        {
+          "id": "quy-tu/hieu-qua-cao-mau-cam",
+          "title": "Hiệu quả cao: Màu Cam",
+          "type": "section",
+          "level": "h2",
+          "file": "quy-tu/hieu-qua-cao-mau-cam.md"
+        },
+        {
+          "id": "quy-tu/chuy-truong-thanhu",
+          "title": "C.Huy Trưởng Thànhư\\",
+          "type": "section",
+          "level": "h2",
+          "file": "quy-tu/chuy-truong-thanhu.md"
+        },
+        {
+          "id": "quy-tu/chuy-truong-thanhu",
+          "title": "C.Huy Trưởng Thànhư\\",
+          "type": "section",
+          "level": "h2",
+          "file": "quy-tu/chuy-truong-thanhu.md"
+        },
+        {
+          "id": "quy-tu/lua-chon-su-phu",
+          "title": "Lựa Chọn Sư Phụ:",
+          "type": "section",
+          "level": "h3",
+          "file": "quy-tu/lua-chon-su-phu.md"
+        },
+        {
+          "id": "quy-tu/lua-chon-su-phu",
+          "title": "Lựa Chọn Sư Phụ:",
+          "type": "section",
+          "level": "h3",
+          "file": "quy-tu/lua-chon-su-phu.md"
+        },
+        {
+          "id": "quy-tu/giai-đoan-ky-nang",
+          "title": "Giai đoạn Kỹ Năng",
+          "type": "section",
+          "level": "h2",
+          "file": "quy-tu/giai-đoan-ky-nang.md"
+        },
+        {
+          "id": "quy-tu/giai-đoan-ky-nang",
+          "title": "Giai đoạn Kỹ Năng",
+          "type": "section",
+          "level": "h2",
+          "file": "quy-tu/giai-đoan-ky-nang.md"
+        },
+        {
+          "id": "quy-tu/he-ke-sach",
+          "title": "Hệ Kế Sách:",
+          "type": "section",
+          "level": "h3",
+          "file": "quy-tu/he-ke-sach.md"
+        },
+        {
+          "id": "quy-tu/he-ke-sach",
+          "title": "Hệ Kế Sách:",
+          "type": "section",
+          "level": "h3",
+          "file": "quy-tu/he-ke-sach.md"
+        }
+      ]
+    }
+  ]
+}

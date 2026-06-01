@@ -1,0 +1,7 @@
+## Lời Mở Đầu
+
+Chào mừng anh em đến với Ngoạ Long VNG! Nhóm mình là Quân đoàn Mây – Cụm 2 – Thục quốc (Zalo: 0949074172) gửi lời chào đến anh em. Do nhận thấy đa phần anh em chơi lại sau một thời gian khá dài, rất nhiều tính năng mới được trò chơi cập nhật, nhằm hạn chế những sai lầm do anh em còn vương vấn những kí ức, nhóm mình quyết định sắp xếp lại một chút thông tin trò chơi, giúp anh em có thể dễ dàng tiếp cận trò chơi, nhanh chóng trải nghiệm những tính năng thú vị.
+Cẩm Nang Thục Quốc dựa trên kinh nghiệm của nhóm mình, cùng các bài hướng dẫn của các anh em đi trước trên nhóm facebook như Hắc Long, Bảo Long – Người Lào,…
+Cẩm Nang Thục Quốc sẽ cung cấp thông tin theo giai đoạn tương ứng với phẩm chất của tướng bao gồm Giai đoạn Xanh Lam, Giai đoạn Xanh Lục, Giai đoạn Đỏ, Giai đoạn Tím, Giai đoạn Cam và Giai đoạn Vàng (đang cập nhật). Ngoài ra còn Sự Kiện, giúp anh em nâng cấp sức mạnh tối ưu.
+Nhìn chung, Thục quốc là quốc gia phù hợp cho anh em từ cày chay tới nạp vip, lối chơi thục quốc cũng khá đa dạng cho anh em lựa chọn. Tuy nhiên lựa chọn tối ưu cho anh em là theo hướng “Pháp công” (“Chiến công”) với tướng chủ lực là Mã Vân Lộc. Để đa dạng hoá lối chơi, nhóm có mở chuyên mục Lối Đi Riêng với những hướng đi tướng chủ lực khác.
+Ngoài Cẩm Nang Thục Quốc, nhóm cũng cập nhật thêm một số bài về các tính năng quan trọng như: Tri kỷ/Vợ; Quý Tử, Vũ Khí Đặc Biệt, Ấn Truyền Thừa, Mã Trường,…. và quan trọng nhất là Chiến Báo cho các NPC khó nhằn. Mong nhận được sự ủng hộ của anh em Thục Quốc.

@@ -1,0 +1,30 @@
+{
+  "order": 6,
+  "slug": "vu-khi-dac-biet",
+  "title": "Vũ Khí Đặc Biệt",
+  "source": "Vũ Khí Đặc Biệt.docx",
+  "totalImages": 7,
+  "children": [
+    {
+      "slug": "vu-khi-đac-biet",
+      "title": "VŨ KHÍ ĐẶC BIỆT",
+      "level": "h2",
+      "file": "vu-khi-dac-biet/vu-khi-đac-biet.md",
+      "imageCount": 3
+    },
+    {
+      "slug": "vu-khi-đac-biet",
+      "title": "VŨ KHÍ ĐẶC BIỆT",
+      "level": "h2",
+      "file": "vu-khi-dac-biet/vu-khi-đac-biet.md",
+      "imageCount": 3
+    },
+    {
+      "slug": "cach-đe-tra-cuu-vkdb-cua-cac-tuong",
+      "title": "Cách để tra cứu VKDB của các tướng:",
+      "level": "h3",
+      "file": "vu-khi-dac-biet/cach-đe-tra-cuu-vkdb-cua-cac-tuong.md",
+      "imageCount": 1
+    }
+  ]
+}

@@ -1,0 +1,436 @@
+{
+  "order": 2,
+  "slug": "trang-bi",
+  "title": "Trang Bị",
+  "source": "Trang Bị.docx",
+  "totalImages": 33,
+  "children": [
+    {
+      "slug": "trang-bi",
+      "title": "TRANG BỊ",
+      "level": "h2",
+      "file": "trang-bi/trang-bi.md",
+      "imageCount": 0
+    },
+    {
+      "slug": "trang-bi",
+      "title": "TRANG BỊ",
+      "level": "h2",
+      "file": "trang-bi/trang-bi.md",
+      "imageCount": 0
+    },
+    {
+      "slug": "trang-bi",
+      "title": "Trang Bị:",
+      "level": "h3",
+      "file": "trang-bi/trang-bi.md",
+      "imageCount": 1
+    },
+    {
+      "slug": "trang-bi",
+      "title": "Trang Bị:",
+      "level": "h3",
+      "file": "trang-bi/trang-bi.md",
+      "imageCount": 1
+    },
+    {
+      "slug": "thuoc-tinh-cua-trang-bi",
+      "title": "Thuộc Tính Của Trang Bị:",
+      "level": "h3",
+      "file": "trang-bi/thuoc-tinh-cua-trang-bi.md",
+      "imageCount": 0
+    },
+    {
+      "slug": "thuoc-tinh-cua-trang-bi",
+      "title": "Thuộc Tính Của Trang Bị:",
+      "level": "h3",
+      "file": "trang-bi/thuoc-tinh-cua-trang-bi.md",
+      "imageCount": 0
+    },
+    {
+      "slug": "chi-so-đuc",
+      "title": "Chỉ số Đúc:",
+      "level": "h3",
+      "file": "trang-bi/chi-so-đuc.md",
+      "imageCount": 0
+    },
+    {
+      "slug": "chi-so-đuc",
+      "title": "Chỉ số Đúc:",
+      "level": "h3",
+      "file": "trang-bi/chi-so-đuc.md",
+      "imageCount": 0
+    },
+    {
+      "slug": "tluyen",
+      "title": "T.luyện:",
+      "level": "h3",
+      "file": "trang-bi/tluyen.md",
+      "imageCount": 0
+    },
+    {
+      "slug": "tluyen",
+      "title": "T.luyện:",
+      "level": "h3",
+      "file": "trang-bi/tluyen.md",
+      "imageCount": 0
+    },
+    {
+      "slug": "khac-van-khac-an",
+      "title": "Khắc Văn/ Khắc Ấn:",
+      "level": "h3",
+      "file": "trang-bi/khac-van-khac-an.md",
+      "imageCount": 0
+    },
+    {
+      "slug": "khac-van-khac-an",
+      "title": "Khắc Văn/ Khắc Ấn:",
+      "level": "h3",
+      "file": "trang-bi/khac-van-khac-an.md",
+      "imageCount": 0
+    },
+    {
+      "slug": "huong-dan-cuong-hoa",
+      "title": "Hướng dẫn Cường hoá",
+      "level": "h2",
+      "file": "trang-bi/huong-dan-cuong-hoa.md",
+      "imageCount": 0
+    },
+    {
+      "slug": "huong-dan-cuong-hoa",
+      "title": "Hướng dẫn Cường hoá",
+      "level": "h2",
+      "file": "trang-bi/huong-dan-cuong-hoa.md",
+      "imageCount": 0
+    },
+    {
+      "slug": "uu-tien-cuong-hoa",
+      "title": "Ưu tiên cường hoá",
+      "level": "h2",
+      "file": "trang-bi/uu-tien-cuong-hoa.md",
+      "imageCount": 0
+    },
+    {
+      "slug": "uu-tien-cuong-hoa",
+      "title": "Ưu tiên cường hoá",
+      "level": "h2",
+      "file": "trang-bi/uu-tien-cuong-hoa.md",
+      "imageCount": 0
+    },
+    {
+      "slug": "dan-binh",
+      "title": "Dẫn Binh:",
+      "level": "h3",
+      "file": "trang-bi/dan-binh.md",
+      "imageCount": 0
+    },
+    {
+      "slug": "dan-binh",
+      "title": "Dẫn Binh:",
+      "level": "h3",
+      "file": "trang-bi/dan-binh.md",
+      "imageCount": 0
+    },
+    {
+      "slug": "huong-dan-đuc",
+      "title": "Hướng dẫn Đúc:",
+      "level": "h3",
+      "file": "trang-bi/huong-dan-đuc.md",
+      "imageCount": 0
+    },
+    {
+      "slug": "huong-dan-đuc",
+      "title": "Hướng dẫn Đúc:",
+      "level": "h3",
+      "file": "trang-bi/huong-dan-đuc.md",
+      "imageCount": 0
+    },
+    {
+      "slug": "đuc-bang-bac",
+      "title": "Đúc bằng bạc:",
+      "level": "h3",
+      "file": "trang-bi/đuc-bang-bac.md",
+      "imageCount": 0
+    },
+    {
+      "slug": "đuc-bang-bac",
+      "title": "Đúc bằng bạc:",
+      "level": "h3",
+      "file": "trang-bi/đuc-bang-bac.md",
+      "imageCount": 0
+    },
+    {
+      "slug": "đuc-bang-ngoc",
+      "title": "Đúc bằng ngọc:",
+      "level": "h3",
+      "file": "trang-bi/đuc-bang-ngoc.md",
+      "imageCount": 3
+    },
+    {
+      "slug": "đuc-bang-ngoc",
+      "title": "Đúc bằng ngọc:",
+      "level": "h3",
+      "file": "trang-bi/đuc-bang-ngoc.md",
+      "imageCount": 3
+    },
+    {
+      "slug": "yeu-cau",
+      "title": "Yêu Cầu",
+      "level": "h2",
+      "file": "trang-bi/yeu-cau.md",
+      "imageCount": 0
+    },
+    {
+      "slug": "yeu-cau",
+      "title": "Yêu Cầu",
+      "level": "h2",
+      "file": "trang-bi/yeu-cau.md",
+      "imageCount": 0
+    },
+    {
+      "slug": "tinh-luyen-so",
+      "title": "Tinh Luyện Sơ",
+      "level": "h2",
+      "file": "trang-bi/tinh-luyen-so.md",
+      "imageCount": 0
+    },
+    {
+      "slug": "tinh-luyen-so",
+      "title": "Tinh Luyện Sơ",
+      "level": "h2",
+      "file": "trang-bi/tinh-luyen-so.md",
+      "imageCount": 0
+    },
+    {
+      "slug": "tinh-luyen-cao",
+      "title": "Tinh Luyện Cao",
+      "level": "h2",
+      "file": "trang-bi/tinh-luyen-cao.md",
+      "imageCount": 0
+    },
+    {
+      "slug": "tinh-luyen-cao",
+      "title": "Tinh Luyện Cao",
+      "level": "h2",
+      "file": "trang-bi/tinh-luyen-cao.md",
+      "imageCount": 0
+    },
+    {
+      "slug": "đac-ky-co-the-nhan-tuong-tu-nhau",
+      "title": "Đặc Kỹ có thể nhận tương tự nhau:",
+      "level": "h3",
+      "file": "trang-bi/đac-ky-co-the-nhan-tuong-tu-nhau.md",
+      "imageCount": 1
+    },
+    {
+      "slug": "đac-ky-co-the-nhan-tuong-tu-nhau",
+      "title": "Đặc Kỹ có thể nhận tương tự nhau:",
+      "level": "h3",
+      "file": "trang-bi/đac-ky-co-the-nhan-tuong-tu-nhau.md",
+      "imageCount": 1
+    },
+    {
+      "slug": "huong-dan-cach-tinh-luyen",
+      "title": "Hướng dẫn cách Tinh luyện:",
+      "level": "h3",
+      "file": "trang-bi/huong-dan-cach-tinh-luyen.md",
+      "imageCount": 0
+    },
+    {
+      "slug": "huong-dan-cach-tinh-luyen",
+      "title": "Hướng dẫn cách Tinh luyện:",
+      "level": "h3",
+      "file": "trang-bi/huong-dan-cach-tinh-luyen.md",
+      "imageCount": 0
+    },
+    {
+      "slug": "huong-dan-khac-van-khac-an",
+      "title": "Hướng dẫn Khắc Văn Khắc Ấn",
+      "level": "h2",
+      "file": "trang-bi/huong-dan-khac-van-khac-an.md",
+      "imageCount": 0
+    },
+    {
+      "slug": "huong-dan-khac-van-khac-an",
+      "title": "Hướng dẫn Khắc Văn Khắc Ấn",
+      "level": "h2",
+      "file": "trang-bi/huong-dan-khac-van-khac-an.md",
+      "imageCount": 0
+    },
+    {
+      "slug": "van-tang-linh",
+      "title": "Văn: tăng lính",
+      "level": "h2",
+      "file": "trang-bi/van-tang-linh.md",
+      "imageCount": 4
+    },
+    {
+      "slug": "van-tang-linh",
+      "title": "Văn: tăng lính",
+      "level": "h2",
+      "file": "trang-bi/van-tang-linh.md",
+      "imageCount": 4
+    },
+    {
+      "slug": "su-dung",
+      "title": "Sử Dụng:",
+      "level": "h3",
+      "file": "trang-bi/su-dung.md",
+      "imageCount": 0
+    },
+    {
+      "slug": "su-dung",
+      "title": "Sử Dụng:",
+      "level": "h3",
+      "file": "trang-bi/su-dung.md",
+      "imageCount": 0
+    },
+    {
+      "slug": "giai-đoan-cap-tchinh-1-210",
+      "title": "Giai đoạn cấp T.Chinh 1-210",
+      "level": "h2",
+      "file": "trang-bi/giai-đoan-cap-tchinh-1-210.md",
+      "imageCount": 0
+    },
+    {
+      "slug": "giai-đoan-cap-tchinh-1-210",
+      "title": "Giai đoạn cấp T.Chinh 1-210",
+      "level": "h2",
+      "file": "trang-bi/giai-đoan-cap-tchinh-1-210.md",
+      "imageCount": 0
+    },
+    {
+      "slug": "giai-đoan-210-tro-đi",
+      "title": "Giai đoạn 210 trở đi:",
+      "level": "h3",
+      "file": "trang-bi/giai-đoan-210-tro-đi.md",
+      "imageCount": 0
+    },
+    {
+      "slug": "giai-đoan-210-tro-đi",
+      "title": "Giai đoạn 210 trở đi:",
+      "level": "h3",
+      "file": "trang-bi/giai-đoan-210-tro-đi.md",
+      "imageCount": 0
+    },
+    {
+      "slug": "chien-ky",
+      "title": "Chiến Kỳ:",
+      "level": "h3",
+      "file": "trang-bi/chien-ky.md",
+      "imageCount": 0
+    },
+    {
+      "slug": "chien-ky",
+      "title": "Chiến Kỳ:",
+      "level": "h3",
+      "file": "trang-bi/chien-ky.md",
+      "imageCount": 0
+    },
+    {
+      "slug": "thanh-long-tchinh-280",
+      "title": "Thanh Long: T.Chinh 280",
+      "level": "h2",
+      "file": "trang-bi/thanh-long-tchinh-280.md",
+      "imageCount": 0
+    },
+    {
+      "slug": "thanh-long-tchinh-280",
+      "title": "Thanh Long: T.Chinh 280",
+      "level": "h2",
+      "file": "trang-bi/thanh-long-tchinh-280.md",
+      "imageCount": 0
+    },
+    {
+      "slug": "thuoc-tinh-chien-ky",
+      "title": "Thuộc Tính Chiến Kỳ:",
+      "level": "h3",
+      "file": "trang-bi/thuoc-tinh-chien-ky.md",
+      "imageCount": 1
+    },
+    {
+      "slug": "thuoc-tinh-chien-ky",
+      "title": "Thuộc Tính Chiến Kỳ:",
+      "level": "h3",
+      "file": "trang-bi/thuoc-tinh-chien-ky.md",
+      "imageCount": 1
+    },
+    {
+      "slug": "loan-ton-vien",
+      "title": "Loạn Tôn Viện",
+      "level": "h2",
+      "file": "trang-bi/loan-ton-vien.md",
+      "imageCount": 0
+    },
+    {
+      "slug": "loan-ton-vien",
+      "title": "Loạn Tôn Viện",
+      "level": "h2",
+      "file": "trang-bi/loan-ton-vien.md",
+      "imageCount": 0
+    },
+    {
+      "slug": "bau-vat",
+      "title": "Báu Vật:",
+      "level": "h3",
+      "file": "trang-bi/bau-vat.md",
+      "imageCount": 0
+    },
+    {
+      "slug": "bau-vat",
+      "title": "Báu Vật:",
+      "level": "h3",
+      "file": "trang-bi/bau-vat.md",
+      "imageCount": 0
+    },
+    {
+      "slug": "ren-bao-vat",
+      "title": "Rèn Bảo Vật:",
+      "level": "h3",
+      "file": "trang-bi/ren-bao-vat.md",
+      "imageCount": 1
+    },
+    {
+      "slug": "ren-bao-vat",
+      "title": "Rèn Bảo Vật:",
+      "level": "h3",
+      "file": "trang-bi/ren-bao-vat.md",
+      "imageCount": 1
+    },
+    {
+      "slug": "thuoc-tinh-toi-đa-3-dong",
+      "title": "Thuộc tính tối đa 3 dòng",
+      "level": "h2",
+      "file": "trang-bi/thuoc-tinh-toi-đa-3-dong.md",
+      "imageCount": 1
+    },
+    {
+      "slug": "thuoc-tinh-toi-đa-3-dong",
+      "title": "Thuộc tính tối đa 3 dòng",
+      "level": "h2",
+      "file": "trang-bi/thuoc-tinh-toi-đa-3-dong.md",
+      "imageCount": 1
+    },
+    {
+      "slug": "than-binh",
+      "title": "Thần Binh:",
+      "level": "h3",
+      "file": "trang-bi/than-binh.md",
+      "imageCount": 3
+    },
+    {
+      "slug": "than-binh",
+      "title": "Thần Binh:",
+      "level": "h3",
+      "file": "trang-bi/than-binh.md",
+      "imageCount": 3
+    },
+    {
+      "slug": "ky-vat",
+      "title": "Kỳ Vật",
+      "level": "h2",
+      "file": "trang-bi/ky-vat.md",
+      "imageCount": 3
+    }
+  ]
+}

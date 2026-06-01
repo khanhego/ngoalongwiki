@@ -1,0 +1,48 @@
+{
+  "order": 7,
+  "slug": "07-vu-khi-dac-biet",
+  "title": "Vũ Khí Đặc Biệt",
+  "source": "7. Vũ Khí Đặc Biệt.pdf",
+  "totalImages": 161,
+  "children": [
+    {
+      "slug": "vu-khi-đac-biet",
+      "title": "Vũ Khí Đặc Biệt",
+      "level": "h1",
+      "file": "07-vu-khi-dac-biet/vu-khi-đac-biet.md",
+      "pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30
+      ],
+      "imageCount": 161
+    }
+  ]
+}

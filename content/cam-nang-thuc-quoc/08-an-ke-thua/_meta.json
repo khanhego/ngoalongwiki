@@ -1,0 +1,44 @@
+{
+  "order": 8,
+  "slug": "08-an-ke-thua",
+  "title": "Ấn Kế Thừa",
+  "source": "8. Ấn Kế Thừa.pdf",
+  "totalImages": 71,
+  "children": [
+    {
+      "slug": "an-ke-thua",
+      "title": "Ấn Kế Thừa",
+      "level": "h1",
+      "file": "08-an-ke-thua/an-ke-thua.md",
+      "pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26
+      ],
+      "imageCount": 71
+    }
+  ]
+}

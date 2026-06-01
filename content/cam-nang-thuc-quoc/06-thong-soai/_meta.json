@@ -1,0 +1,24 @@
+{
+  "order": 6,
+  "slug": "06-thong-soai",
+  "title": "Thống Soái",
+  "source": "6. Thống Soái.pdf",
+  "totalImages": 8,
+  "children": [
+    {
+      "slug": "thong-soai",
+      "title": "Thống Soái",
+      "level": "h1",
+      "file": "06-thong-soai/thong-soai.md",
+      "pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "imageCount": 8
+    }
+  ]
+}

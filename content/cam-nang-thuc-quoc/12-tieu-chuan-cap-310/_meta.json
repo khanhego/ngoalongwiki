@@ -1,0 +1,63 @@
+{
+  "order": 12,
+  "slug": "12-tieu-chuan-cap-310",
+  "title": "Tiêu Chuẩn Cấp 310",
+  "source": "12. Tiêu Chuẩn Cấp 310.pdf",
+  "totalImages": 21,
+  "children": [
+    {
+      "slug": "tieu-chuan-cap-310",
+      "title": "Tiêu Chuẩn Cấp 310",
+      "level": "h1",
+      "file": "12-tieu-chuan-cap-310/tieu-chuan-cap-310.md",
+      "pages": [
+        1
+      ],
+      "imageCount": 1
+    },
+    {
+      "slug": "1-dinh-phu",
+      "title": "1. Dinh Phủ:",
+      "level": "h3",
+      "file": "12-tieu-chuan-cap-310/1-dinh-phu.md",
+      "pages": [
+        1,
+        2
+      ],
+      "imageCount": 3
+    },
+    {
+      "slug": "2-tuong",
+      "title": "2. Tướng",
+      "level": "h3",
+      "file": "12-tieu-chuan-cap-310/2-tuong.md",
+      "pages": [
+        2
+      ],
+      "imageCount": 0
+    },
+    {
+      "slug": "3-trang-bi",
+      "title": "3. Trang Bị:",
+      "level": "h3",
+      "file": "12-tieu-chuan-cap-310/3-trang-bi.md",
+      "pages": [
+        3
+      ],
+      "imageCount": 9
+    },
+    {
+      "slug": "4-phu-sach-luoc-quan-su-phu",
+      "title": "4. Phủ Sách Lược – Quân Sự Phủ",
+      "level": "h3",
+      "file": "12-tieu-chuan-cap-310/4-phu-sach-luoc-quan-su-phu.md",
+      "pages": [
+        4,
+        5,
+        6,
+        7
+      ],
+      "imageCount": 8
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+### Cách kiếm:
+
+Hoạt động hàng ngày: săn bắn, mua quân lệnh, đổi quân lệnh (bằng điểm đấu trường), Năng Động (phần quà thực hiện nhiệm vụ ngày), Quà Năng Động (nhận được khi sử dụng số lượng quân lệnh nhất định, nằm trong Hoạt động),…

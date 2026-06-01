@@ -1,0 +1,80 @@
+{
+  "order": 9,
+  "slug": "09-quy-tu",
+  "title": "Quý Tử 2.0",
+  "source": "9. Quý Tử 2.0.pdf",
+  "totalImages": 17,
+  "children": [
+    {
+      "slug": "quy-tu-20",
+      "title": "Quý Tử 2.0",
+      "level": "h1",
+      "file": "09-quy-tu/quy-tu-20.md",
+      "pages": [
+        1,
+        2,
+        3
+      ],
+      "imageCount": 2
+    },
+    {
+      "slug": "1-giai-đoan-hoc-van",
+      "title": "1. Giai đoạn Học Vấn",
+      "level": "h3",
+      "file": "09-quy-tu/1-giai-đoan-hoc-van.md",
+      "pages": [
+        3,
+        4,
+        5,
+        6
+      ],
+      "imageCount": 3
+    },
+    {
+      "slug": "2-giai-đoan-trung-tu-thuc-tinh",
+      "title": "2. Giai đoạn Trùng Tu Thức Tỉnh",
+      "level": "h3",
+      "file": "09-quy-tu/2-giai-đoan-trung-tu-thuc-tinh.md",
+      "pages": [
+        7,
+        8
+      ],
+      "imageCount": 2
+    },
+    {
+      "slug": "3-giai-đoan-ren-luyen",
+      "title": "3. Giai đoạn Rèn Luyện",
+      "level": "h3",
+      "file": "09-quy-tu/3-giai-đoan-ren-luyen.md",
+      "pages": [
+        9,
+        10,
+        11
+      ],
+      "imageCount": 3
+    },
+    {
+      "slug": "4-giai-đoan-chu-chinh",
+      "title": "4. Giai đoạn Chủ Chính",
+      "level": "h3",
+      "file": "09-quy-tu/4-giai-đoan-chu-chinh.md",
+      "pages": [
+        12,
+        13,
+        14
+      ],
+      "imageCount": 4
+    },
+    {
+      "slug": "5-giai-đoan-giam-quoc",
+      "title": "5. Giai đoạn Giám Quốc",
+      "level": "h3",
+      "file": "09-quy-tu/5-giai-đoan-giam-quoc.md",
+      "pages": [
+        15,
+        16
+      ],
+      "imageCount": 3
+    }
+  ]
+}

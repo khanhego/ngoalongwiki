@@ -1,0 +1,36 @@
+{
+  "order": 13,
+  "slug": "13-he-thong-buff",
+  "title": "Hệ Thống Hiệu ứng (Buff)",
+  "source": "Hệ thống hiệu ứng (buff).pdf",
+  "totalImages": 203,
+  "children": [
+    {
+      "slug": "he-thong-hieu-ung-buff",
+      "title": "Hệ Thống Hiệu ứng (Buff)",
+      "level": "h1",
+      "file": "13-he-thong-buff/he-thong-hieu-ung-buff.md",
+      "pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "imageCount": 203
+    }
+  ]
+}

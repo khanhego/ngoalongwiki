@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Wiki Ngoạ Long</title>
+  <style>
+    :root {
+      --bg: #0a0e14;
+      --surface: #151c28;
+      --card: #1a2332;
+      --border: #2d3f56;
+      --text: #e8edf4;
+      --muted: #8b9cb3;
+      --accent: #c9a227;
+      --accent-glow: rgba(201, 162, 39, 0.15);
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: "Segoe UI", system-ui, -apple-system, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      min-height: 100vh;
+    }
+    .hero {
+      text-align: center;
+      padding: 72px 24px 40px;
+      background: linear-gradient(180deg, #121a28 0%, var(--bg) 100%);
+      border-bottom: 1px solid var(--border);
+    }
+    .hero h1 {
+      font-size: 2.2rem;
+      color: var(--accent);
+      margin-bottom: 8px;
+    }
+    .hero p {
+      color: var(--muted);
+      max-width: 520px;
+      margin: 0 auto;
+      line-height: 1.6;
+    }
+    .collections {
+      max-width: 960px;
+      margin: 48px auto;
+      padding: 0 24px 60px;
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+      gap: 24px;
+    }
+    .card {
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 28px;
+      cursor: pointer;
+      transition: border-color 0.2s, transform 0.2s, box-shadow 0.2s;
+      text-decoration: none;
+      color: inherit;
+      display: block;
+    }
+    .card:hover {
+      border-color: var(--accent);
+      transform: translateY(-3px);
+      box-shadow: 0 8px 32px rgba(0,0,0,0.3);
+    }
+    .card-icon { font-size: 2.5rem; margin-bottom: 16px; }
+    .card h2 { font-size: 1.25rem; margin-bottom: 8px; color: var(--text); }
+    .card p { color: var(--muted); font-size: 0.9rem; line-height: 1.5; margin-bottom: 16px; }
+    .card-meta {
+      display: flex;
+      gap: 16px;
+      font-size: 0.8rem;
+      color: var(--accent);
+    }
+    .card-meta span { opacity: 0.85; }
+    .footer {
+      text-align: center;
+      padding: 24px;
+      color: var(--muted);
+      font-size: 0.8rem;
+      border-top: 1px solid var(--border);
+    }
+    .loading { text-align: center; padding: 60px; color: var(--muted); }
+  </style>
+</head>
+<body>
+  <header class="hero">
+    <h1>⚔ Wiki Ngoạ Long</h1>
+    <p>Tổng hợp Cẩm Nang Thục Quốc — tìm kiếm nhanh, hỗ trợ tiếng Việt có/không dấu</p>
+  </header>
+
+  <div class="collections" id="collections">
+    <div class="loading">Đang tải...</div>
+  </div>
+
+  <footer class="footer" id="footer"></footer>
+
+  <script>
+    async function init() {
+      try {
+        const res = await fetch('data/site.json');
+        const site = await res.json();
+        document.getElementById('footer').textContent = site.footer;
+        document.getElementById('collections').innerHTML = site.collections.map(col => `
+          <a class="card" href="viewer.html?c=${col.id}">
+            <div class="card-icon">${col.icon}</div>
+            <h2>${col.title}</h2>
+            <p>${col.description}</p>
+            <div class="card-meta">
+              <span>${col.docCount || 0} tài liệu</span>
+              <span>${col.sectionCount || 0} mục</span>
+            </div>
+          </a>
+        `).join('');
+      } catch (e) {
+        document.getElementById('collections').innerHTML =
+          '<div class="loading">Không tải được dữ liệu. Chạy <code>python3 scripts/build_index.py</code></div>';
+      }
+    }
+    init();
+  </script>
+</body>
+</html>

@@ -1,0 +1,190 @@
+{
+  "order": 2,
+  "slug": "02-tai-nguyen",
+  "title": "Tài Nguyên",
+  "source": "2. Tài Nguyên.pdf",
+  "totalImages": 80,
+  "children": [
+    {
+      "slug": "tai-nguyen",
+      "title": "Tài Nguyên",
+      "level": "h1",
+      "file": "02-tai-nguyen/tai-nguyen.md",
+      "pages": [
+        1
+      ],
+      "imageCount": 0
+    },
+    {
+      "slug": "1-bac",
+      "title": "1. Bạc",
+      "level": "h3",
+      "file": "02-tai-nguyen/1-bac.md",
+      "pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "imageCount": 11
+    },
+    {
+      "slug": "2-chien-cong",
+      "title": "2. Chiến Công",
+      "level": "h3",
+      "file": "02-tai-nguyen/2-chien-cong.md",
+      "pages": [
+        7,
+        8,
+        9
+      ],
+      "imageCount": 6
+    },
+    {
+      "slug": "3-vang",
+      "title": "3. Vàng",
+      "level": "h3",
+      "file": "02-tai-nguyen/3-vang.md",
+      "pages": [
+        9,
+        10
+      ],
+      "imageCount": 0
+    },
+    {
+      "slug": "4-quan-lenh",
+      "title": "4. Quân Lệnh",
+      "level": "h3",
+      "file": "02-tai-nguyen/4-quan-lenh.md",
+      "pages": [
+        10
+      ],
+      "imageCount": 0
+    },
+    {
+      "slug": "5-nguyen-lieu-giac-ngo-tuong",
+      "title": "5. Nguyên liệu Giác Ngộ Tướng",
+      "level": "h3",
+      "file": "02-tai-nguyen/5-nguyen-lieu-giac-ngo-tuong.md",
+      "pages": [
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      "imageCount": 7
+    },
+    {
+      "slug": "6-chien-tich",
+      "title": "6. Chiến Tích",
+      "level": "h3",
+      "file": "02-tai-nguyen/6-chien-tich.md",
+      "pages": [
+        15
+      ],
+      "imageCount": 0
+    },
+    {
+      "slug": "7-nguyen-lieu-ma-truong",
+      "title": "7. Nguyên Liệu Mã Trường",
+      "level": "h3",
+      "file": "02-tai-nguyen/7-nguyen-lieu-ma-truong.md",
+      "pages": [
+        15,
+        16
+      ],
+      "imageCount": 0
+    },
+    {
+      "slug": "8-hon-tuong",
+      "title": "8. Hồn Tướng",
+      "level": "h3",
+      "file": "02-tai-nguyen/8-hon-tuong.md",
+      "pages": [
+        16
+      ],
+      "imageCount": 0
+    },
+    {
+      "slug": "9-nguyen-lieu-binh-chung",
+      "title": "9. Nguyên Liệu Binh Chủng",
+      "level": "h3",
+      "file": "02-tai-nguyen/9-nguyen-lieu-binh-chung.md",
+      "pages": [
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ],
+      "imageCount": 30
+    },
+    {
+      "slug": "10-binh-thu",
+      "title": "10. Binh Thư",
+      "level": "h3",
+      "file": "02-tai-nguyen/10-binh-thu.md",
+      "pages": [
+        23,
+        24,
+        25
+      ],
+      "imageCount": 0
+    },
+    {
+      "slug": "11-thong-soai",
+      "title": "11. Thống Soái",
+      "level": "h3",
+      "file": "02-tai-nguyen/11-thong-soai.md",
+      "pages": [
+        25,
+        26
+      ],
+      "imageCount": 0
+    },
+    {
+      "slug": "12-sach-ki-nang",
+      "title": "12. Sách Kĩ Năng",
+      "level": "h3",
+      "file": "02-tai-nguyen/12-sach-ki-nang.md",
+      "pages": [
+        26,
+        27,
+        28
+      ],
+      "imageCount": 17
+    },
+    {
+      "slug": "13-vu-khi-đac-biet---an-ke-thua",
+      "title": "13. Vũ Khí Đặc Biệt - Ấn Kế Thừa",
+      "level": "h3",
+      "file": "02-tai-nguyen/13-vu-khi-đac-biet---an-ke-thua.md",
+      "pages": [
+        28,
+        29,
+        30,
+        31,
+        32
+      ],
+      "imageCount": 9
+    },
+    {
+      "slug": "14-ngoc-đuc",
+      "title": "14. Ngọc Đúc",
+      "level": "h3",
+      "file": "02-tai-nguyen/14-ngoc-đuc.md",
+      "pages": [
+        32
+      ],
+      "imageCount": 0
+    }
+  ]
+}

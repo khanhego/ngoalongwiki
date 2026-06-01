@@ -1,0 +1,37 @@
+{
+  "title": "Wiki Ngoạ Long",
+  "tagline": "Cẩm nang cộng đồng",
+  "version": "1.0.0",
+  "lastEdited": "2026-06-01",
+  "lastEditedDisplay": "01/06/2026",
+  "footer": "Ngoạ Long VNG · Cẩm nang cộng đồng · Cập nhật 01/06/2026 · v1.0.0",
+  "collections": [
+    {
+      "id": "ban-mem",
+      "title": "Nội dung chung",
+      "description": "Bản Word gốc — tổng hợp đầy đủ theo giai đoạn chơi",
+      "icon": "📄",
+      "contentPath": "content/ban-mem",
+      "docCount": 9,
+      "sectionCount": 342
+    },
+    {
+      "id": "cam-nang-thuc-quoc",
+      "title": "Cẩm Nang Thục Quốc",
+      "description": "Tổng hợp từ các file PDF — hướng dẫn chi tiết từng chủ đề",
+      "icon": "📕",
+      "contentPath": "content/cam-nang-thuc-quoc",
+      "docCount": 13,
+      "sectionCount": 51
+    },
+    {
+      "id": "cam-nang-nang-cao",
+      "title": "Cẩm Nang Nâng Cao",
+      "description": "Kiến thức nâng cao cho thành chủ kinh nghiệm",
+      "icon": "📗",
+      "contentPath": "content/cam-nang-nang-cao",
+      "docCount": 1,
+      "sectionCount": 59
+    }
+  ]
+}

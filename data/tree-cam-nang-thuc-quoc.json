@@ -1,0 +1,481 @@
+{
+  "id": "cam-nang-thuc-quoc",
+  "title": "Cẩm Nang Thục Quốc",
+  "type": "root",
+  "children": [
+    {
+      "id": "00-loi-mo-dau",
+      "order": 0,
+      "title": "Lời Mở Đầu",
+      "type": "document",
+      "source": "0. LỜI MỞ ĐẦU.pdf",
+      "children": [
+        {
+          "id": "00-loi-mo-dau/loi-mo-đau",
+          "title": "Lời Mở Đầu",
+          "type": "section",
+          "level": "h1",
+          "file": "00-loi-mo-dau/loi-mo-đau.md"
+        }
+      ]
+    },
+    {
+      "id": "01-cam-nang-tan-thu",
+      "order": 1,
+      "title": "Cẩm Nang Tân Thủ",
+      "type": "document",
+      "source": "1. CẨM NANG TÂN THỦ.pdf",
+      "children": [
+        {
+          "id": "01-cam-nang-tan-thu/cam-nang-tan-thu",
+          "title": "Cẩm Nang Tân Thủ",
+          "type": "section",
+          "level": "h1",
+          "file": "01-cam-nang-tan-thu/cam-nang-tan-thu.md"
+        },
+        {
+          "id": "01-cam-nang-tan-thu/1-thanh-chinh-cap-110",
+          "title": "1. Thành chính cấp 110:",
+          "type": "section",
+          "level": "h3",
+          "file": "01-cam-nang-tan-thu/1-thanh-chinh-cap-110.md"
+        },
+        {
+          "id": "01-cam-nang-tan-thu/50-tai-lap-bang-bac-ngau-nhien-sap-xep-lai-cap-cua-cac-loai",
+          "title": "50. Tái lập bằng bạc ngẫu nhiên sắp xếp lại cấp của các loại",
+          "type": "section",
+          "level": "h3",
+          "file": "01-cam-nang-tan-thu/50-tai-lap-bang-bac-ngau-nhien-sap-xep-lai-cap-cua-cac-loai.md"
+        },
+        {
+          "id": "01-cam-nang-tan-thu/2-thanh-chinh-cap-129",
+          "title": "2. Thành chính cấp 129:",
+          "type": "section",
+          "level": "h3",
+          "file": "01-cam-nang-tan-thu/2-thanh-chinh-cap-129.md"
+        },
+        {
+          "id": "01-cam-nang-tan-thu/1-tuong-đai",
+          "title": "1. Tướng đài",
+          "type": "section",
+          "level": "h3",
+          "file": "01-cam-nang-tan-thu/1-tuong-đai.md"
+        },
+        {
+          "id": "01-cam-nang-tan-thu/2-cac-tinh-nang-cap-thanh-chinh",
+          "title": "2. Các tính năng cấp thành chính",
+          "type": "section",
+          "level": "h3",
+          "file": "01-cam-nang-tan-thu/2-cac-tinh-nang-cap-thanh-chinh.md"
+        },
+        {
+          "id": "01-cam-nang-tan-thu/3-chuan-bi-cho-giai-đoan-thuong-co",
+          "title": "3. Chuẩn bị cho Giai đoạn Thượng Cổ",
+          "type": "section",
+          "level": "h3",
+          "file": "01-cam-nang-tan-thu/3-chuan-bi-cho-giai-đoan-thuong-co.md"
+        },
+        {
+          "id": "01-cam-nang-tan-thu/1-cac-tinh-nang-cap-thanh-chinh",
+          "title": "1. Các Tính Năng Cấp Thành Chính",
+          "type": "section",
+          "level": "h3",
+          "file": "01-cam-nang-tan-thu/1-cac-tinh-nang-cap-thanh-chinh.md"
+        },
+        {
+          "id": "01-cam-nang-tan-thu/2-chuan-bi-cho-giai-đoan-thai-so",
+          "title": "2. Chuẩn Bị Cho Giai đoạn Thái Sơ:",
+          "type": "section",
+          "level": "h3",
+          "file": "01-cam-nang-tan-thu/2-chuan-bi-cho-giai-đoan-thai-so.md"
+        },
+        {
+          "id": "01-cam-nang-tan-thu/1-cac-tinh-nang-cap-thanh-chinh",
+          "title": "1. Các Tính Năng Cấp Thành Chính",
+          "type": "section",
+          "level": "h3",
+          "file": "01-cam-nang-tan-thu/1-cac-tinh-nang-cap-thanh-chinh.md"
+        },
+        {
+          "id": "01-cam-nang-tan-thu/2-chuan-bi-cho-cam-nang-nang-cao",
+          "title": "2. Chuẩn Bị Cho Cẩm Nang Nâng Cao",
+          "type": "section",
+          "level": "h3",
+          "file": "01-cam-nang-tan-thu/2-chuan-bi-cho-cam-nang-nang-cao.md"
+        }
+      ]
+    },
+    {
+      "id": "02-tai-nguyen",
+      "order": 2,
+      "title": "Tài Nguyên",
+      "type": "document",
+      "source": "2. Tài Nguyên.pdf",
+      "children": [
+        {
+          "id": "02-tai-nguyen/tai-nguyen",
+          "title": "Tài Nguyên",
+          "type": "section",
+          "level": "h1",
+          "file": "02-tai-nguyen/tai-nguyen.md"
+        },
+        {
+          "id": "02-tai-nguyen/1-bac",
+          "title": "1. Bạc",
+          "type": "section",
+          "level": "h3",
+          "file": "02-tai-nguyen/1-bac.md"
+        },
+        {
+          "id": "02-tai-nguyen/2-chien-cong",
+          "title": "2. Chiến Công",
+          "type": "section",
+          "level": "h3",
+          "file": "02-tai-nguyen/2-chien-cong.md"
+        },
+        {
+          "id": "02-tai-nguyen/3-vang",
+          "title": "3. Vàng",
+          "type": "section",
+          "level": "h3",
+          "file": "02-tai-nguyen/3-vang.md"
+        },
+        {
+          "id": "02-tai-nguyen/4-quan-lenh",
+          "title": "4. Quân Lệnh",
+          "type": "section",
+          "level": "h3",
+          "file": "02-tai-nguyen/4-quan-lenh.md"
+        },
+        {
+          "id": "02-tai-nguyen/5-nguyen-lieu-giac-ngo-tuong",
+          "title": "5. Nguyên liệu Giác Ngộ Tướng",
+          "type": "section",
+          "level": "h3",
+          "file": "02-tai-nguyen/5-nguyen-lieu-giac-ngo-tuong.md"
+        },
+        {
+          "id": "02-tai-nguyen/6-chien-tich",
+          "title": "6. Chiến Tích",
+          "type": "section",
+          "level": "h3",
+          "file": "02-tai-nguyen/6-chien-tich.md"
+        },
+        {
+          "id": "02-tai-nguyen/7-nguyen-lieu-ma-truong",
+          "title": "7. Nguyên Liệu Mã Trường",
+          "type": "section",
+          "level": "h3",
+          "file": "02-tai-nguyen/7-nguyen-lieu-ma-truong.md"
+        },
+        {
+          "id": "02-tai-nguyen/8-hon-tuong",
+          "title": "8. Hồn Tướng",
+          "type": "section",
+          "level": "h3",
+          "file": "02-tai-nguyen/8-hon-tuong.md"
+        },
+        {
+          "id": "02-tai-nguyen/9-nguyen-lieu-binh-chung",
+          "title": "9. Nguyên Liệu Binh Chủng",
+          "type": "section",
+          "level": "h3",
+          "file": "02-tai-nguyen/9-nguyen-lieu-binh-chung.md"
+        },
+        {
+          "id": "02-tai-nguyen/10-binh-thu",
+          "title": "10. Binh Thư",
+          "type": "section",
+          "level": "h3",
+          "file": "02-tai-nguyen/10-binh-thu.md"
+        },
+        {
+          "id": "02-tai-nguyen/11-thong-soai",
+          "title": "11. Thống Soái",
+          "type": "section",
+          "level": "h3",
+          "file": "02-tai-nguyen/11-thong-soai.md"
+        },
+        {
+          "id": "02-tai-nguyen/12-sach-ki-nang",
+          "title": "12. Sách Kĩ Năng",
+          "type": "section",
+          "level": "h3",
+          "file": "02-tai-nguyen/12-sach-ki-nang.md"
+        },
+        {
+          "id": "02-tai-nguyen/13-vu-khi-đac-biet---an-ke-thua",
+          "title": "13. Vũ Khí Đặc Biệt - Ấn Kế Thừa",
+          "type": "section",
+          "level": "h3",
+          "file": "02-tai-nguyen/13-vu-khi-đac-biet---an-ke-thua.md"
+        },
+        {
+          "id": "02-tai-nguyen/14-ngoc-đuc",
+          "title": "14. Ngọc Đúc",
+          "type": "section",
+          "level": "h3",
+          "file": "02-tai-nguyen/14-ngoc-đuc.md"
+        }
+      ]
+    },
+    {
+      "id": "03-trang-bi",
+      "order": 3,
+      "title": "Trang Bị",
+      "type": "document",
+      "source": "3. Trang Bị.pdf",
+      "children": [
+        {
+          "id": "03-trang-bi/trang-bi",
+          "title": "Trang Bị",
+          "type": "section",
+          "level": "h1",
+          "file": "03-trang-bi/trang-bi.md"
+        },
+        {
+          "id": "03-trang-bi/1-trang-bi",
+          "title": "1. Trang Bị:",
+          "type": "section",
+          "level": "h3",
+          "file": "03-trang-bi/1-trang-bi.md"
+        },
+        {
+          "id": "03-trang-bi/2-chien-ky",
+          "title": "2. Chiến Kỳ:",
+          "type": "section",
+          "level": "h3",
+          "file": "03-trang-bi/2-chien-ky.md"
+        },
+        {
+          "id": "03-trang-bi/3-bau-vat",
+          "title": "3. Báu Vật:",
+          "type": "section",
+          "level": "h3",
+          "file": "03-trang-bi/3-bau-vat.md"
+        }
+      ]
+    },
+    {
+      "id": "04-ma-truong",
+      "order": 4,
+      "title": "Mã Trường",
+      "type": "document",
+      "source": "4. Mã Trường.pdf",
+      "children": [
+        {
+          "id": "04-ma-truong/ma-truong",
+          "title": "Mã Trường",
+          "type": "section",
+          "level": "h1",
+          "file": "04-ma-truong/ma-truong.md"
+        }
+      ]
+    },
+    {
+      "id": "05-vo-tri-ki",
+      "order": 5,
+      "title": "Vợ Tri Kỉ",
+      "type": "document",
+      "source": "5. Vợ Tri Kỉ.pdf",
+      "children": [
+        {
+          "id": "05-vo-tri-ki/vo-tri-ki",
+          "title": "Vợ Tri Kỉ",
+          "type": "section",
+          "level": "h1",
+          "file": "05-vo-tri-ki/vo-tri-ki.md"
+        }
+      ]
+    },
+    {
+      "id": "06-thong-soai",
+      "order": 6,
+      "title": "Thống Soái",
+      "type": "document",
+      "source": "6. Thống Soái.pdf",
+      "children": [
+        {
+          "id": "06-thong-soai/thong-soai",
+          "title": "Thống Soái",
+          "type": "section",
+          "level": "h1",
+          "file": "06-thong-soai/thong-soai.md"
+        }
+      ]
+    },
+    {
+      "id": "07-vu-khi-dac-biet",
+      "order": 7,
+      "title": "Vũ Khí Đặc Biệt",
+      "type": "document",
+      "source": "7. Vũ Khí Đặc Biệt.pdf",
+      "children": [
+        {
+          "id": "07-vu-khi-dac-biet/vu-khi-đac-biet",
+          "title": "Vũ Khí Đặc Biệt",
+          "type": "section",
+          "level": "h1",
+          "file": "07-vu-khi-dac-biet/vu-khi-đac-biet.md"
+        }
+      ]
+    },
+    {
+      "id": "08-an-ke-thua",
+      "order": 8,
+      "title": "Ấn Kế Thừa",
+      "type": "document",
+      "source": "8. Ấn Kế Thừa.pdf",
+      "children": [
+        {
+          "id": "08-an-ke-thua/an-ke-thua",
+          "title": "Ấn Kế Thừa",
+          "type": "section",
+          "level": "h1",
+          "file": "08-an-ke-thua/an-ke-thua.md"
+        }
+      ]
+    },
+    {
+      "id": "09-quy-tu",
+      "order": 9,
+      "title": "Quý Tử 2.0",
+      "type": "document",
+      "source": "9. Quý Tử 2.0.pdf",
+      "children": [
+        {
+          "id": "09-quy-tu/quy-tu-20",
+          "title": "Quý Tử 2.0",
+          "type": "section",
+          "level": "h1",
+          "file": "09-quy-tu/quy-tu-20.md"
+        },
+        {
+          "id": "09-quy-tu/1-giai-đoan-hoc-van",
+          "title": "1. Giai đoạn Học Vấn",
+          "type": "section",
+          "level": "h3",
+          "file": "09-quy-tu/1-giai-đoan-hoc-van.md"
+        },
+        {
+          "id": "09-quy-tu/2-giai-đoan-trung-tu-thuc-tinh",
+          "title": "2. Giai đoạn Trùng Tu Thức Tỉnh",
+          "type": "section",
+          "level": "h3",
+          "file": "09-quy-tu/2-giai-đoan-trung-tu-thuc-tinh.md"
+        },
+        {
+          "id": "09-quy-tu/3-giai-đoan-ren-luyen",
+          "title": "3. Giai đoạn Rèn Luyện",
+          "type": "section",
+          "level": "h3",
+          "file": "09-quy-tu/3-giai-đoan-ren-luyen.md"
+        },
+        {
+          "id": "09-quy-tu/4-giai-đoan-chu-chinh",
+          "title": "4. Giai đoạn Chủ Chính",
+          "type": "section",
+          "level": "h3",
+          "file": "09-quy-tu/4-giai-đoan-chu-chinh.md"
+        },
+        {
+          "id": "09-quy-tu/5-giai-đoan-giam-quoc",
+          "title": "5. Giai đoạn Giám Quốc",
+          "type": "section",
+          "level": "h3",
+          "file": "09-quy-tu/5-giai-đoan-giam-quoc.md"
+        }
+      ]
+    },
+    {
+      "id": "10-su-kien",
+      "order": 10,
+      "title": "Sự Kiện",
+      "type": "document",
+      "source": "10. Sự Kiện.pdf",
+      "children": [
+        {
+          "id": "10-su-kien/su-kien",
+          "title": "Sự Kiện",
+          "type": "section",
+          "level": "h1",
+          "file": "10-su-kien/su-kien.md"
+        },
+        {
+          "id": "10-su-kien/1-su-kien-co-đinh",
+          "title": "1. Sự Kiện Cố Định:",
+          "type": "section",
+          "level": "h3",
+          "file": "10-su-kien/1-su-kien-co-đinh.md"
+        },
+        {
+          "id": "10-su-kien/2-su-kien-ngau-nhien",
+          "title": "2. Sự Kiện Ngẫu Nhiên:",
+          "type": "section",
+          "level": "h3",
+          "file": "10-su-kien/2-su-kien-ngau-nhien.md"
+        }
+      ]
+    },
+    {
+      "id": "12-tieu-chuan-cap-310",
+      "order": 12,
+      "title": "Tiêu Chuẩn Cấp 310",
+      "type": "document",
+      "source": "12. Tiêu Chuẩn Cấp 310.pdf",
+      "children": [
+        {
+          "id": "12-tieu-chuan-cap-310/tieu-chuan-cap-310",
+          "title": "Tiêu Chuẩn Cấp 310",
+          "type": "section",
+          "level": "h1",
+          "file": "12-tieu-chuan-cap-310/tieu-chuan-cap-310.md"
+        },
+        {
+          "id": "12-tieu-chuan-cap-310/1-dinh-phu",
+          "title": "1. Dinh Phủ:",
+          "type": "section",
+          "level": "h3",
+          "file": "12-tieu-chuan-cap-310/1-dinh-phu.md"
+        },
+        {
+          "id": "12-tieu-chuan-cap-310/2-tuong",
+          "title": "2. Tướng",
+          "type": "section",
+          "level": "h3",
+          "file": "12-tieu-chuan-cap-310/2-tuong.md"
+        },
+        {
+          "id": "12-tieu-chuan-cap-310/3-trang-bi",
+          "title": "3. Trang Bị:",
+          "type": "section",
+          "level": "h3",
+          "file": "12-tieu-chuan-cap-310/3-trang-bi.md"
+        },
+        {
+          "id": "12-tieu-chuan-cap-310/4-phu-sach-luoc-quan-su-phu",
+          "title": "4. Phủ Sách Lược – Quân Sự Phủ",
+          "type": "section",
+          "level": "h3",
+          "file": "12-tieu-chuan-cap-310/4-phu-sach-luoc-quan-su-phu.md"
+        }
+      ]
+    },
+    {
+      "id": "13-he-thong-buff",
+      "order": 13,
+      "title": "Hệ Thống Hiệu ứng (Buff)",
+      "type": "document",
+      "source": "Hệ thống hiệu ứng (buff).pdf",
+      "children": [
+        {
+          "id": "13-he-thong-buff/he-thong-hieu-ung-buff",
+          "title": "Hệ Thống Hiệu ứng (Buff)",
+          "type": "section",
+          "level": "h1",
+          "file": "13-he-thong-buff/he-thong-hieu-ung-buff.md"
+        }
+      ]
+    }
+  ]
+}

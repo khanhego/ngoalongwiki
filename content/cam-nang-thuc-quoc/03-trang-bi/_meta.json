@@ -1,0 +1,68 @@
+{
+  "order": 3,
+  "slug": "03-trang-bi",
+  "title": "Trang Bị",
+  "source": "3. Trang Bị.pdf",
+  "totalImages": 84,
+  "children": [
+    {
+      "slug": "trang-bi",
+      "title": "Trang Bị",
+      "level": "h1",
+      "file": "03-trang-bi/trang-bi.md",
+      "pages": [
+        1,
+        2
+      ],
+      "imageCount": 10
+    },
+    {
+      "slug": "1-trang-bi",
+      "title": "1. Trang Bị:",
+      "level": "h3",
+      "file": "03-trang-bi/1-trang-bi.md",
+      "pages": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      "imageCount": 65
+    },
+    {
+      "slug": "2-chien-ky",
+      "title": "2. Chiến Kỳ:",
+      "level": "h3",
+      "file": "03-trang-bi/2-chien-ky.md",
+      "pages": [
+        15,
+        16,
+        17
+      ],
+      "imageCount": 1
+    },
+    {
+      "slug": "3-bau-vat",
+      "title": "3. Báu Vật:",
+      "level": "h3",
+      "file": "03-trang-bi/3-bau-vat.md",
+      "pages": [
+        17,
+        18,
+        19,
+        20
+      ],
+      "imageCount": 8
+    }
+  ]
+}
