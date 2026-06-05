@@ -4,7 +4,7 @@
     "slug": "cam-nang-tong",
     "title": "Cẩm Nang Thục Quốc (Tổng hợp)",
     "source": "CẨM NANG THỤC QUỐC.docx",
-    "totalImages": 62,
+    "totalImages": 31,
     "children": [
       {
         "slug": "loi-mo-đau",
@@ -14,31 +14,10 @@
         "imageCount": 0
       },
       {
-        "slug": "loi-mo-đau",
-        "title": "Lời Mở Đầu",
-        "level": "h2",
-        "file": "cam-nang-tong/loi-mo-đau.md",
-        "imageCount": 0
-      },
-      {
         "slug": "giai-đoan-xanh-lam",
         "title": "Giai Đoạn Xanh Lam",
         "level": "h2",
         "file": "cam-nang-tong/giai-đoan-xanh-lam.md",
-        "imageCount": 0
-      },
-      {
-        "slug": "giai-đoan-xanh-lam",
-        "title": "Giai Đoạn Xanh Lam",
-        "level": "h2",
-        "file": "cam-nang-tong/giai-đoan-xanh-lam.md",
-        "imageCount": 0
-      },
-      {
-        "slug": "tuong-chu-luc-chu-thuong",
-        "title": "Tướng chủ lực: Chu Thương",
-        "level": "h2",
-        "file": "cam-nang-tong/tuong-chu-luc-chu-thuong.md",
         "imageCount": 0
       },
       {
@@ -56,20 +35,6 @@
         "imageCount": 1
       },
       {
-        "slug": "thanh-chinh-cap-110",
-        "title": "Thành chính cấp 110:",
-        "level": "h3",
-        "file": "cam-nang-tong/thanh-chinh-cap-110.md",
-        "imageCount": 1
-      },
-      {
-        "slug": "cac-chi-so-cua-trang-bi",
-        "title": "Các chỉ số của Trang bị:",
-        "level": "h3",
-        "file": "cam-nang-tong/cac-chi-so-cua-trang-bi.md",
-        "imageCount": 1
-      },
-      {
         "slug": "cac-chi-so-cua-trang-bi",
         "title": "Các chỉ số của Trang bị:",
         "level": "h3",
@@ -81,20 +46,6 @@
         "title": "Chu Thương là tướng hệ vật công:",
         "level": "h3",
         "file": "cam-nang-tong/chu-thuong-la-tuong-he-vat-cong.md",
-        "imageCount": 0
-      },
-      {
-        "slug": "chu-thuong-la-tuong-he-vat-cong",
-        "title": "Chu Thương là tướng hệ vật công:",
-        "level": "h3",
-        "file": "cam-nang-tong/chu-thuong-la-tuong-he-vat-cong.md",
-        "imageCount": 0
-      },
-      {
-        "slug": "cap-40-cho-quan-an",
-        "title": "Cấp 40: Chợ, Quân Ấn",
-        "level": "h2",
-        "file": "cam-nang-tong/cap-40-cho-quan-an.md",
         "imageCount": 0
       },
       {
@@ -112,31 +63,10 @@
         "imageCount": 1
       },
       {
-        "slug": "shop-mua-ban-tai-nguyen",
-        "title": "Shop: mua bán tài nguyên",
-        "level": "h2",
-        "file": "cam-nang-tong/shop-mua-ban-tai-nguyen.md",
-        "imageCount": 1
-      },
-      {
         "slug": "tuoc-vi-điem-tuong",
         "title": "Tước vị: điểm tướng",
         "level": "h2",
         "file": "cam-nang-tong/tuoc-vi-điem-tuong.md",
-        "imageCount": 0
-      },
-      {
-        "slug": "tuoc-vi-điem-tuong",
-        "title": "Tước vị: điểm tướng",
-        "level": "h2",
-        "file": "cam-nang-tong/tuoc-vi-điem-tuong.md",
-        "imageCount": 0
-      },
-      {
-        "slug": "thanh-tuu-nhan-điem-đau-truong",
-        "title": "Thành tựu: nhận “điểm đấu trường”",
-        "level": "h2",
-        "file": "cam-nang-tong/thanh-tuu-nhan-điem-đau-truong.md",
         "imageCount": 0
       },
       {
@@ -154,20 +84,6 @@
         "imageCount": 0
       },
       {
-        "slug": "doanh-trai-noi-chieu-mo-linh",
-        "title": "Doanh Trại: nơi chiêu mộ lính",
-        "level": "h2",
-        "file": "cam-nang-tong/doanh-trai-noi-chieu-mo-linh.md",
-        "imageCount": 0
-      },
-      {
-        "slug": "cap-100-đuc",
-        "title": "Cấp 100: Đúc",
-        "level": "h2",
-        "file": "cam-nang-tong/cap-100-đuc.md",
-        "imageCount": 0
-      },
-      {
         "slug": "cap-100-đuc",
         "title": "Cấp 100: Đúc",
         "level": "h2",
@@ -182,31 +98,10 @@
         "imageCount": 2
       },
       {
-        "slug": "cap-110-thap-thi-luyen",
-        "title": "Cấp 110: Tháp Thí Luyện",
-        "level": "h2",
-        "file": "cam-nang-tong/cap-110-thap-thi-luyen.md",
-        "imageCount": 2
-      },
-      {
         "slug": "thap-thi-luyen",
         "title": "Tháp thí luyện",
         "level": "h2",
         "file": "cam-nang-tong/thap-thi-luyen.md",
-        "imageCount": 0
-      },
-      {
-        "slug": "thap-thi-luyen",
-        "title": "Tháp thí luyện",
-        "level": "h2",
-        "file": "cam-nang-tong/thap-thi-luyen.md",
-        "imageCount": 0
-      },
-      {
-        "slug": "yen-tiec-khao-quan-nhieu-nhat",
-        "title": "Yến tiệc khao quân: nhiều nhất",
-        "level": "h2",
-        "file": "cam-nang-tong/yen-tiec-khao-quan-nhieu-nhat.md",
         "imageCount": 0
       },
       {
@@ -224,20 +119,6 @@
         "imageCount": 0
       },
       {
-        "slug": "thanh-chinh-cap-129",
-        "title": "Thành chính cấp 129:",
-        "level": "h3",
-        "file": "cam-nang-tong/thanh-chinh-cap-129.md",
-        "imageCount": 0
-      },
-      {
-        "slug": "chu-thuong-thi-tiep-tuc-tien",
-        "title": "Chu Thương thì tiếp tục tiến",
-        "level": "h2",
-        "file": "cam-nang-tong/chu-thuong-thi-tiep-tuc-tien.md",
-        "imageCount": 0
-      },
-      {
         "slug": "chu-thuong-thi-tiep-tuc-tien",
         "title": "Chu Thương thì tiếp tục tiến",
         "level": "h2",
@@ -252,31 +133,10 @@
         "imageCount": 1
       },
       {
-        "slug": "phai-thuong-nhan-tai-thuong-xa",
-        "title": "Phái thương nhân tại Thương xã",
-        "level": "h2",
-        "file": "cam-nang-tong/phai-thuong-nhan-tai-thuong-xa.md",
-        "imageCount": 1
-      },
-      {
         "slug": "giai-đoan-xanh-luc",
         "title": "Giai đoạn Xanh Lục",
         "level": "h2",
         "file": "cam-nang-tong/giai-đoan-xanh-luc.md",
-        "imageCount": 0
-      },
-      {
-        "slug": "giai-đoan-xanh-luc",
-        "title": "Giai đoạn Xanh Lục",
-        "level": "h2",
-        "file": "cam-nang-tong/giai-đoan-xanh-luc.md",
-        "imageCount": 0
-      },
-      {
-        "slug": "tuong-chu-luc-ma-van-loc",
-        "title": "Tướng chủ lực: Mã Vân Lộc",
-        "level": "h2",
-        "file": "cam-nang-tong/tuong-chu-luc-ma-van-loc.md",
         "imageCount": 0
       },
       {
@@ -294,32 +154,11 @@
         "imageCount": 2
       },
       {
-        "slug": "ma-truong",
-        "title": "Mã Trường:",
-        "level": "h3",
-        "file": "cam-nang-tong/ma-truong.md",
-        "imageCount": 2
-      },
-      {
         "slug": "ngay-mo-het",
         "title": "Ngày: Mở Hết",
         "level": "h2",
         "file": "cam-nang-tong/ngay-mo-het.md",
         "imageCount": 0
-      },
-      {
-        "slug": "ngay-mo-het",
-        "title": "Ngày: Mở Hết",
-        "level": "h2",
-        "file": "cam-nang-tong/ngay-mo-het.md",
-        "imageCount": 0
-      },
-      {
-        "slug": "xuong-mo-tu-ban",
-        "title": "Xưởng: Mở + Tự bán",
-        "level": "h2",
-        "file": "cam-nang-tong/xuong-mo-tu-ban.md",
-        "imageCount": 4
       },
       {
         "slug": "xuong-mo-tu-ban",
@@ -336,20 +175,6 @@
         "imageCount": 1
       },
       {
-        "slug": "cap-150",
-        "title": "Cấp 150:",
-        "level": "h3",
-        "file": "cam-nang-tong/cap-150.md",
-        "imageCount": 1
-      },
-      {
-        "slug": "thuong-tang-thoi-gian-kien-truc",
-        "title": "Thường: tăng Thời gian kiến trúc",
-        "level": "h2",
-        "file": "cam-nang-tong/thuong-tang-thoi-gian-kien-truc.md",
-        "imageCount": 0
-      },
-      {
         "slug": "thuong-tang-thoi-gian-kien-truc",
         "title": "Thường: tăng Thời gian kiến trúc",
         "level": "h2",
@@ -364,31 +189,10 @@
         "imageCount": 3
       },
       {
-        "slug": "cach-tang-cap-chua-cong",
-        "title": "Cách tăng cấp chúa công:",
-        "level": "h3",
-        "file": "cam-nang-tong/cach-tang-cap-chua-cong.md",
-        "imageCount": 3
-      },
-      {
         "slug": "giai-đoan-đo",
         "title": "Giai đoạn Đỏ",
         "level": "h2",
         "file": "cam-nang-tong/giai-đoan-đo.md",
-        "imageCount": 0
-      },
-      {
-        "slug": "giai-đoan-đo",
-        "title": "Giai đoạn Đỏ",
-        "level": "h2",
-        "file": "cam-nang-tong/giai-đoan-đo.md",
-        "imageCount": 0
-      },
-      {
-        "slug": "tuong-đai",
-        "title": "Tướng đài",
-        "level": "h2",
-        "file": "cam-nang-tong/tuong-đai.md",
         "imageCount": 0
       },
       {
@@ -406,20 +210,6 @@
         "imageCount": 2
       },
       {
-        "slug": "tuong-đai-gom-3-bo-phan-chinh",
-        "title": "Tướng đài gồm 3 bộ phận chính:",
-        "level": "h3",
-        "file": "cam-nang-tong/tuong-đai-gom-3-bo-phan-chinh.md",
-        "imageCount": 2
-      },
-      {
-        "slug": "cap-tuong-đai-tuong-ngoai-đai",
-        "title": "Cấp Tướng Đài – Tướng Ngoài Đài:",
-        "level": "h3",
-        "file": "cam-nang-tong/cap-tuong-đai-tuong-ngoai-đai.md",
-        "imageCount": 1
-      },
-      {
         "slug": "cap-tuong-đai-tuong-ngoai-đai",
         "title": "Cấp Tướng Đài – Tướng Ngoài Đài:",
         "level": "h3",
@@ -431,20 +221,6 @@
         "title": "Giản Ung",
         "level": "h2",
         "file": "cam-nang-tong/gian-ung.md",
-        "imageCount": 0
-      },
-      {
-        "slug": "gian-ung",
-        "title": "Giản Ung",
-        "level": "h2",
-        "file": "cam-nang-tong/gian-ung.md",
-        "imageCount": 0
-      },
-      {
-        "slug": "lu-thuc",
-        "title": "Lư Thực",
-        "level": "h2",
-        "file": "cam-nang-tong/lu-thuc.md",
         "imageCount": 0
       },
       {
@@ -462,31 +238,10 @@
         "imageCount": 3
       },
       {
-        "slug": "cap-190-giac-ngo-tuong-đo",
-        "title": "Cấp 190: Giác Ngộ Tướng đỏ",
-        "level": "h2",
-        "file": "cam-nang-tong/cap-190-giac-ngo-tuong-đo.md",
-        "imageCount": 3
-      },
-      {
         "slug": "tuu-quan",
         "title": "Tửu quán:",
         "level": "h3",
         "file": "cam-nang-tong/tuu-quan.md",
-        "imageCount": 1
-      },
-      {
-        "slug": "tuu-quan",
-        "title": "Tửu quán:",
-        "level": "h3",
-        "file": "cam-nang-tong/tuu-quan.md",
-        "imageCount": 1
-      },
-      {
-        "slug": "bang-thuoc-tinh-dang-duoi-đay",
-        "title": "Bảng Thuộc tính dạng dưới đây:",
-        "level": "h3",
-        "file": "cam-nang-tong/bang-thuoc-tinh-dang-duoi-đay.md",
         "imageCount": 1
       },
       {
@@ -504,32 +259,11 @@
         "imageCount": 1
       },
       {
-        "slug": "cap-210",
-        "title": "Cấp 210:",
-        "level": "h3",
-        "file": "cam-nang-tong/cap-210.md",
-        "imageCount": 1
-      },
-      {
         "slug": "truc-loc-chien-tich",
         "title": "Trục Lộc: Chiến tích",
         "level": "h2",
         "file": "cam-nang-tong/truc-loc-chien-tich.md",
         "imageCount": 0
-      },
-      {
-        "slug": "truc-loc-chien-tich",
-        "title": "Trục Lộc: Chiến tích",
-        "level": "h2",
-        "file": "cam-nang-tong/truc-loc-chien-tich.md",
-        "imageCount": 0
-      },
-      {
-        "slug": "quan-su-phu",
-        "title": "Quân Sự Phủ:",
-        "level": "h3",
-        "file": "cam-nang-tong/quan-su-phu.md",
-        "imageCount": 2
       },
       {
         "slug": "quan-su-phu",
@@ -546,20 +280,6 @@
         "imageCount": 1
       },
       {
-        "slug": "chuan-bi-cho-giai-đoan-tim",
-        "title": "Chuẩn bị cho Giai đoạn Tím",
-        "level": "h2",
-        "file": "cam-nang-tong/chuan-bi-cho-giai-đoan-tim.md",
-        "imageCount": 1
-      },
-      {
-        "slug": "giai-đoan-tim",
-        "title": "Giai đoạn Tím",
-        "level": "h2",
-        "file": "cam-nang-tong/giai-đoan-tim.md",
-        "imageCount": 0
-      },
-      {
         "slug": "giai-đoan-tim",
         "title": "Giai đoạn Tím",
         "level": "h2",
@@ -572,20 +292,6 @@
         "level": "h2",
         "file": "cam-nang-tong/cac-tinh-nang-cap-thanh-chinh.md",
         "imageCount": 3
-      },
-      {
-        "slug": "cac-tinh-nang-cap-thanh-chinh",
-        "title": "Các tính năng cấp thành chính",
-        "level": "h2",
-        "file": "cam-nang-tong/cac-tinh-nang-cap-thanh-chinh.md",
-        "imageCount": 3
-      },
-      {
-        "slug": "binh-thu-hap",
-        "title": "Binh thư hạp:",
-        "level": "h3",
-        "file": "cam-nang-tong/binh-thu-hap.md",
-        "imageCount": 0
       },
       {
         "slug": "binh-thu-hap",
@@ -601,7 +307,7 @@
     "slug": "tai-nguyen",
     "title": "Tài Nguyên",
     "source": "Tài Nguyên.docx",
-    "totalImages": 54,
+    "totalImages": 27,
     "children": [
       {
         "slug": "tai-nguyen",
@@ -611,32 +317,11 @@
         "imageCount": 0
       },
       {
-        "slug": "tai-nguyen",
-        "title": "TÀI NGUYÊN",
-        "level": "h2",
-        "file": "tai-nguyen/tai-nguyen.md",
-        "imageCount": 0
-      },
-      {
         "slug": "bac",
         "title": "Bạc",
         "level": "h2",
         "file": "tai-nguyen/bac.md",
         "imageCount": 0
-      },
-      {
-        "slug": "bac",
-        "title": "Bạc",
-        "level": "h2",
-        "file": "tai-nguyen/bac.md",
-        "imageCount": 0
-      },
-      {
-        "slug": "trung-thu-hang-ngay",
-        "title": "Trưng Thu Hàng Ngày:",
-        "level": "h3",
-        "file": "tai-nguyen/trung-thu-hang-ngay.md",
-        "imageCount": 1
       },
       {
         "slug": "trung-thu-hang-ngay",
@@ -653,31 +338,10 @@
         "imageCount": 3
       },
       {
-        "slug": "so-bac-1-lan-thu-phu-thuoc-vao",
-        "title": "Số bạc/ 1 lần thu phụ thuộc vào:",
-        "level": "h3",
-        "file": "tai-nguyen/so-bac-1-lan-thu-phu-thuoc-vao.md",
-        "imageCount": 3
-      },
-      {
         "slug": "mo-tai-nguyen",
         "title": "Mỏ Tài Nguyên:",
         "level": "h3",
         "file": "tai-nguyen/mo-tai-nguyen.md",
-        "imageCount": 1
-      },
-      {
-        "slug": "mo-tai-nguyen",
-        "title": "Mỏ Tài Nguyên:",
-        "level": "h3",
-        "file": "tai-nguyen/mo-tai-nguyen.md",
-        "imageCount": 1
-      },
-      {
-        "slug": "chu-mo-nguoi-ho-tro",
-        "title": "Chủ Mỏ > Người Hỗ Trợ",
-        "level": "h2",
-        "file": "tai-nguyen/chu-mo-nguoi-ho-tro.md",
         "imageCount": 1
       },
       {
@@ -695,20 +359,6 @@
         "imageCount": 1
       },
       {
-        "slug": "vo-khoi-thap",
-        "title": "Võ Khôi Tháp:",
-        "level": "h3",
-        "file": "tai-nguyen/vo-khoi-thap.md",
-        "imageCount": 1
-      },
-      {
-        "slug": "hai-cang",
-        "title": "Hải Cảng:",
-        "level": "h3",
-        "file": "tai-nguyen/hai-cang.md",
-        "imageCount": 1
-      },
-      {
         "slug": "hai-cang",
         "title": "Hải Cảng:",
         "level": "h3",
@@ -720,20 +370,6 @@
         "title": "Săn Bắn:",
         "level": "h3",
         "file": "tai-nguyen/san-ban.md",
-        "imageCount": 0
-      },
-      {
-        "slug": "san-ban",
-        "title": "Săn Bắn:",
-        "level": "h3",
-        "file": "tai-nguyen/san-ban.md",
-        "imageCount": 0
-      },
-      {
-        "slug": "luong-bac-rat-it",
-        "title": "Lượng Bạc rất ít",
-        "level": "h2",
-        "file": "tai-nguyen/luong-bac-rat-it.md",
         "imageCount": 0
       },
       {
@@ -751,20 +387,6 @@
         "imageCount": 0
       },
       {
-        "slug": "su-kien",
-        "title": "Sự Kiện:",
-        "level": "h3",
-        "file": "tai-nguyen/su-kien.md",
-        "imageCount": 0
-      },
-      {
-        "slug": "cuong-hoa",
-        "title": "Cường hoá:",
-        "level": "h3",
-        "file": "tai-nguyen/cuong-hoa.md",
-        "imageCount": 0
-      },
-      {
         "slug": "cuong-hoa",
         "title": "Cường hoá:",
         "level": "h3",
@@ -779,31 +401,10 @@
         "imageCount": 3
       },
       {
-        "slug": "đuc",
-        "title": "Đúc:",
-        "level": "h3",
-        "file": "tai-nguyen/đuc.md",
-        "imageCount": 3
-      },
-      {
         "slug": "ren",
         "title": "Rèn:",
         "level": "h3",
         "file": "tai-nguyen/ren.md",
-        "imageCount": 0
-      },
-      {
-        "slug": "ren",
-        "title": "Rèn:",
-        "level": "h3",
-        "file": "tai-nguyen/ren.md",
-        "imageCount": 0
-      },
-      {
-        "slug": "tang-cap-khac-van",
-        "title": "Tăng cấp Khắc Văn:",
-        "level": "h3",
-        "file": "tai-nguyen/tang-cap-khac-van.md",
         "imageCount": 0
       },
       {
@@ -821,32 +422,11 @@
         "imageCount": 0
       },
       {
-        "slug": "chien-cong",
-        "title": "Chiến Công",
-        "level": "h2",
-        "file": "tai-nguyen/chien-cong.md",
-        "imageCount": 0
-      },
-      {
         "slug": "cach-kiem-chien-cong",
         "title": "Cách kiếm Chiến Công:",
         "level": "h3",
         "file": "tai-nguyen/cach-kiem-chien-cong.md",
         "imageCount": 0
-      },
-      {
-        "slug": "cach-kiem-chien-cong",
-        "title": "Cách kiếm Chiến Công:",
-        "level": "h3",
-        "file": "tai-nguyen/cach-kiem-chien-cong.md",
-        "imageCount": 0
-      },
-      {
-        "slug": "giai-đoan-cap-thanh-chinh-1-239",
-        "title": "Giai đoạn Cấp Thành Chính 1-239:",
-        "level": "h3",
-        "file": "tai-nguyen/giai-đoan-cap-thanh-chinh-1-239.md",
-        "imageCount": 4
       },
       {
         "slug": "giai-đoan-cap-thanh-chinh-1-239",
@@ -863,31 +443,10 @@
         "imageCount": 2
       },
       {
-        "slug": "giai-đoan-cap-thanh-chinh-240-tro-đi",
-        "title": "Giai đoạn Cấp Thành Chính 240 trở đi:",
-        "level": "h3",
-        "file": "tai-nguyen/giai-đoan-cap-thanh-chinh-240-tro-đi.md",
-        "imageCount": 2
-      },
-      {
         "slug": "huong-dan-su-dung-chien-cong",
         "title": "Hướng dẫn sử dụng Chiến Công",
         "level": "h2",
         "file": "tai-nguyen/huong-dan-su-dung-chien-cong.md",
-        "imageCount": 0
-      },
-      {
-        "slug": "huong-dan-su-dung-chien-cong",
-        "title": "Hướng dẫn sử dụng Chiến Công",
-        "level": "h2",
-        "file": "tai-nguyen/huong-dan-su-dung-chien-cong.md",
-        "imageCount": 0
-      },
-      {
-        "slug": "vang",
-        "title": "Vàng",
-        "level": "h2",
-        "file": "tai-nguyen/vang.md",
         "imageCount": 0
       },
       {
@@ -905,31 +464,10 @@
         "imageCount": 0
       },
       {
-        "slug": "quan-lenh",
-        "title": "Quân Lệnh",
-        "level": "h2",
-        "file": "tai-nguyen/quan-lenh.md",
-        "imageCount": 0
-      },
-      {
         "slug": "cach-kiem",
         "title": "Cách kiếm:",
         "level": "h3",
         "file": "tai-nguyen/cach-kiem.md",
-        "imageCount": 0
-      },
-      {
-        "slug": "cach-kiem",
-        "title": "Cách kiếm:",
-        "level": "h3",
-        "file": "tai-nguyen/cach-kiem.md",
-        "imageCount": 0
-      },
-      {
-        "slug": "ruong-that-tinh",
-        "title": "Rương Thất Tinh",
-        "level": "h2",
-        "file": "tai-nguyen/ruong-that-tinh.md",
         "imageCount": 0
       },
       {
@@ -947,20 +485,6 @@
         "imageCount": 0
       },
       {
-        "slug": "huong-dan-su-dung",
-        "title": "Hướng dẫn sử dụng:",
-        "level": "h3",
-        "file": "tai-nguyen/huong-dan-su-dung.md",
-        "imageCount": 0
-      },
-      {
-        "slug": "nguyen-lieu-giac-ngo-tuong",
-        "title": "Nguyên liệu Giác Ngộ Tướng",
-        "level": "h2",
-        "file": "tai-nguyen/nguyen-lieu-giac-ngo-tuong.md",
-        "imageCount": 0
-      },
-      {
         "slug": "nguyen-lieu-giac-ngo-tuong",
         "title": "Nguyên liệu Giác Ngộ Tướng",
         "level": "h2",
@@ -975,31 +499,10 @@
         "imageCount": 1
       },
       {
-        "slug": "hoat-đong-hang-ngay",
-        "title": "Hoạt động hàng ngày:",
-        "level": "h3",
-        "file": "tai-nguyen/hoat-đong-hang-ngay.md",
-        "imageCount": 1
-      },
-      {
         "slug": "ruong-that-tinh",
         "title": "Rương Thất Tinh:",
         "level": "h3",
         "file": "tai-nguyen/ruong-that-tinh.md",
-        "imageCount": 0
-      },
-      {
-        "slug": "ruong-that-tinh",
-        "title": "Rương Thất Tinh:",
-        "level": "h3",
-        "file": "tai-nguyen/ruong-that-tinh.md",
-        "imageCount": 0
-      },
-      {
-        "slug": "chinh-chien-lenh",
-        "title": "Chinh Chiến Lệnh",
-        "level": "h2",
-        "file": "tai-nguyen/chinh-chien-lenh.md",
         "imageCount": 0
       },
       {
@@ -1017,31 +520,10 @@
         "imageCount": 0
       },
       {
-        "slug": "thuong-tuong",
-        "title": "Thưởng tướng:",
-        "level": "h3",
-        "file": "tai-nguyen/thuong-tuong.md",
-        "imageCount": 0
-      },
-      {
         "slug": "chien-tich",
         "title": "Chiến Tích",
         "level": "h2",
         "file": "tai-nguyen/chien-tich.md",
-        "imageCount": 0
-      },
-      {
-        "slug": "chien-tich",
-        "title": "Chiến Tích",
-        "level": "h2",
-        "file": "tai-nguyen/chien-tich.md",
-        "imageCount": 0
-      },
-      {
-        "slug": "hoat-đong-hang-ngay",
-        "title": "Hoạt động hàng ngày:",
-        "level": "h3",
-        "file": "tai-nguyen/hoat-đong-hang-ngay.md",
         "imageCount": 0
       },
       {
@@ -1059,31 +541,10 @@
         "imageCount": 0
       },
       {
-        "slug": "nang-đong",
-        "title": "Năng động:",
-        "level": "h3",
-        "file": "tai-nguyen/nang-đong.md",
-        "imageCount": 0
-      },
-      {
         "slug": "huong-dan-su-dung-chien-tich",
         "title": "Hướng dẫn Sử dụng Chiến Tích:",
         "level": "h3",
         "file": "tai-nguyen/huong-dan-su-dung-chien-tich.md",
-        "imageCount": 0
-      },
-      {
-        "slug": "huong-dan-su-dung-chien-tich",
-        "title": "Hướng dẫn Sử dụng Chiến Tích:",
-        "level": "h3",
-        "file": "tai-nguyen/huong-dan-su-dung-chien-tich.md",
-        "imageCount": 0
-      },
-      {
-        "slug": "nguyen-lieu-ma-truong",
-        "title": "Nguyên Liệu Mã Trường",
-        "level": "h2",
-        "file": "tai-nguyen/nguyen-lieu-ma-truong.md",
         "imageCount": 0
       },
       {
@@ -1101,31 +562,10 @@
         "imageCount": 0
       },
       {
-        "slug": "nang-đong",
-        "title": "Năng động",
-        "level": "h2",
-        "file": "tai-nguyen/nang-đong.md",
-        "imageCount": 0
-      },
-      {
         "slug": "ruong-that-tinh",
         "title": "Rương Thất Tinh:",
         "level": "h3",
         "file": "tai-nguyen/ruong-that-tinh.md",
-        "imageCount": 0
-      },
-      {
-        "slug": "ruong-that-tinh",
-        "title": "Rương Thất Tinh:",
-        "level": "h3",
-        "file": "tai-nguyen/ruong-that-tinh.md",
-        "imageCount": 0
-      },
-      {
-        "slug": "hon-tuong",
-        "title": "Hồn Tướng",
-        "level": "h2",
-        "file": "tai-nguyen/hon-tuong.md",
         "imageCount": 0
       },
       {
@@ -1143,31 +583,10 @@
         "imageCount": 0
       },
       {
-        "slug": "hoat-đong-ngay",
-        "title": "Hoạt động ngày:",
-        "level": "h3",
-        "file": "tai-nguyen/hoat-đong-ngay.md",
-        "imageCount": 0
-      },
-      {
         "slug": "huong-dan-su-dung-hon-tuong",
         "title": "Hướng dẫn Sử dụng Hồn tướng",
         "level": "h2",
         "file": "tai-nguyen/huong-dan-su-dung-hon-tuong.md",
-        "imageCount": 0
-      },
-      {
-        "slug": "huong-dan-su-dung-hon-tuong",
-        "title": "Hướng dẫn Sử dụng Hồn tướng",
-        "level": "h2",
-        "file": "tai-nguyen/huong-dan-su-dung-hon-tuong.md",
-        "imageCount": 0
-      },
-      {
-        "slug": "nguyen-lieu-binh-chung",
-        "title": "Nguyên Liệu Binh Chủng",
-        "level": "h2",
-        "file": "tai-nguyen/nguyen-lieu-binh-chung.md",
         "imageCount": 0
       },
       {
@@ -1185,31 +604,10 @@
         "imageCount": 0
       },
       {
-        "slug": "cap-2-cap-tuong-lv40",
-        "title": "Cấp 2: Cấp Tướng Lv40",
-        "level": "h2",
-        "file": "tai-nguyen/cap-2-cap-tuong-lv40.md",
-        "imageCount": 0
-      },
-      {
         "slug": "huong-dan-thu-thap-nguyen-lieu-binh-chung",
         "title": "Hướng dẫn Thu Thập Nguyên Liệu Binh Chủng:",
         "level": "h3",
         "file": "tai-nguyen/huong-dan-thu-thap-nguyen-lieu-binh-chung.md",
-        "imageCount": 0
-      },
-      {
-        "slug": "huong-dan-thu-thap-nguyen-lieu-binh-chung",
-        "title": "Hướng dẫn Thu Thập Nguyên Liệu Binh Chủng:",
-        "level": "h3",
-        "file": "tai-nguyen/huong-dan-thu-thap-nguyen-lieu-binh-chung.md",
-        "imageCount": 0
-      },
-      {
-        "slug": "binh-thu",
-        "title": "Binh Thư",
-        "level": "h2",
-        "file": "tai-nguyen/binh-thu.md",
         "imageCount": 0
       },
       {
@@ -1227,31 +625,10 @@
         "imageCount": 0
       },
       {
-        "slug": "binh-thu-can-hai-loai-nguyen-lieu",
-        "title": "Binh Thư cần hai loại nguyên liệu:",
-        "level": "h3",
-        "file": "tai-nguyen/binh-thu-can-hai-loai-nguyen-lieu.md",
-        "imageCount": 0
-      },
-      {
         "slug": "manh-binh-thu-tuong-ung",
         "title": "Mảnh Binh Thư tương ứng",
         "level": "h2",
         "file": "tai-nguyen/manh-binh-thu-tuong-ung.md",
-        "imageCount": 0
-      },
-      {
-        "slug": "manh-binh-thu-tuong-ung",
-        "title": "Mảnh Binh Thư tương ứng",
-        "level": "h2",
-        "file": "tai-nguyen/manh-binh-thu-tuong-ung.md",
-        "imageCount": 0
-      },
-      {
-        "slug": "cap-280-mo-binh-thu-hap",
-        "title": "Cấp 280 mở Binh Thư Hạp",
-        "level": "h2",
-        "file": "tai-nguyen/cap-280-mo-binh-thu-hap.md",
         "imageCount": 0
       },
       {
@@ -1269,20 +646,6 @@
         "imageCount": 0
       },
       {
-        "slug": "tieu-phi-nhan-qua",
-        "title": "Tiêu Phí Nhận Quà",
-        "level": "h2",
-        "file": "tai-nguyen/tieu-phi-nhan-qua.md",
-        "imageCount": 0
-      },
-      {
-        "slug": "mac-tu-5-sao",
-        "title": "Mặc Tử 5 sao",
-        "level": "h2",
-        "file": "tai-nguyen/mac-tu-5-sao.md",
-        "imageCount": 0
-      },
-      {
         "slug": "mac-tu-5-sao",
         "title": "Mặc Tử 5 sao",
         "level": "h2",
@@ -1294,20 +657,6 @@
         "title": "Thống Soái",
         "level": "h2",
         "file": "tai-nguyen/thong-soai.md",
-        "imageCount": 0
-      },
-      {
-        "slug": "thong-soai",
-        "title": "Thống Soái",
-        "level": "h2",
-        "file": "tai-nguyen/thong-soai.md",
-        "imageCount": 0
-      },
-      {
-        "slug": "hoat-đong-hang-ngay",
-        "title": "Hoạt động hàng ngày:",
-        "level": "h3",
-        "file": "tai-nguyen/hoat-đong-hang-ngay.md",
         "imageCount": 0
       },
       {
@@ -1325,31 +674,10 @@
         "imageCount": 0
       },
       {
-        "slug": "ruong-that-tinh",
-        "title": "Rương Thất Tinh",
-        "level": "h2",
-        "file": "tai-nguyen/ruong-that-tinh.md",
-        "imageCount": 0
-      },
-      {
         "slug": "nap",
         "title": "Nạp",
         "level": "h2",
         "file": "tai-nguyen/nap.md",
-        "imageCount": 0
-      },
-      {
-        "slug": "nap",
-        "title": "Nạp",
-        "level": "h2",
-        "file": "tai-nguyen/nap.md",
-        "imageCount": 0
-      },
-      {
-        "slug": "chinh-chien-lenh",
-        "title": "Chinh Chiến Lệnh",
-        "level": "h2",
-        "file": "tai-nguyen/chinh-chien-lenh.md",
         "imageCount": 0
       },
       {
@@ -1367,31 +695,10 @@
         "imageCount": 0
       },
       {
-        "slug": "giai-đoan-sau-cap-310",
-        "title": "Giai đoạn sau cấp 310:",
-        "level": "h3",
-        "file": "tai-nguyen/giai-đoan-sau-cap-310.md",
-        "imageCount": 0
-      },
-      {
         "slug": "di-toc-thiet-tuong-cap-10",
         "title": "Dị Tộc Thiết Tượng cấp 10",
         "level": "h2",
         "file": "tai-nguyen/di-toc-thiet-tuong-cap-10.md",
-        "imageCount": 0
-      },
-      {
-        "slug": "di-toc-thiet-tuong-cap-10",
-        "title": "Dị Tộc Thiết Tượng cấp 10",
-        "level": "h2",
-        "file": "tai-nguyen/di-toc-thiet-tuong-cap-10.md",
-        "imageCount": 0
-      },
-      {
-        "slug": "cho-vui",
-        "title": "Chợ vui",
-        "level": "h2",
-        "file": "tai-nguyen/cho-vui.md",
         "imageCount": 0
       },
       {
@@ -1409,31 +716,10 @@
         "imageCount": 0
       },
       {
-        "slug": "sach-ki-nang",
-        "title": "Sách Kĩ Năng",
-        "level": "h2",
-        "file": "tai-nguyen/sach-ki-nang.md",
-        "imageCount": 0
-      },
-      {
         "slug": "pho-ban-kho",
         "title": "Phó Bản Khó:",
         "level": "h3",
         "file": "tai-nguyen/pho-ban-kho.md",
-        "imageCount": 0
-      },
-      {
-        "slug": "pho-ban-kho",
-        "title": "Phó Bản Khó:",
-        "level": "h3",
-        "file": "tai-nguyen/pho-ban-kho.md",
-        "imageCount": 0
-      },
-      {
-        "slug": "huong-dan-su-dung-sach-ki-nang",
-        "title": "Hướng dẫn Sử Dụng Sách Kĩ Năng:",
-        "level": "h3",
-        "file": "tai-nguyen/huong-dan-su-dung-sach-ki-nang.md",
         "imageCount": 0
       },
       {
@@ -1451,32 +737,11 @@
         "imageCount": 1
       },
       {
-        "slug": "phai-cuc",
-        "title": "Phái Cực:",
-        "level": "h3",
-        "file": "tai-nguyen/phai-cuc.md",
-        "imageCount": 1
-      },
-      {
         "slug": "shop",
         "title": "Shop",
         "level": "h2",
         "file": "tai-nguyen/shop.md",
         "imageCount": 0
-      },
-      {
-        "slug": "shop",
-        "title": "Shop",
-        "level": "h2",
-        "file": "tai-nguyen/shop.md",
-        "imageCount": 0
-      },
-      {
-        "slug": "quoc-chien",
-        "title": "Quốc Chiến:",
-        "level": "h3",
-        "file": "tai-nguyen/quoc-chien.md",
-        "imageCount": 3
       },
       {
         "slug": "quoc-chien",
@@ -1493,32 +758,11 @@
         "imageCount": 1
       },
       {
-        "slug": "hoat-đong-hang-ngay",
-        "title": "Hoạt động hàng ngày:",
-        "level": "h3",
-        "file": "tai-nguyen/hoat-đong-hang-ngay.md",
-        "imageCount": 1
-      },
-      {
         "slug": "nap-đac-biet",
         "title": "Nạp Đặc Biệt",
         "level": "h2",
         "file": "tai-nguyen/nap-đac-biet.md",
         "imageCount": 0
-      },
-      {
-        "slug": "nap-đac-biet",
-        "title": "Nạp Đặc Biệt",
-        "level": "h2",
-        "file": "tai-nguyen/nap-đac-biet.md",
-        "imageCount": 0
-      },
-      {
-        "slug": "quoc-chien-tuong-tu-o-tren",
-        "title": "Quốc Chiến: tương tự ở trên",
-        "level": "h2",
-        "file": "tai-nguyen/quoc-chien-tuong-tu-o-tren.md",
-        "imageCount": 4
       },
       {
         "slug": "quoc-chien-tuong-tu-o-tren",
@@ -1535,31 +779,10 @@
         "imageCount": 0
       },
       {
-        "slug": "nap-lien-tuc",
-        "title": "Nạp Liên Tục",
-        "level": "h2",
-        "file": "tai-nguyen/nap-lien-tuc.md",
-        "imageCount": 0
-      },
-      {
         "slug": "ngoc-đuc",
         "title": "Ngọc Đúc",
         "level": "h2",
         "file": "tai-nguyen/ngoc-đuc.md",
-        "imageCount": 0
-      },
-      {
-        "slug": "ngoc-đuc",
-        "title": "Ngọc Đúc",
-        "level": "h2",
-        "file": "tai-nguyen/ngoc-đuc.md",
-        "imageCount": 0
-      },
-      {
-        "slug": "phai-bac",
-        "title": "Phái Bạc",
-        "level": "h2",
-        "file": "tai-nguyen/phai-bac.md",
         "imageCount": 0
       },
       {
@@ -1576,7 +799,7 @@
     "slug": "trang-bi",
     "title": "Trang Bị",
     "source": "Trang Bị.docx",
-    "totalImages": 33,
+    "totalImages": 18,
     "children": [
       {
         "slug": "trang-bi",
@@ -1587,20 +810,6 @@
       },
       {
         "slug": "trang-bi",
-        "title": "TRANG BỊ",
-        "level": "h2",
-        "file": "trang-bi/trang-bi.md",
-        "imageCount": 0
-      },
-      {
-        "slug": "trang-bi",
-        "title": "Trang Bị:",
-        "level": "h3",
-        "file": "trang-bi/trang-bi.md",
-        "imageCount": 1
-      },
-      {
-        "slug": "trang-bi",
         "title": "Trang Bị:",
         "level": "h3",
         "file": "trang-bi/trang-bi.md",
@@ -1611,20 +820,6 @@
         "title": "Thuộc Tính Của Trang Bị:",
         "level": "h3",
         "file": "trang-bi/thuoc-tinh-cua-trang-bi.md",
-        "imageCount": 0
-      },
-      {
-        "slug": "thuoc-tinh-cua-trang-bi",
-        "title": "Thuộc Tính Của Trang Bị:",
-        "level": "h3",
-        "file": "trang-bi/thuoc-tinh-cua-trang-bi.md",
-        "imageCount": 0
-      },
-      {
-        "slug": "chi-so-đuc",
-        "title": "Chỉ số Đúc:",
-        "level": "h3",
-        "file": "trang-bi/chi-so-đuc.md",
         "imageCount": 0
       },
       {
@@ -1642,31 +837,10 @@
         "imageCount": 0
       },
       {
-        "slug": "tluyen",
-        "title": "T.luyện:",
-        "level": "h3",
-        "file": "trang-bi/tluyen.md",
-        "imageCount": 0
-      },
-      {
         "slug": "khac-van-khac-an",
         "title": "Khắc Văn/ Khắc Ấn:",
         "level": "h3",
         "file": "trang-bi/khac-van-khac-an.md",
-        "imageCount": 0
-      },
-      {
-        "slug": "khac-van-khac-an",
-        "title": "Khắc Văn/ Khắc Ấn:",
-        "level": "h3",
-        "file": "trang-bi/khac-van-khac-an.md",
-        "imageCount": 0
-      },
-      {
-        "slug": "huong-dan-cuong-hoa",
-        "title": "Hướng dẫn Cường hoá",
-        "level": "h2",
-        "file": "trang-bi/huong-dan-cuong-hoa.md",
         "imageCount": 0
       },
       {
@@ -1684,31 +858,10 @@
         "imageCount": 0
       },
       {
-        "slug": "uu-tien-cuong-hoa",
-        "title": "Ưu tiên cường hoá",
-        "level": "h2",
-        "file": "trang-bi/uu-tien-cuong-hoa.md",
-        "imageCount": 0
-      },
-      {
         "slug": "dan-binh",
         "title": "Dẫn Binh:",
         "level": "h3",
         "file": "trang-bi/dan-binh.md",
-        "imageCount": 0
-      },
-      {
-        "slug": "dan-binh",
-        "title": "Dẫn Binh:",
-        "level": "h3",
-        "file": "trang-bi/dan-binh.md",
-        "imageCount": 0
-      },
-      {
-        "slug": "huong-dan-đuc",
-        "title": "Hướng dẫn Đúc:",
-        "level": "h3",
-        "file": "trang-bi/huong-dan-đuc.md",
         "imageCount": 0
       },
       {
@@ -1726,20 +879,6 @@
         "imageCount": 0
       },
       {
-        "slug": "đuc-bang-bac",
-        "title": "Đúc bằng bạc:",
-        "level": "h3",
-        "file": "trang-bi/đuc-bang-bac.md",
-        "imageCount": 0
-      },
-      {
-        "slug": "đuc-bang-ngoc",
-        "title": "Đúc bằng ngọc:",
-        "level": "h3",
-        "file": "trang-bi/đuc-bang-ngoc.md",
-        "imageCount": 3
-      },
-      {
         "slug": "đuc-bang-ngoc",
         "title": "Đúc bằng ngọc:",
         "level": "h3",
@@ -1751,20 +890,6 @@
         "title": "Yêu Cầu",
         "level": "h2",
         "file": "trang-bi/yeu-cau.md",
-        "imageCount": 0
-      },
-      {
-        "slug": "yeu-cau",
-        "title": "Yêu Cầu",
-        "level": "h2",
-        "file": "trang-bi/yeu-cau.md",
-        "imageCount": 0
-      },
-      {
-        "slug": "tinh-luyen-so",
-        "title": "Tinh Luyện Sơ",
-        "level": "h2",
-        "file": "trang-bi/tinh-luyen-so.md",
         "imageCount": 0
       },
       {
@@ -1782,20 +907,6 @@
         "imageCount": 0
       },
       {
-        "slug": "tinh-luyen-cao",
-        "title": "Tinh Luyện Cao",
-        "level": "h2",
-        "file": "trang-bi/tinh-luyen-cao.md",
-        "imageCount": 0
-      },
-      {
-        "slug": "đac-ky-co-the-nhan-tuong-tu-nhau",
-        "title": "Đặc Kỹ có thể nhận tương tự nhau:",
-        "level": "h3",
-        "file": "trang-bi/đac-ky-co-the-nhan-tuong-tu-nhau.md",
-        "imageCount": 1
-      },
-      {
         "slug": "đac-ky-co-the-nhan-tuong-tu-nhau",
         "title": "Đặc Kỹ có thể nhận tương tự nhau:",
         "level": "h3",
@@ -1807,20 +918,6 @@
         "title": "Hướng dẫn cách Tinh luyện:",
         "level": "h3",
         "file": "trang-bi/huong-dan-cach-tinh-luyen.md",
-        "imageCount": 0
-      },
-      {
-        "slug": "huong-dan-cach-tinh-luyen",
-        "title": "Hướng dẫn cách Tinh luyện:",
-        "level": "h3",
-        "file": "trang-bi/huong-dan-cach-tinh-luyen.md",
-        "imageCount": 0
-      },
-      {
-        "slug": "huong-dan-khac-van-khac-an",
-        "title": "Hướng dẫn Khắc Văn Khắc Ấn",
-        "level": "h2",
-        "file": "trang-bi/huong-dan-khac-van-khac-an.md",
         "imageCount": 0
       },
       {
@@ -1838,31 +935,10 @@
         "imageCount": 4
       },
       {
-        "slug": "van-tang-linh",
-        "title": "Văn: tăng lính",
-        "level": "h2",
-        "file": "trang-bi/van-tang-linh.md",
-        "imageCount": 4
-      },
-      {
         "slug": "su-dung",
         "title": "Sử Dụng:",
         "level": "h3",
         "file": "trang-bi/su-dung.md",
-        "imageCount": 0
-      },
-      {
-        "slug": "su-dung",
-        "title": "Sử Dụng:",
-        "level": "h3",
-        "file": "trang-bi/su-dung.md",
-        "imageCount": 0
-      },
-      {
-        "slug": "giai-đoan-cap-tchinh-1-210",
-        "title": "Giai đoạn cấp T.Chinh 1-210",
-        "level": "h2",
-        "file": "trang-bi/giai-đoan-cap-tchinh-1-210.md",
         "imageCount": 0
       },
       {
@@ -1880,31 +956,10 @@
         "imageCount": 0
       },
       {
-        "slug": "giai-đoan-210-tro-đi",
-        "title": "Giai đoạn 210 trở đi:",
-        "level": "h3",
-        "file": "trang-bi/giai-đoan-210-tro-đi.md",
-        "imageCount": 0
-      },
-      {
         "slug": "chien-ky",
         "title": "Chiến Kỳ:",
         "level": "h3",
         "file": "trang-bi/chien-ky.md",
-        "imageCount": 0
-      },
-      {
-        "slug": "chien-ky",
-        "title": "Chiến Kỳ:",
-        "level": "h3",
-        "file": "trang-bi/chien-ky.md",
-        "imageCount": 0
-      },
-      {
-        "slug": "thanh-long-tchinh-280",
-        "title": "Thanh Long: T.Chinh 280",
-        "level": "h2",
-        "file": "trang-bi/thanh-long-tchinh-280.md",
         "imageCount": 0
       },
       {
@@ -1922,31 +977,10 @@
         "imageCount": 1
       },
       {
-        "slug": "thuoc-tinh-chien-ky",
-        "title": "Thuộc Tính Chiến Kỳ:",
-        "level": "h3",
-        "file": "trang-bi/thuoc-tinh-chien-ky.md",
-        "imageCount": 1
-      },
-      {
         "slug": "loan-ton-vien",
         "title": "Loạn Tôn Viện",
         "level": "h2",
         "file": "trang-bi/loan-ton-vien.md",
-        "imageCount": 0
-      },
-      {
-        "slug": "loan-ton-vien",
-        "title": "Loạn Tôn Viện",
-        "level": "h2",
-        "file": "trang-bi/loan-ton-vien.md",
-        "imageCount": 0
-      },
-      {
-        "slug": "bau-vat",
-        "title": "Báu Vật:",
-        "level": "h3",
-        "file": "trang-bi/bau-vat.md",
         "imageCount": 0
       },
       {
@@ -1964,32 +998,11 @@
         "imageCount": 1
       },
       {
-        "slug": "ren-bao-vat",
-        "title": "Rèn Bảo Vật:",
-        "level": "h3",
-        "file": "trang-bi/ren-bao-vat.md",
-        "imageCount": 1
-      },
-      {
         "slug": "thuoc-tinh-toi-đa-3-dong",
         "title": "Thuộc tính tối đa 3 dòng",
         "level": "h2",
         "file": "trang-bi/thuoc-tinh-toi-đa-3-dong.md",
         "imageCount": 1
-      },
-      {
-        "slug": "thuoc-tinh-toi-đa-3-dong",
-        "title": "Thuộc tính tối đa 3 dòng",
-        "level": "h2",
-        "file": "trang-bi/thuoc-tinh-toi-đa-3-dong.md",
-        "imageCount": 1
-      },
-      {
-        "slug": "than-binh",
-        "title": "Thần Binh:",
-        "level": "h3",
-        "file": "trang-bi/than-binh.md",
-        "imageCount": 3
       },
       {
         "slug": "than-binh",
@@ -2012,7 +1025,7 @@
     "slug": "ma-truong",
     "title": "Mã Trường",
     "source": "Mã Trường.docx",
-    "totalImages": 27,
+    "totalImages": 22,
     "children": [
       {
         "slug": "index",
@@ -2020,20 +1033,6 @@
         "level": "h1",
         "file": "ma-truong/index.md",
         "imageCount": 4
-      },
-      {
-        "slug": "index",
-        "title": "Mã Trường",
-        "level": "h1",
-        "file": "ma-truong/index.md",
-        "imageCount": 4
-      },
-      {
-        "slug": "tong-quan-chien-ma",
-        "title": "Tổng quan chiến mã",
-        "level": "h2",
-        "file": "ma-truong/tong-quan-chien-ma.md",
-        "imageCount": 1
       },
       {
         "slug": "tong-quan-chien-ma",
@@ -2056,7 +1055,7 @@
     "slug": "vo-tri-ki",
     "title": "Vợ Tri Kỉ",
     "source": "Vợ Tri Kỉ.docx",
-    "totalImages": 12,
+    "totalImages": 6,
     "children": [
       {
         "slug": "the-tu---tri-ky---my-nu",
@@ -2066,31 +1065,10 @@
         "imageCount": 0
       },
       {
-        "slug": "the-tu---tri-ky---my-nu",
-        "title": "THÊ TỬ - TRI KỶ - MỸ NỮ",
-        "level": "h1",
-        "file": "vo-tri-ki/the-tu---tri-ky---my-nu.md",
-        "imageCount": 0
-      },
-      {
         "slug": "ve-thuoc-tinh-co-6-loai-thuoc-tinh",
         "title": "Về thuộc tính, có 6 loại thuộc tính:",
         "level": "h3",
         "file": "vo-tri-ki/ve-thuoc-tinh-co-6-loai-thuoc-tinh.md",
-        "imageCount": 0
-      },
-      {
-        "slug": "ve-thuoc-tinh-co-6-loai-thuoc-tinh",
-        "title": "Về thuộc tính, có 6 loại thuộc tính:",
-        "level": "h3",
-        "file": "vo-tri-ki/ve-thuoc-tinh-co-6-loai-thuoc-tinh.md",
-        "imageCount": 0
-      },
-      {
-        "slug": "ve-cap-đo",
-        "title": "Về cấp độ:",
-        "level": "h3",
-        "file": "vo-tri-ki/ve-cap-đo.md",
         "imageCount": 0
       },
       {
@@ -2108,32 +1086,11 @@
         "imageCount": 1
       },
       {
-        "slug": "ve-đo-than-mat",
-        "title": "Về độ thân mật:",
-        "level": "h3",
-        "file": "vo-tri-ki/ve-đo-than-mat.md",
-        "imageCount": 1
-      },
-      {
         "slug": "ti-di-ho-can-127-hđc",
         "title": "Ti Di Hồ cần 127 HĐC",
         "level": "h2",
         "file": "vo-tri-ki/ti-di-ho-can-127-hđc.md",
         "imageCount": 0
-      },
-      {
-        "slug": "ti-di-ho-can-127-hđc",
-        "title": "Ti Di Hồ cần 127 HĐC",
-        "level": "h2",
-        "file": "vo-tri-ki/ti-di-ho-can-127-hđc.md",
-        "imageCount": 0
-      },
-      {
-        "slug": "ve-tro-chuyen-voi-my-nu-tim-vang",
-        "title": "Về Trò Chuyện với Mỹ Nữ Tím/ Vàng:",
-        "level": "h3",
-        "file": "vo-tri-ki/ve-tro-chuyen-voi-my-nu-tim-vang.md",
-        "imageCount": 1
       },
       {
         "slug": "ve-tro-chuyen-voi-my-nu-tim-vang",
@@ -2150,32 +1107,11 @@
         "imageCount": 1
       },
       {
-        "slug": "ve-the-tu",
-        "title": "Về Thê Tử:",
-        "level": "h3",
-        "file": "vo-tri-ki/ve-the-tu.md",
-        "imageCount": 1
-      },
-      {
         "slug": "đo-09cap",
         "title": "Đỏ: 0.9%/cấp",
         "level": "h2",
         "file": "vo-tri-ki/đo-09cap.md",
         "imageCount": 2
-      },
-      {
-        "slug": "đo-09cap",
-        "title": "Đỏ: 0.9%/cấp",
-        "level": "h2",
-        "file": "vo-tri-ki/đo-09cap.md",
-        "imageCount": 2
-      },
-      {
-        "slug": "tu-cap-230",
-        "title": "Từ cấp 230:",
-        "level": "h3",
-        "file": "vo-tri-ki/tu-cap-230.md",
-        "imageCount": 1
       },
       {
         "slug": "tu-cap-230",
@@ -2191,7 +1127,7 @@
     "slug": "thong-soai",
     "title": "Thống Soái",
     "source": "Thống Soái.docx",
-    "totalImages": 14,
+    "totalImages": 8,
     "children": [
       {
         "slug": "thong-soai",
@@ -2201,32 +1137,11 @@
         "imageCount": 3
       },
       {
-        "slug": "thong-soai",
-        "title": "THỐNG SOÁI",
-        "level": "h2",
-        "file": "thong-soai/thong-soai.md",
-        "imageCount": 3
-      },
-      {
         "slug": "li-do-dung",
         "title": "Lí do dùng:",
         "level": "h3",
         "file": "thong-soai/li-do-dung.md",
         "imageCount": 0
-      },
-      {
-        "slug": "li-do-dung",
-        "title": "Lí do dùng:",
-        "level": "h3",
-        "file": "thong-soai/li-do-dung.md",
-        "imageCount": 0
-      },
-      {
-        "slug": "thoi-điem-dung",
-        "title": "Thời điểm dùng:",
-        "level": "h3",
-        "file": "thong-soai/thoi-điem-dung.md",
-        "imageCount": 3
       },
       {
         "slug": "thoi-điem-dung",
@@ -2249,15 +1164,8 @@
     "slug": "vu-khi-dac-biet",
     "title": "Vũ Khí Đặc Biệt",
     "source": "Vũ Khí Đặc Biệt.docx",
-    "totalImages": 7,
+    "totalImages": 4,
     "children": [
-      {
-        "slug": "vu-khi-đac-biet",
-        "title": "VŨ KHÍ ĐẶC BIỆT",
-        "level": "h2",
-        "file": "vu-khi-dac-biet/vu-khi-đac-biet.md",
-        "imageCount": 3
-      },
       {
         "slug": "vu-khi-đac-biet",
         "title": "VŨ KHÍ ĐẶC BIỆT",
@@ -2279,7 +1187,7 @@
     "slug": "an-ke-thua",
     "title": "Ấn Kế Thừa",
     "source": "Ấn Kế Thừa.docx",
-    "totalImages": 14,
+    "totalImages": 7,
     "children": [
       {
         "slug": "an-ke-thua",
@@ -2289,32 +1197,11 @@
         "imageCount": 1
       },
       {
-        "slug": "an-ke-thua",
-        "title": "ẤN KẾ THỪA",
-        "level": "h2",
-        "file": "an-ke-thua/an-ke-thua.md",
-        "imageCount": 1
-      },
-      {
         "slug": "vi-du-ma-van-loc",
         "title": "Ví dụ: Mã Vân Lộc:",
         "level": "h3",
         "file": "an-ke-thua/vi-du-ma-van-loc.md",
         "imageCount": 2
-      },
-      {
-        "slug": "vi-du-ma-van-loc",
-        "title": "Ví dụ: Mã Vân Lộc:",
-        "level": "h3",
-        "file": "an-ke-thua/vi-du-ma-van-loc.md",
-        "imageCount": 2
-      },
-      {
-        "slug": "cuong-hoa-an-ke-thua",
-        "title": "Cường Hoá Ấn Kế Thừa:",
-        "level": "h3",
-        "file": "an-ke-thua/cuong-hoa-an-ke-thua.md",
-        "imageCount": 4
       },
       {
         "slug": "cuong-hoa-an-ke-thua",
@@ -2330,7 +1217,7 @@
     "slug": "quy-tu",
     "title": "Quý Tử",
     "source": "Quý Tử.docx",
-    "totalImages": 6,
+    "totalImages": 3,
     "children": [
       {
         "slug": "quy-tu",
@@ -2340,20 +1227,6 @@
         "imageCount": 0
       },
       {
-        "slug": "quy-tu",
-        "title": "QUÝ TỬ",
-        "level": "h2",
-        "file": "quy-tu/quy-tu.md",
-        "imageCount": 0
-      },
-      {
-        "slug": "tong-quan",
-        "title": "Tổng quan:",
-        "level": "h3",
-        "file": "quy-tu/tong-quan.md",
-        "imageCount": 1
-      },
-      {
         "slug": "tong-quan",
         "title": "Tổng quan:",
         "level": "h3",
@@ -2365,20 +1238,6 @@
         "title": "Quyết Thắng Thiên Lý (Quách Gia)",
         "level": "h2",
         "file": "quy-tu/quyet-thang-thien-ly-quach-gia.md",
-        "imageCount": 0
-      },
-      {
-        "slug": "quyet-thang-thien-ly-quach-gia",
-        "title": "Quyết Thắng Thiên Lý (Quách Gia)",
-        "level": "h2",
-        "file": "quy-tu/quyet-thang-thien-ly-quach-gia.md",
-        "imageCount": 0
-      },
-      {
-        "slug": "loa-y-no-tap-hua-chu",
-        "title": "Loã Y Nộ Tập (Hứa Chử)",
-        "level": "h2",
-        "file": "quy-tu/loa-y-no-tap-hua-chu.md",
         "imageCount": 0
       },
       {
@@ -2396,32 +1255,11 @@
         "imageCount": 1
       },
       {
-        "slug": "giai-đoan-thuoc-tinh",
-        "title": "Giai đoạn Thuộc Tính",
-        "level": "h2",
-        "file": "quy-tu/giai-đoan-thuoc-tinh.md",
-        "imageCount": 1
-      },
-      {
         "slug": "hieu-qua-cao-mau-cam",
         "title": "Hiệu quả cao: Màu Cam",
         "level": "h2",
         "file": "quy-tu/hieu-qua-cao-mau-cam.md",
         "imageCount": 0
-      },
-      {
-        "slug": "hieu-qua-cao-mau-cam",
-        "title": "Hiệu quả cao: Màu Cam",
-        "level": "h2",
-        "file": "quy-tu/hieu-qua-cao-mau-cam.md",
-        "imageCount": 0
-      },
-      {
-        "slug": "chuy-truong-thanhu",
-        "title": "C.Huy Trưởng Thànhư\\",
-        "level": "h2",
-        "file": "quy-tu/chuy-truong-thanhu.md",
-        "imageCount": 1
       },
       {
         "slug": "chuy-truong-thanhu",
@@ -2438,31 +1276,10 @@
         "imageCount": 0
       },
       {
-        "slug": "lua-chon-su-phu",
-        "title": "Lựa Chọn Sư Phụ:",
-        "level": "h3",
-        "file": "quy-tu/lua-chon-su-phu.md",
-        "imageCount": 0
-      },
-      {
         "slug": "giai-đoan-ky-nang",
         "title": "Giai đoạn Kỹ Năng",
         "level": "h2",
         "file": "quy-tu/giai-đoan-ky-nang.md",
-        "imageCount": 0
-      },
-      {
-        "slug": "giai-đoan-ky-nang",
-        "title": "Giai đoạn Kỹ Năng",
-        "level": "h2",
-        "file": "quy-tu/giai-đoan-ky-nang.md",
-        "imageCount": 0
-      },
-      {
-        "slug": "he-ke-sach",
-        "title": "Hệ Kế Sách:",
-        "level": "h3",
-        "file": "quy-tu/he-ke-sach.md",
         "imageCount": 0
       },
       {

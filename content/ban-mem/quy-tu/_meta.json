@@ -3,7 +3,7 @@
   "slug": "quy-tu",
   "title": "Quý Tử",
   "source": "Quý Tử.docx",
-  "totalImages": 6,
+  "totalImages": 3,
   "children": [
     {
       "slug": "quy-tu",
@@ -13,20 +13,6 @@
       "imageCount": 0
     },
     {
-      "slug": "quy-tu",
-      "title": "QUÝ TỬ",
-      "level": "h2",
-      "file": "quy-tu/quy-tu.md",
-      "imageCount": 0
-    },
-    {
-      "slug": "tong-quan",
-      "title": "Tổng quan:",
-      "level": "h3",
-      "file": "quy-tu/tong-quan.md",
-      "imageCount": 1
-    },
-    {
       "slug": "tong-quan",
       "title": "Tổng quan:",
       "level": "h3",
@@ -38,20 +24,6 @@
       "title": "Quyết Thắng Thiên Lý (Quách Gia)",
       "level": "h2",
       "file": "quy-tu/quyet-thang-thien-ly-quach-gia.md",
-      "imageCount": 0
-    },
-    {
-      "slug": "quyet-thang-thien-ly-quach-gia",
-      "title": "Quyết Thắng Thiên Lý (Quách Gia)",
-      "level": "h2",
-      "file": "quy-tu/quyet-thang-thien-ly-quach-gia.md",
-      "imageCount": 0
-    },
-    {
-      "slug": "loa-y-no-tap-hua-chu",
-      "title": "Loã Y Nộ Tập (Hứa Chử)",
-      "level": "h2",
-      "file": "quy-tu/loa-y-no-tap-hua-chu.md",
       "imageCount": 0
     },
     {
@@ -69,32 +41,11 @@
       "imageCount": 1
     },
     {
-      "slug": "giai-đoan-thuoc-tinh",
-      "title": "Giai đoạn Thuộc Tính",
-      "level": "h2",
-      "file": "quy-tu/giai-đoan-thuoc-tinh.md",
-      "imageCount": 1
-    },
-    {
       "slug": "hieu-qua-cao-mau-cam",
       "title": "Hiệu quả cao: Màu Cam",
       "level": "h2",
       "file": "quy-tu/hieu-qua-cao-mau-cam.md",
       "imageCount": 0
-    },
-    {
-      "slug": "hieu-qua-cao-mau-cam",
-      "title": "Hiệu quả cao: Màu Cam",
-      "level": "h2",
-      "file": "quy-tu/hieu-qua-cao-mau-cam.md",
-      "imageCount": 0
-    },
-    {
-      "slug": "chuy-truong-thanhu",
-      "title": "C.Huy Trưởng Thànhư\\",
-      "level": "h2",
-      "file": "quy-tu/chuy-truong-thanhu.md",
-      "imageCount": 1
     },
     {
       "slug": "chuy-truong-thanhu",
@@ -111,31 +62,10 @@
       "imageCount": 0
     },
     {
-      "slug": "lua-chon-su-phu",
-      "title": "Lựa Chọn Sư Phụ:",
-      "level": "h3",
-      "file": "quy-tu/lua-chon-su-phu.md",
-      "imageCount": 0
-    },
-    {
       "slug": "giai-đoan-ky-nang",
       "title": "Giai đoạn Kỹ Năng",
       "level": "h2",
       "file": "quy-tu/giai-đoan-ky-nang.md",
-      "imageCount": 0
-    },
-    {
-      "slug": "giai-đoan-ky-nang",
-      "title": "Giai đoạn Kỹ Năng",
-      "level": "h2",
-      "file": "quy-tu/giai-đoan-ky-nang.md",
-      "imageCount": 0
-    },
-    {
-      "slug": "he-ke-sach",
-      "title": "Hệ Kế Sách:",
-      "level": "h3",
-      "file": "quy-tu/he-ke-sach.md",
       "imageCount": 0
     },
     {

@@ -3,7 +3,7 @@
   "slug": "cam-nang-tong",
   "title": "Cẩm Nang Thục Quốc (Tổng hợp)",
   "source": "CẨM NANG THỤC QUỐC.docx",
-  "totalImages": 62,
+  "totalImages": 31,
   "children": [
     {
       "slug": "loi-mo-đau",
@@ -13,31 +13,10 @@
       "imageCount": 0
     },
     {
-      "slug": "loi-mo-đau",
-      "title": "Lời Mở Đầu",
-      "level": "h2",
-      "file": "cam-nang-tong/loi-mo-đau.md",
-      "imageCount": 0
-    },
-    {
       "slug": "giai-đoan-xanh-lam",
       "title": "Giai Đoạn Xanh Lam",
       "level": "h2",
       "file": "cam-nang-tong/giai-đoan-xanh-lam.md",
-      "imageCount": 0
-    },
-    {
-      "slug": "giai-đoan-xanh-lam",
-      "title": "Giai Đoạn Xanh Lam",
-      "level": "h2",
-      "file": "cam-nang-tong/giai-đoan-xanh-lam.md",
-      "imageCount": 0
-    },
-    {
-      "slug": "tuong-chu-luc-chu-thuong",
-      "title": "Tướng chủ lực: Chu Thương",
-      "level": "h2",
-      "file": "cam-nang-tong/tuong-chu-luc-chu-thuong.md",
       "imageCount": 0
     },
     {
@@ -55,20 +34,6 @@
       "imageCount": 1
     },
     {
-      "slug": "thanh-chinh-cap-110",
-      "title": "Thành chính cấp 110:",
-      "level": "h3",
-      "file": "cam-nang-tong/thanh-chinh-cap-110.md",
-      "imageCount": 1
-    },
-    {
-      "slug": "cac-chi-so-cua-trang-bi",
-      "title": "Các chỉ số của Trang bị:",
-      "level": "h3",
-      "file": "cam-nang-tong/cac-chi-so-cua-trang-bi.md",
-      "imageCount": 1
-    },
-    {
       "slug": "cac-chi-so-cua-trang-bi",
       "title": "Các chỉ số của Trang bị:",
       "level": "h3",
@@ -80,20 +45,6 @@
       "title": "Chu Thương là tướng hệ vật công:",
       "level": "h3",
       "file": "cam-nang-tong/chu-thuong-la-tuong-he-vat-cong.md",
-      "imageCount": 0
-    },
-    {
-      "slug": "chu-thuong-la-tuong-he-vat-cong",
-      "title": "Chu Thương là tướng hệ vật công:",
-      "level": "h3",
-      "file": "cam-nang-tong/chu-thuong-la-tuong-he-vat-cong.md",
-      "imageCount": 0
-    },
-    {
-      "slug": "cap-40-cho-quan-an",
-      "title": "Cấp 40: Chợ, Quân Ấn",
-      "level": "h2",
-      "file": "cam-nang-tong/cap-40-cho-quan-an.md",
       "imageCount": 0
     },
     {
@@ -111,31 +62,10 @@
       "imageCount": 1
     },
     {
-      "slug": "shop-mua-ban-tai-nguyen",
-      "title": "Shop: mua bán tài nguyên",
-      "level": "h2",
-      "file": "cam-nang-tong/shop-mua-ban-tai-nguyen.md",
-      "imageCount": 1
-    },
-    {
       "slug": "tuoc-vi-điem-tuong",
       "title": "Tước vị: điểm tướng",
       "level": "h2",
       "file": "cam-nang-tong/tuoc-vi-điem-tuong.md",
-      "imageCount": 0
-    },
-    {
-      "slug": "tuoc-vi-điem-tuong",
-      "title": "Tước vị: điểm tướng",
-      "level": "h2",
-      "file": "cam-nang-tong/tuoc-vi-điem-tuong.md",
-      "imageCount": 0
-    },
-    {
-      "slug": "thanh-tuu-nhan-điem-đau-truong",
-      "title": "Thành tựu: nhận “điểm đấu trường”",
-      "level": "h2",
-      "file": "cam-nang-tong/thanh-tuu-nhan-điem-đau-truong.md",
       "imageCount": 0
     },
     {
@@ -153,20 +83,6 @@
       "imageCount": 0
     },
     {
-      "slug": "doanh-trai-noi-chieu-mo-linh",
-      "title": "Doanh Trại: nơi chiêu mộ lính",
-      "level": "h2",
-      "file": "cam-nang-tong/doanh-trai-noi-chieu-mo-linh.md",
-      "imageCount": 0
-    },
-    {
-      "slug": "cap-100-đuc",
-      "title": "Cấp 100: Đúc",
-      "level": "h2",
-      "file": "cam-nang-tong/cap-100-đuc.md",
-      "imageCount": 0
-    },
-    {
       "slug": "cap-100-đuc",
       "title": "Cấp 100: Đúc",
       "level": "h2",
@@ -181,31 +97,10 @@
       "imageCount": 2
     },
     {
-      "slug": "cap-110-thap-thi-luyen",
-      "title": "Cấp 110: Tháp Thí Luyện",
-      "level": "h2",
-      "file": "cam-nang-tong/cap-110-thap-thi-luyen.md",
-      "imageCount": 2
-    },
-    {
       "slug": "thap-thi-luyen",
       "title": "Tháp thí luyện",
       "level": "h2",
       "file": "cam-nang-tong/thap-thi-luyen.md",
-      "imageCount": 0
-    },
-    {
-      "slug": "thap-thi-luyen",
-      "title": "Tháp thí luyện",
-      "level": "h2",
-      "file": "cam-nang-tong/thap-thi-luyen.md",
-      "imageCount": 0
-    },
-    {
-      "slug": "yen-tiec-khao-quan-nhieu-nhat",
-      "title": "Yến tiệc khao quân: nhiều nhất",
-      "level": "h2",
-      "file": "cam-nang-tong/yen-tiec-khao-quan-nhieu-nhat.md",
       "imageCount": 0
     },
     {
@@ -223,20 +118,6 @@
       "imageCount": 0
     },
     {
-      "slug": "thanh-chinh-cap-129",
-      "title": "Thành chính cấp 129:",
-      "level": "h3",
-      "file": "cam-nang-tong/thanh-chinh-cap-129.md",
-      "imageCount": 0
-    },
-    {
-      "slug": "chu-thuong-thi-tiep-tuc-tien",
-      "title": "Chu Thương thì tiếp tục tiến",
-      "level": "h2",
-      "file": "cam-nang-tong/chu-thuong-thi-tiep-tuc-tien.md",
-      "imageCount": 0
-    },
-    {
       "slug": "chu-thuong-thi-tiep-tuc-tien",
       "title": "Chu Thương thì tiếp tục tiến",
       "level": "h2",
@@ -251,31 +132,10 @@
       "imageCount": 1
     },
     {
-      "slug": "phai-thuong-nhan-tai-thuong-xa",
-      "title": "Phái thương nhân tại Thương xã",
-      "level": "h2",
-      "file": "cam-nang-tong/phai-thuong-nhan-tai-thuong-xa.md",
-      "imageCount": 1
-    },
-    {
       "slug": "giai-đoan-xanh-luc",
       "title": "Giai đoạn Xanh Lục",
       "level": "h2",
       "file": "cam-nang-tong/giai-đoan-xanh-luc.md",
-      "imageCount": 0
-    },
-    {
-      "slug": "giai-đoan-xanh-luc",
-      "title": "Giai đoạn Xanh Lục",
-      "level": "h2",
-      "file": "cam-nang-tong/giai-đoan-xanh-luc.md",
-      "imageCount": 0
-    },
-    {
-      "slug": "tuong-chu-luc-ma-van-loc",
-      "title": "Tướng chủ lực: Mã Vân Lộc",
-      "level": "h2",
-      "file": "cam-nang-tong/tuong-chu-luc-ma-van-loc.md",
       "imageCount": 0
     },
     {
@@ -293,32 +153,11 @@
       "imageCount": 2
     },
     {
-      "slug": "ma-truong",
-      "title": "Mã Trường:",
-      "level": "h3",
-      "file": "cam-nang-tong/ma-truong.md",
-      "imageCount": 2
-    },
-    {
       "slug": "ngay-mo-het",
       "title": "Ngày: Mở Hết",
       "level": "h2",
       "file": "cam-nang-tong/ngay-mo-het.md",
       "imageCount": 0
-    },
-    {
-      "slug": "ngay-mo-het",
-      "title": "Ngày: Mở Hết",
-      "level": "h2",
-      "file": "cam-nang-tong/ngay-mo-het.md",
-      "imageCount": 0
-    },
-    {
-      "slug": "xuong-mo-tu-ban",
-      "title": "Xưởng: Mở + Tự bán",
-      "level": "h2",
-      "file": "cam-nang-tong/xuong-mo-tu-ban.md",
-      "imageCount": 4
     },
     {
       "slug": "xuong-mo-tu-ban",
@@ -335,20 +174,6 @@
       "imageCount": 1
     },
     {
-      "slug": "cap-150",
-      "title": "Cấp 150:",
-      "level": "h3",
-      "file": "cam-nang-tong/cap-150.md",
-      "imageCount": 1
-    },
-    {
-      "slug": "thuong-tang-thoi-gian-kien-truc",
-      "title": "Thường: tăng Thời gian kiến trúc",
-      "level": "h2",
-      "file": "cam-nang-tong/thuong-tang-thoi-gian-kien-truc.md",
-      "imageCount": 0
-    },
-    {
       "slug": "thuong-tang-thoi-gian-kien-truc",
       "title": "Thường: tăng Thời gian kiến trúc",
       "level": "h2",
@@ -363,31 +188,10 @@
       "imageCount": 3
     },
     {
-      "slug": "cach-tang-cap-chua-cong",
-      "title": "Cách tăng cấp chúa công:",
-      "level": "h3",
-      "file": "cam-nang-tong/cach-tang-cap-chua-cong.md",
-      "imageCount": 3
-    },
-    {
       "slug": "giai-đoan-đo",
       "title": "Giai đoạn Đỏ",
       "level": "h2",
       "file": "cam-nang-tong/giai-đoan-đo.md",
-      "imageCount": 0
-    },
-    {
-      "slug": "giai-đoan-đo",
-      "title": "Giai đoạn Đỏ",
-      "level": "h2",
-      "file": "cam-nang-tong/giai-đoan-đo.md",
-      "imageCount": 0
-    },
-    {
-      "slug": "tuong-đai",
-      "title": "Tướng đài",
-      "level": "h2",
-      "file": "cam-nang-tong/tuong-đai.md",
       "imageCount": 0
     },
     {
@@ -405,20 +209,6 @@
       "imageCount": 2
     },
     {
-      "slug": "tuong-đai-gom-3-bo-phan-chinh",
-      "title": "Tướng đài gồm 3 bộ phận chính:",
-      "level": "h3",
-      "file": "cam-nang-tong/tuong-đai-gom-3-bo-phan-chinh.md",
-      "imageCount": 2
-    },
-    {
-      "slug": "cap-tuong-đai-tuong-ngoai-đai",
-      "title": "Cấp Tướng Đài – Tướng Ngoài Đài:",
-      "level": "h3",
-      "file": "cam-nang-tong/cap-tuong-đai-tuong-ngoai-đai.md",
-      "imageCount": 1
-    },
-    {
       "slug": "cap-tuong-đai-tuong-ngoai-đai",
       "title": "Cấp Tướng Đài – Tướng Ngoài Đài:",
       "level": "h3",
@@ -430,20 +220,6 @@
       "title": "Giản Ung",
       "level": "h2",
       "file": "cam-nang-tong/gian-ung.md",
-      "imageCount": 0
-    },
-    {
-      "slug": "gian-ung",
-      "title": "Giản Ung",
-      "level": "h2",
-      "file": "cam-nang-tong/gian-ung.md",
-      "imageCount": 0
-    },
-    {
-      "slug": "lu-thuc",
-      "title": "Lư Thực",
-      "level": "h2",
-      "file": "cam-nang-tong/lu-thuc.md",
       "imageCount": 0
     },
     {
@@ -461,31 +237,10 @@
       "imageCount": 3
     },
     {
-      "slug": "cap-190-giac-ngo-tuong-đo",
-      "title": "Cấp 190: Giác Ngộ Tướng đỏ",
-      "level": "h2",
-      "file": "cam-nang-tong/cap-190-giac-ngo-tuong-đo.md",
-      "imageCount": 3
-    },
-    {
       "slug": "tuu-quan",
       "title": "Tửu quán:",
       "level": "h3",
       "file": "cam-nang-tong/tuu-quan.md",
-      "imageCount": 1
-    },
-    {
-      "slug": "tuu-quan",
-      "title": "Tửu quán:",
-      "level": "h3",
-      "file": "cam-nang-tong/tuu-quan.md",
-      "imageCount": 1
-    },
-    {
-      "slug": "bang-thuoc-tinh-dang-duoi-đay",
-      "title": "Bảng Thuộc tính dạng dưới đây:",
-      "level": "h3",
-      "file": "cam-nang-tong/bang-thuoc-tinh-dang-duoi-đay.md",
       "imageCount": 1
     },
     {
@@ -503,32 +258,11 @@
       "imageCount": 1
     },
     {
-      "slug": "cap-210",
-      "title": "Cấp 210:",
-      "level": "h3",
-      "file": "cam-nang-tong/cap-210.md",
-      "imageCount": 1
-    },
-    {
       "slug": "truc-loc-chien-tich",
       "title": "Trục Lộc: Chiến tích",
       "level": "h2",
       "file": "cam-nang-tong/truc-loc-chien-tich.md",
       "imageCount": 0
-    },
-    {
-      "slug": "truc-loc-chien-tich",
-      "title": "Trục Lộc: Chiến tích",
-      "level": "h2",
-      "file": "cam-nang-tong/truc-loc-chien-tich.md",
-      "imageCount": 0
-    },
-    {
-      "slug": "quan-su-phu",
-      "title": "Quân Sự Phủ:",
-      "level": "h3",
-      "file": "cam-nang-tong/quan-su-phu.md",
-      "imageCount": 2
     },
     {
       "slug": "quan-su-phu",
@@ -545,20 +279,6 @@
       "imageCount": 1
     },
     {
-      "slug": "chuan-bi-cho-giai-đoan-tim",
-      "title": "Chuẩn bị cho Giai đoạn Tím",
-      "level": "h2",
-      "file": "cam-nang-tong/chuan-bi-cho-giai-đoan-tim.md",
-      "imageCount": 1
-    },
-    {
-      "slug": "giai-đoan-tim",
-      "title": "Giai đoạn Tím",
-      "level": "h2",
-      "file": "cam-nang-tong/giai-đoan-tim.md",
-      "imageCount": 0
-    },
-    {
       "slug": "giai-đoan-tim",
       "title": "Giai đoạn Tím",
       "level": "h2",
@@ -571,20 +291,6 @@
       "level": "h2",
       "file": "cam-nang-tong/cac-tinh-nang-cap-thanh-chinh.md",
       "imageCount": 3
-    },
-    {
-      "slug": "cac-tinh-nang-cap-thanh-chinh",
-      "title": "Các tính năng cấp thành chính",
-      "level": "h2",
-      "file": "cam-nang-tong/cac-tinh-nang-cap-thanh-chinh.md",
-      "imageCount": 3
-    },
-    {
-      "slug": "binh-thu-hap",
-      "title": "Binh thư hạp:",
-      "level": "h3",
-      "file": "cam-nang-tong/binh-thu-hap.md",
-      "imageCount": 0
     },
     {
       "slug": "binh-thu-hap",

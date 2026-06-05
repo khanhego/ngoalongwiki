@@ -129,7 +129,6 @@ def extract_docx(docx_path: Path, collection: str, catalog_entry: dict, content_
                     current["title"] = title
                     current["slug"] = slugify(title)
                 else:
-                    flush_section()
                     start_section(level, title)
             else:
                 text_buffer.append(text)

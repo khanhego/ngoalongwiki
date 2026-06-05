@@ -3,7 +3,7 @@
   "slug": "vo-tri-ki",
   "title": "Vợ Tri Kỉ",
   "source": "Vợ Tri Kỉ.docx",
-  "totalImages": 12,
+  "totalImages": 6,
   "children": [
     {
       "slug": "the-tu---tri-ky---my-nu",
@@ -13,31 +13,10 @@
       "imageCount": 0
     },
     {
-      "slug": "the-tu---tri-ky---my-nu",
-      "title": "THÊ TỬ - TRI KỶ - MỸ NỮ",
-      "level": "h1",
-      "file": "vo-tri-ki/the-tu---tri-ky---my-nu.md",
-      "imageCount": 0
-    },
-    {
       "slug": "ve-thuoc-tinh-co-6-loai-thuoc-tinh",
       "title": "Về thuộc tính, có 6 loại thuộc tính:",
       "level": "h3",
       "file": "vo-tri-ki/ve-thuoc-tinh-co-6-loai-thuoc-tinh.md",
-      "imageCount": 0
-    },
-    {
-      "slug": "ve-thuoc-tinh-co-6-loai-thuoc-tinh",
-      "title": "Về thuộc tính, có 6 loại thuộc tính:",
-      "level": "h3",
-      "file": "vo-tri-ki/ve-thuoc-tinh-co-6-loai-thuoc-tinh.md",
-      "imageCount": 0
-    },
-    {
-      "slug": "ve-cap-đo",
-      "title": "Về cấp độ:",
-      "level": "h3",
-      "file": "vo-tri-ki/ve-cap-đo.md",
       "imageCount": 0
     },
     {
@@ -55,32 +34,11 @@
       "imageCount": 1
     },
     {
-      "slug": "ve-đo-than-mat",
-      "title": "Về độ thân mật:",
-      "level": "h3",
-      "file": "vo-tri-ki/ve-đo-than-mat.md",
-      "imageCount": 1
-    },
-    {
       "slug": "ti-di-ho-can-127-hđc",
       "title": "Ti Di Hồ cần 127 HĐC",
       "level": "h2",
       "file": "vo-tri-ki/ti-di-ho-can-127-hđc.md",
       "imageCount": 0
-    },
-    {
-      "slug": "ti-di-ho-can-127-hđc",
-      "title": "Ti Di Hồ cần 127 HĐC",
-      "level": "h2",
-      "file": "vo-tri-ki/ti-di-ho-can-127-hđc.md",
-      "imageCount": 0
-    },
-    {
-      "slug": "ve-tro-chuyen-voi-my-nu-tim-vang",
-      "title": "Về Trò Chuyện với Mỹ Nữ Tím/ Vàng:",
-      "level": "h3",
-      "file": "vo-tri-ki/ve-tro-chuyen-voi-my-nu-tim-vang.md",
-      "imageCount": 1
     },
     {
       "slug": "ve-tro-chuyen-voi-my-nu-tim-vang",
@@ -97,32 +55,11 @@
       "imageCount": 1
     },
     {
-      "slug": "ve-the-tu",
-      "title": "Về Thê Tử:",
-      "level": "h3",
-      "file": "vo-tri-ki/ve-the-tu.md",
-      "imageCount": 1
-    },
-    {
       "slug": "đo-09cap",
       "title": "Đỏ: 0.9%/cấp",
       "level": "h2",
       "file": "vo-tri-ki/đo-09cap.md",
       "imageCount": 2
-    },
-    {
-      "slug": "đo-09cap",
-      "title": "Đỏ: 0.9%/cấp",
-      "level": "h2",
-      "file": "vo-tri-ki/đo-09cap.md",
-      "imageCount": 2
-    },
-    {
-      "slug": "tu-cap-230",
-      "title": "Từ cấp 230:",
-      "level": "h3",
-      "file": "vo-tri-ki/tu-cap-230.md",
-      "imageCount": 1
     },
     {
       "slug": "tu-cap-230",

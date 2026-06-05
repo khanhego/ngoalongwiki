@@ -3,7 +3,7 @@
   "slug": "ma-truong",
   "title": "Mã Trường",
   "source": "Mã Trường.docx",
-  "totalImages": 27,
+  "totalImages": 22,
   "children": [
     {
       "slug": "index",
@@ -11,20 +11,6 @@
       "level": "h1",
       "file": "ma-truong/index.md",
       "imageCount": 4
-    },
-    {
-      "slug": "index",
-      "title": "Mã Trường",
-      "level": "h1",
-      "file": "ma-truong/index.md",
-      "imageCount": 4
-    },
-    {
-      "slug": "tong-quan-chien-ma",
-      "title": "Tổng quan chiến mã",
-      "level": "h2",
-      "file": "ma-truong/tong-quan-chien-ma.md",
-      "imageCount": 1
     },
     {
       "slug": "tong-quan-chien-ma",
